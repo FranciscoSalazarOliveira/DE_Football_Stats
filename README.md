@@ -53,7 +53,7 @@ The main steps followed were:
 # Reproducing the Repo
 The repo includes all code used and the source CSVs, and therefore should allow for easy reproducibility.
 - terraform folder includes the files used for creating the necessary infrastructure in GCP. Variables needed can be checked in file "variables-example.tf"
-- The CSV files included are ready to be placed in a bucket, and included is also the the code used to read these files and load the data into BigQuery (python/cloud_storage_to_bigquery.ipynb)
+- The CSV files included are ready to be placed in a bucket, and included is also the the code used to read these files and load the data into BigQuery (``python/cloud_storage_to_bigquery.ipynb``)
 
 
 I include the code I used to read these files and load the data into BigQuery (file )
