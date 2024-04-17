@@ -1,13 +1,13 @@
 # Football Stats - Data Engineering Project
 
 
-# Introduction
+## Introduction
 The Project consists in the analysis of football/soccer results of the main european leagues in seasons 2020/2021 and 2021/2022.
 Starting from a source of CSV files with match results by season, the final goal is calculating some statistics regarding theses matches, as well as building league tables based on match results.
 
 
 
-# Tools/Technologies used
+## Tools/Technologies used
 
 1. Python
 2. Terraform
@@ -16,7 +16,7 @@ Starting from a source of CSV files with match results by season, the final goal
 5. metabase
 
 
-# Pipeline
+## Pipeline
 
 ![alt text](images/image-1.png)
 
@@ -28,7 +28,7 @@ The main steps followed were:
 5. Used metabase to connect to BigQuery and create a dashboard with match stats and league tables
 
 
-# Dashboard
+## Dashboard
 
 ![alt text](images/image-2.png)
 
@@ -39,7 +39,7 @@ The main steps followed were:
 ![alt text](images/image-5.png)
 
 
-# Reproducing the Repo
+## Reproducing the Repo
 The repo includes all code used and the source CSVs, and therefore should allow for easy reproducibility.
 - terraform folder includes the files used for creating the necessary infrastructure in GCP. Variables needed can be checked in file ``variables-example.tf``
 - the CSV files included are ready to be placed in a bucket in Cloud Storage
