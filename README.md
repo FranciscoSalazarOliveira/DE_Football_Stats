@@ -33,29 +33,25 @@ The main steps followed were:
 4. Used dbt to read match results from BigQuery, calculating league tables, and upload them back as a View to BigQuery
 5. Used metabase to connect to BigQuery and create a dashboard with match stats and league tables
 
-![alt text](image-1.png)
 
-
+![alt text](images/image-1.png)
 
 # Dashboard
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 
 
 
 # Reproducing the Repo
 The repo includes all code used and the source CSVs, and therefore should allow for easy reproducibility.
-- terraform folder includes the files used for creating the necessary infrastructure in GCP. Variables needed can be checked in file "variables-example.tf"
-- The CSV files included are ready to be placed in a bucket, and included is also the the code used to read these files and load the data into BigQuery (``python/cloud_storage_to_bigquery.ipynb``)
-
-
-I include the code I used to read these files and load the data into BigQuery (file )
-After the data is BigQuery, dbt can be used to calculate the league tables. The model used is included in dbt/models/league_tables.sql.
-Finally
+- terraform folder includes the files used for creating the necessary infrastructure in GCP. Variables needed can be checked in file ``variables-example.tf``
+- the CSV files included are ready to be placed in a bucket in Cloud Storage
+- included is also the the code used to read these files and load the data into BigQuery (``python/cloud_storage_to_bigquery.ipynb``)
+- dbt model used to create league tables, based on match results, is included in ``dbt/models/league_tables.sql``
