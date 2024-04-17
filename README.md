@@ -1,4 +1,4 @@
-Football Stats - Data Engineering Project
+# Football Stats - Data Engineering Project
 
 
 # Introduction
@@ -10,8 +10,6 @@ However, in order to allow the reproducibility, I include in this repo the 2 CSV
 The format of the CSV files is quite simple, and therefore it would be easy to get data for more seasons/leagues from other sources if needed.
 
 
-
-
 # Tools/Technologies used
 
 1. Python
@@ -21,11 +19,10 @@ The format of the CSV files is quite simple, and therefore it would be easy to g
 5. metabase
 
 
-
-
-
-
 # Pipeline
+
+![alt text](images/image-1.png)
+
 The main steps followed were:
 1. Used Terraform to create infrastructure (Cloud Storage and BigQuery) in GCP
 2. Uploaded CSV files with match results (by season) to Cloud Storage bucket
@@ -33,8 +30,6 @@ The main steps followed were:
 4. Used dbt to read match results from BigQuery, calculating league tables, and upload them back as a View to BigQuery
 5. Used metabase to connect to BigQuery and create a dashboard with match stats and league tables
 
-
-![alt text](images/image-1.png)
 
 # Dashboard
 
@@ -45,8 +40,6 @@ The main steps followed were:
 ![alt text](images/image-4.png)
 
 ![alt text](images/image-5.png)
-
-
 
 
 # Reproducing the Repo
