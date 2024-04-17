@@ -1,0 +1,2133 @@
+,fixture.date,league.name,league.country,league.season,teams.home.name,teams.away.name,score.fulltime.home,score.fulltime.away,winner
+4276,2022-08-05T20:00:00+01:00,Premier League,England,2022,Crystal Palace,Arsenal,0,2,2
+4277,2022-08-06T12:30:00+01:00,Premier League,England,2022,Fulham,Liverpool,2,2,0
+4278,2022-08-06T15:00:00+01:00,Premier League,England,2022,Bournemouth,Aston Villa,2,0,1
+4279,2022-08-06T15:00:00+01:00,Premier League,England,2022,Leeds,Wolves,2,1,1
+4280,2022-08-07T14:00:00+01:00,Premier League,England,2022,Leicester,Brentford,2,2,0
+4281,2022-08-06T15:00:00+01:00,Premier League,England,2022,Newcastle,Nottingham Forest,2,0,1
+4282,2022-08-06T15:00:00+01:00,Premier League,England,2022,Tottenham,Southampton,4,1,1
+4283,2022-08-06T17:30:00+01:00,Premier League,England,2022,Everton,Chelsea,0,1,2
+4284,2022-08-07T14:00:00+01:00,Premier League,England,2022,Manchester United,Brighton,1,2,2
+4285,2022-08-07T16:30:00+01:00,Premier League,England,2022,West Ham,Manchester City,0,2,2
+4286,2022-08-13T15:00:00+01:00,Premier League,England,2022,Arsenal,Leicester,4,2,1
+4287,2022-08-13T12:30:00+01:00,Premier League,England,2022,Aston Villa,Everton,2,1,1
+4288,2022-08-13T17:30:00+01:00,Premier League,England,2022,Brentford,Manchester United,4,0,1
+4289,2022-08-13T15:00:00+01:00,Premier League,England,2022,Brighton,Newcastle,0,0,0
+4290,2022-08-14T16:30:00+01:00,Premier League,England,2022,Chelsea,Tottenham,2,2,0
+4291,2022-08-15T20:00:00+01:00,Premier League,England,2022,Liverpool,Crystal Palace,1,1,0
+4292,2022-08-13T15:00:00+01:00,Premier League,England,2022,Manchester City,Bournemouth,4,0,1
+4293,2022-08-14T14:00:00+01:00,Premier League,England,2022,Nottingham Forest,West Ham,1,0,1
+4294,2022-08-13T15:00:00+01:00,Premier League,England,2022,Southampton,Leeds,2,2,0
+4295,2022-08-13T15:00:00+01:00,Premier League,England,2022,Wolves,Fulham,0,0,0
+4296,2022-08-20T17:30:00+01:00,Premier League,England,2022,Bournemouth,Arsenal,0,3,2
+4297,2022-08-20T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Aston Villa,3,1,1
+4298,2022-08-20T15:00:00+01:00,Premier League,England,2022,Everton,Nottingham Forest,1,1,0
+4299,2022-08-20T15:00:00+01:00,Premier League,England,2022,Fulham,Brentford,3,2,1
+4300,2022-08-21T14:00:00+01:00,Premier League,England,2022,Leeds,Chelsea,3,0,1
+4301,2022-08-20T15:00:00+01:00,Premier League,England,2022,Leicester,Southampton,1,2,2
+4302,2022-08-22T20:00:00+01:00,Premier League,England,2022,Manchester United,Liverpool,2,1,1
+4303,2022-08-21T16:30:00+01:00,Premier League,England,2022,Newcastle,Manchester City,3,3,0
+4304,2022-08-20T12:30:00+01:00,Premier League,England,2022,Tottenham,Wolves,1,0,1
+4305,2022-08-21T14:00:00+01:00,Premier League,England,2022,West Ham,Brighton,0,2,2
+4306,2022-08-27T17:30:00+01:00,Premier League,England,2022,Arsenal,Fulham,2,1,1
+4307,2022-08-28T14:00:00+01:00,Premier League,England,2022,Aston Villa,West Ham,0,1,2
+4308,2022-08-27T15:00:00+01:00,Premier League,England,2022,Brentford,Everton,1,1,0
+4309,2022-08-27T15:00:00+01:00,Premier League,England,2022,Brighton,Leeds,1,0,1
+4310,2022-08-27T15:00:00+01:00,Premier League,England,2022,Chelsea,Leicester,2,1,1
+4311,2022-08-27T15:00:00+01:00,Premier League,England,2022,Liverpool,Bournemouth,9,0,1
+4312,2022-08-27T15:00:00+01:00,Premier League,England,2022,Manchester City,Crystal Palace,4,2,1
+4313,2022-08-28T16:30:00+01:00,Premier League,England,2022,Nottingham Forest,Tottenham,0,2,2
+4314,2022-08-27T12:30:00+01:00,Premier League,England,2022,Southampton,Manchester United,0,1,2
+4315,2022-08-28T14:00:00+01:00,Premier League,England,2022,Wolves,Newcastle,1,1,0
+4316,2022-08-31T19:30:00+01:00,Premier League,England,2022,Bournemouth,Wolves,0,0,0
+4317,2022-08-31T19:30:00+01:00,Premier League,England,2022,Arsenal,Aston Villa,2,1,1
+4318,2022-08-30T19:30:00+01:00,Premier League,England,2022,Fulham,Brighton,2,1,1
+4319,2022-08-30T20:00:00+01:00,Premier League,England,2022,Leeds,Everton,1,1,0
+4320,2022-09-01T20:00:00+01:00,Premier League,England,2022,Leicester,Manchester United,0,1,2
+4321,2022-08-31T19:45:00+01:00,Premier League,England,2022,West Ham,Tottenham,1,1,0
+4322,2022-08-30T19:30:00+01:00,Premier League,England,2022,Crystal Palace,Brentford,1,1,0
+4323,2022-08-30T19:45:00+01:00,Premier League,England,2022,Southampton,Chelsea,2,1,1
+4324,2022-08-31T20:00:00+01:00,Premier League,England,2022,Liverpool,Newcastle,2,1,1
+4325,2022-08-31T19:30:00+01:00,Premier League,England,2022,Manchester City,Nottingham Forest,6,0,1
+4326,2022-09-03T17:30:00+01:00,Premier League,England,2022,Aston Villa,Manchester City,1,1,0
+4327,2022-09-03T15:00:00+01:00,Premier League,England,2022,Brentford,Leeds,5,2,1
+4328,2022-09-04T14:00:00+01:00,Premier League,England,2022,Brighton,Leicester,5,2,1
+4329,2022-09-03T15:00:00+01:00,Premier League,England,2022,Chelsea,West Ham,2,1,1
+4330,2022-09-03T12:30:00+01:00,Premier League,England,2022,Everton,Liverpool,0,0,0
+4331,2022-09-04T16:30:00+01:00,Premier League,England,2022,Manchester United,Arsenal,3,1,1
+4332,2022-09-03T15:00:00+01:00,Premier League,England,2022,Newcastle,Crystal Palace,0,0,0
+4333,2022-09-03T15:00:00+01:00,Premier League,England,2022,Nottingham Forest,Bournemouth,2,3,2
+4334,2022-09-03T15:00:00+01:00,Premier League,England,2022,Tottenham,Fulham,2,1,1
+4335,2022-09-03T15:00:00+01:00,Premier League,England,2022,Wolves,Southampton,1,0,1
+4336,2023-04-04T19:45:00+01:00,Premier League,England,2022,Bournemouth,Brighton,0,2,2
+4337,2023-03-01T19:45:00+00:00,Premier League,England,2022,Arsenal,Everton,4,0,1
+4338,2023-01-18T20:00:00+00:00,Premier League,England,2022,Crystal Palace,Manchester United,1,1,0
+4339,2023-01-12T20:00:00+00:00,Premier League,England,2022,Fulham,Chelsea,2,1,1
+4340,2023-04-04T19:45:00+01:00,Premier League,England,2022,Leeds,Nottingham Forest,2,1,1
+4341,2023-04-04T19:45:00+01:00,Premier League,England,2022,Leicester,Aston Villa,1,2,2
+4342,2023-03-01T20:00:00+00:00,Premier League,England,2022,Liverpool,Wolves,2,0,1
+4343,2023-01-19T20:00:00+00:00,Premier League,England,2022,Manchester City,Tottenham,4,2,1
+4344,2023-03-15T19:30:00+00:00,Premier League,England,2022,Southampton,Brentford,0,2,2
+4345,2023-04-05T20:00:00+01:00,Premier League,England,2022,West Ham,Newcastle,1,5,2
+4346,2022-09-16T20:00:00+01:00,Premier League,England,2022,Aston Villa,Southampton,1,0,1
+4347,2022-09-18T12:00:00+01:00,Premier League,England,2022,Brentford,Arsenal,0,3,2
+4348,2023-03-15T19:30:00+00:00,Premier League,England,2022,Brighton,Crystal Palace,1,0,1
+4349,2023-04-04T20:00:00+01:00,Premier League,England,2022,Chelsea,Liverpool,0,0,0
+4350,2022-09-18T14:15:00+01:00,Premier League,England,2022,Everton,West Ham,1,0,1
+4351,2023-02-08T20:00:00+00:00,Premier League,England,2022,Manchester United,Leeds,2,2,0
+4352,2022-09-17T15:00:00+01:00,Premier League,England,2022,Newcastle,Bournemouth,1,1,0
+4353,2022-09-16T20:00:00+01:00,Premier League,England,2022,Nottingham Forest,Fulham,2,3,2
+4354,2022-09-17T17:30:00+01:00,Premier League,England,2022,Tottenham,Leicester,6,2,1
+4355,2022-09-17T12:30:00+01:00,Premier League,England,2022,Wolves,Manchester City,0,3,2
+4356,2022-10-01T15:00:00+01:00,Premier League,England,2022,Bournemouth,Brentford,0,0,0
+4357,2022-10-01T12:30:00+01:00,Premier League,England,2022,Arsenal,Tottenham,3,1,1
+4358,2022-10-01T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Chelsea,1,2,2
+4359,2022-10-01T15:00:00+01:00,Premier League,England,2022,Fulham,Newcastle,1,4,2
+4360,2022-10-02T16:30:00+01:00,Premier League,England,2022,Leeds,Aston Villa,0,0,0
+4361,2022-10-03T20:00:00+01:00,Premier League,England,2022,Leicester,Nottingham Forest,4,0,1
+4362,2022-10-01T15:00:00+01:00,Premier League,England,2022,Liverpool,Brighton,3,3,0
+4363,2022-10-02T14:00:00+01:00,Premier League,England,2022,Manchester City,Manchester United,6,3,1
+4364,2022-10-01T15:00:00+01:00,Premier League,England,2022,Southampton,Everton,1,2,2
+4365,2022-10-01T17:30:00+01:00,Premier League,England,2022,West Ham,Wolves,2,0,1
+4366,2022-10-08T15:00:00+01:00,Premier League,England,2022,Bournemouth,Leicester,2,1,1
+4367,2022-10-09T16:30:00+01:00,Premier League,England,2022,Arsenal,Liverpool,3,2,1
+4368,2022-10-08T17:30:00+01:00,Premier League,England,2022,Brighton,Tottenham,0,1,2
+4369,2022-10-08T15:00:00+01:00,Premier League,England,2022,Chelsea,Wolves,3,0,1
+4370,2022-10-09T14:00:00+01:00,Premier League,England,2022,Crystal Palace,Leeds,2,1,1
+4371,2022-10-09T19:00:00+01:00,Premier League,England,2022,Everton,Manchester United,1,2,2
+4372,2022-10-08T15:00:00+01:00,Premier League,England,2022,Manchester City,Southampton,4,0,1
+4373,2022-10-08T15:00:00+01:00,Premier League,England,2022,Newcastle,Brentford,5,1,1
+4374,2022-10-10T20:00:00+01:00,Premier League,England,2022,Nottingham Forest,Aston Villa,1,1,0
+4375,2022-10-09T14:00:00+01:00,Premier League,England,2022,West Ham,Fulham,3,1,1
+4376,2022-10-16T14:00:00+01:00,Premier League,England,2022,Aston Villa,Chelsea,0,2,2
+4377,2022-10-14T20:00:00+01:00,Premier League,England,2022,Brentford,Brighton,2,0,1
+4378,2022-10-15T15:00:00+01:00,Premier League,England,2022,Fulham,Bournemouth,2,2,0
+4379,2022-10-16T14:00:00+01:00,Premier League,England,2022,Leeds,Arsenal,0,1,2
+4380,2022-10-15T12:30:00+01:00,Premier League,England,2022,Leicester,Crystal Palace,0,0,0
+4381,2022-10-16T16:30:00+01:00,Premier League,England,2022,Liverpool,Manchester City,1,0,1
+4382,2022-10-16T14:00:00+01:00,Premier League,England,2022,Manchester United,Newcastle,0,0,0
+4383,2022-10-16T14:00:00+01:00,Premier League,England,2022,Southampton,West Ham,1,1,0
+4384,2022-10-15T17:30:00+01:00,Premier League,England,2022,Tottenham,Everton,2,0,1
+4385,2022-10-15T15:00:00+01:00,Premier League,England,2022,Wolves,Nottingham Forest,1,0,1
+4386,2022-10-19T19:30:00+01:00,Premier League,England,2022,Bournemouth,Southampton,0,1,2
+4387,2023-02-15T19:30:00+00:00,Premier League,England,2022,Arsenal,Manchester City,1,3,2
+4388,2022-10-19T19:30:00+01:00,Premier League,England,2022,Brentford,Chelsea,0,0,0
+4389,2022-10-18T19:30:00+01:00,Premier League,England,2022,Brighton,Nottingham Forest,0,0,0
+4390,2022-10-20T19:30:00+01:00,Premier League,England,2022,Fulham,Aston Villa,3,0,1
+4391,2022-10-20T20:15:00+01:00,Premier League,England,2022,Leicester,Leeds,2,0,1
+4392,2022-10-18T20:15:00+01:00,Premier League,England,2022,Crystal Palace,Wolves,2,1,1
+4393,2022-10-19T19:30:00+01:00,Premier League,England,2022,Newcastle,Everton,1,0,1
+4394,2022-10-19T19:30:00+01:00,Premier League,England,2022,Liverpool,West Ham,1,0,1
+4395,2022-10-19T20:15:00+01:00,Premier League,England,2022,Manchester United,Tottenham,2,0,1
+4396,2022-10-23T14:00:00+01:00,Premier League,England,2022,Aston Villa,Brentford,4,0,1
+4397,2022-10-22T17:30:00+01:00,Premier League,England,2022,Chelsea,Manchester United,1,1,0
+4398,2022-10-22T15:00:00+01:00,Premier League,England,2022,Everton,Crystal Palace,3,0,1
+4399,2022-10-23T14:00:00+01:00,Premier League,England,2022,Leeds,Fulham,2,3,2
+4400,2022-10-22T15:00:00+01:00,Premier League,England,2022,Manchester City,Brighton,3,1,1
+4401,2022-10-22T12:30:00+01:00,Premier League,England,2022,Nottingham Forest,Liverpool,1,0,1
+4402,2022-10-23T14:00:00+01:00,Premier League,England,2022,Southampton,Arsenal,1,1,0
+4403,2022-10-23T16:30:00+01:00,Premier League,England,2022,Tottenham,Newcastle,1,2,2
+4404,2022-10-24T20:00:00+01:00,Premier League,England,2022,West Ham,Bournemouth,2,0,1
+4405,2022-10-23T14:00:00+01:00,Premier League,England,2022,Wolves,Leicester,0,4,2
+4406,2022-10-29T15:00:00+01:00,Premier League,England,2022,Bournemouth,Tottenham,2,3,2
+4407,2022-10-30T14:00:00+00:00,Premier League,England,2022,Arsenal,Nottingham Forest,5,0,1
+4408,2022-10-29T15:00:00+01:00,Premier League,England,2022,Brentford,Wolves,1,1,0
+4409,2022-10-29T15:00:00+01:00,Premier League,England,2022,Brighton,Chelsea,4,1,1
+4410,2022-10-29T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Southampton,1,0,1
+4411,2022-10-29T17:30:00+01:00,Premier League,England,2022,Fulham,Everton,0,0,0
+4412,2022-10-29T12:30:00+01:00,Premier League,England,2022,Leicester,Manchester City,0,1,2
+4413,2022-10-29T19:45:00+01:00,Premier League,England,2022,Liverpool,Leeds,1,2,2
+4414,2022-10-30T16:15:00+00:00,Premier League,England,2022,Manchester United,West Ham,1,0,1
+4415,2022-10-29T15:00:00+01:00,Premier League,England,2022,Newcastle,Aston Villa,4,0,1
+4416,2022-11-06T14:00:00+00:00,Premier League,England,2022,Aston Villa,Manchester United,3,1,1
+4417,2022-11-06T12:00:00+00:00,Premier League,England,2022,Chelsea,Arsenal,0,1,2
+4418,2022-11-05T17:30:00+00:00,Premier League,England,2022,Everton,Leicester,0,2,2
+4419,2022-11-05T15:00:00+00:00,Premier League,England,2022,Leeds,Bournemouth,4,3,1
+4420,2022-11-05T15:00:00+00:00,Premier League,England,2022,Manchester City,Fulham,2,1,1
+4421,2022-11-05T15:00:00+00:00,Premier League,England,2022,Nottingham Forest,Brentford,2,2,0
+4422,2022-11-06T14:00:00+00:00,Premier League,England,2022,Southampton,Newcastle,1,4,2
+4423,2022-11-06T16:30:00+00:00,Premier League,England,2022,Tottenham,Liverpool,1,2,2
+4424,2022-11-06T14:00:00+00:00,Premier League,England,2022,West Ham,Crystal Palace,1,2,2
+4425,2022-11-05T15:00:00+00:00,Premier League,England,2022,Wolves,Brighton,2,3,2
+4426,2022-11-12T15:00:00+00:00,Premier League,England,2022,Bournemouth,Everton,3,0,1
+4427,2022-11-13T14:00:00+00:00,Premier League,England,2022,Brighton,Aston Villa,1,2,2
+4428,2022-11-13T16:30:00+00:00,Premier League,England,2022,Fulham,Manchester United,1,2,2
+4429,2022-11-12T15:00:00+00:00,Premier League,England,2022,Liverpool,Southampton,3,1,1
+4430,2022-11-12T12:30:00+00:00,Premier League,England,2022,Manchester City,Brentford,1,2,2
+4431,2022-11-12T17:30:00+00:00,Premier League,England,2022,Newcastle,Chelsea,1,0,1
+4432,2022-11-12T15:00:00+00:00,Premier League,England,2022,Nottingham Forest,Crystal Palace,1,0,1
+4433,2022-11-12T15:00:00+00:00,Premier League,England,2022,Tottenham,Leeds,4,3,1
+4434,2022-11-12T15:00:00+00:00,Premier League,England,2022,West Ham,Leicester,0,2,2
+4435,2022-11-12T19:45:00+00:00,Premier League,England,2022,Wolves,Arsenal,0,2,2
+4436,2022-12-26T20:00:00+00:00,Premier League,England,2022,Arsenal,West Ham,3,1,1
+4437,2022-12-26T17:30:00+00:00,Premier League,England,2022,Aston Villa,Liverpool,1,3,2
+4438,2022-12-26T12:30:00+00:00,Premier League,England,2022,Brentford,Tottenham,2,2,0
+4439,2022-12-27T17:30:00+00:00,Premier League,England,2022,Chelsea,Bournemouth,2,0,1
+4440,2022-12-26T15:00:00+00:00,Premier League,England,2022,Crystal Palace,Fulham,0,3,2
+4441,2022-12-26T15:00:00+00:00,Premier League,England,2022,Everton,Wolves,1,2,2
+4442,2022-12-28T20:00:00+00:00,Premier League,England,2022,Leeds,Manchester City,1,3,2
+4443,2022-12-26T15:00:00+00:00,Premier League,England,2022,Leicester,Newcastle,0,3,2
+4444,2022-12-27T20:00:00+00:00,Premier League,England,2022,Manchester United,Nottingham Forest,3,0,1
+4445,2022-12-26T15:00:00+00:00,Premier League,England,2022,Southampton,Brighton,1,3,2
+4446,2022-12-31T15:00:00+00:00,Premier League,England,2022,Bournemouth,Crystal Palace,0,2,2
+4447,2022-12-31T17:30:00+00:00,Premier League,England,2022,Brighton,Arsenal,2,4,2
+4448,2022-12-31T15:00:00+00:00,Premier League,England,2022,Fulham,Southampton,2,1,1
+4449,2022-12-30T20:00:00+00:00,Premier League,England,2022,Liverpool,Leicester,2,1,1
+4450,2022-12-31T15:00:00+00:00,Premier League,England,2022,Manchester City,Everton,1,1,0
+4451,2022-12-31T15:00:00+00:00,Premier League,England,2022,Newcastle,Leeds,0,0,0
+4452,2023-01-01T16:30:00+00:00,Premier League,England,2022,Nottingham Forest,Chelsea,1,1,0
+4453,2023-01-01T14:00:00+00:00,Premier League,England,2022,Tottenham,Aston Villa,0,2,2
+4454,2022-12-30T19:45:00+00:00,Premier League,England,2022,West Ham,Brentford,0,2,2
+4455,2022-12-31T12:30:00+00:00,Premier League,England,2022,Wolves,Manchester United,0,1,2
+4456,2023-01-03T19:45:00+00:00,Premier League,England,2022,Arsenal,Newcastle,0,0,0
+4457,2023-01-04T20:00:00+00:00,Premier League,England,2022,Aston Villa,Wolves,1,1,0
+4458,2023-01-02T17:30:00+00:00,Premier League,England,2022,Brentford,Liverpool,3,1,1
+4459,2023-01-05T20:00:00+00:00,Premier League,England,2022,Chelsea,Manchester City,0,1,2
+4460,2023-01-04T20:00:00+00:00,Premier League,England,2022,Crystal Palace,Tottenham,0,4,2
+4461,2023-01-03T19:45:00+00:00,Premier League,England,2022,Everton,Brighton,1,4,2
+4462,2023-01-04T19:45:00+00:00,Premier League,England,2022,Leeds,West Ham,2,2,0
+4463,2023-01-03T19:45:00+00:00,Premier League,England,2022,Leicester,Fulham,0,1,2
+4464,2023-01-03T20:00:00+00:00,Premier League,England,2022,Manchester United,Bournemouth,3,0,1
+4465,2023-01-04T19:30:00+00:00,Premier League,England,2022,Southampton,Nottingham Forest,0,1,2
+4466,2023-01-13T20:00:00+00:00,Premier League,England,2022,Aston Villa,Leeds,2,1,1
+4467,2023-01-14T17:30:00+00:00,Premier League,England,2022,Brentford,Bournemouth,2,0,1
+4468,2023-01-14T15:00:00+00:00,Premier League,England,2022,Brighton,Liverpool,3,0,1
+4469,2023-01-15T14:00:00+00:00,Premier League,England,2022,Chelsea,Crystal Palace,1,0,1
+4470,2023-01-14T15:00:00+00:00,Premier League,England,2022,Everton,Southampton,1,2,2
+4471,2023-01-14T12:30:00+00:00,Premier League,England,2022,Manchester United,Manchester City,2,1,1
+4472,2023-01-15T14:00:00+00:00,Premier League,England,2022,Newcastle,Fulham,1,0,1
+4473,2023-01-14T15:00:00+00:00,Premier League,England,2022,Nottingham Forest,Leicester,2,0,1
+4474,2023-01-15T16:30:00+00:00,Premier League,England,2022,Tottenham,Arsenal,0,2,2
+4475,2023-01-14T15:00:00+00:00,Premier League,England,2022,Wolves,West Ham,1,0,1
+4476,2023-01-21T15:00:00+00:00,Premier League,England,2022,Bournemouth,Nottingham Forest,1,1,0
+4477,2023-01-22T16:30:00+00:00,Premier League,England,2022,Arsenal,Manchester United,3,2,1
+4478,2023-01-21T17:30:00+00:00,Premier League,England,2022,Crystal Palace,Newcastle,0,0,0
+4479,2023-01-23T20:00:00+00:00,Premier League,England,2022,Fulham,Tottenham,0,1,2
+4480,2023-01-22T14:00:00+00:00,Premier League,England,2022,Leeds,Brentford,0,0,0
+4481,2023-01-21T15:00:00+00:00,Premier League,England,2022,Leicester,Brighton,2,2,0
+4482,2023-01-21T12:30:00+00:00,Premier League,England,2022,Liverpool,Chelsea,0,0,0
+4483,2023-01-22T14:00:00+00:00,Premier League,England,2022,Manchester City,Wolves,3,0,1
+4484,2023-01-21T15:00:00+00:00,Premier League,England,2022,Southampton,Aston Villa,0,1,2
+4485,2023-01-21T15:00:00+00:00,Premier League,England,2022,West Ham,Everton,2,0,1
+4486,2023-02-04T15:00:00+00:00,Premier League,England,2022,Aston Villa,Leicester,2,4,2
+4487,2023-02-04T15:00:00+00:00,Premier League,England,2022,Brentford,Southampton,3,0,1
+4488,2023-02-04T15:00:00+00:00,Premier League,England,2022,Brighton,Bournemouth,1,0,1
+4489,2023-02-03T20:00:00+00:00,Premier League,England,2022,Chelsea,Fulham,0,0,0
+4490,2023-02-04T12:30:00+00:00,Premier League,England,2022,Everton,Arsenal,1,0,1
+4491,2023-02-04T15:00:00+00:00,Premier League,England,2022,Manchester United,Crystal Palace,2,1,1
+4492,2023-02-04T17:30:00+00:00,Premier League,England,2022,Newcastle,West Ham,1,1,0
+4493,2023-02-05T14:00:00+00:00,Premier League,England,2022,Nottingham Forest,Leeds,1,0,1
+4494,2023-02-05T16:30:00+00:00,Premier League,England,2022,Tottenham,Manchester City,1,0,1
+4495,2023-02-04T15:00:00+00:00,Premier League,England,2022,Wolves,Liverpool,3,0,1
+4496,2023-02-11T17:30:00+00:00,Premier League,England,2022,Bournemouth,Newcastle,1,1,0
+4497,2023-02-11T15:00:00+00:00,Premier League,England,2022,Arsenal,Brentford,1,1,0
+4498,2023-02-11T15:00:00+00:00,Premier League,England,2022,Crystal Palace,Brighton,1,1,0
+4499,2023-02-11T15:00:00+00:00,Premier League,England,2022,Fulham,Nottingham Forest,2,0,1
+4500,2023-02-12T14:00:00+00:00,Premier League,England,2022,Leeds,Manchester United,0,2,2
+4501,2023-02-11T15:00:00+00:00,Premier League,England,2022,Leicester,Tottenham,4,1,1
+4502,2023-02-13T20:00:00+00:00,Premier League,England,2022,Liverpool,Everton,2,0,1
+4503,2023-02-12T16:30:00+00:00,Premier League,England,2022,Manchester City,Aston Villa,3,1,1
+4504,2023-02-11T15:00:00+00:00,Premier League,England,2022,Southampton,Wolves,1,2,2
+4505,2023-02-11T12:30:00+00:00,Premier League,England,2022,West Ham,Chelsea,1,1,0
+4506,2023-02-18T12:30:00+00:00,Premier League,England,2022,Aston Villa,Arsenal,2,4,2
+4507,2023-02-18T15:00:00+00:00,Premier League,England,2022,Brentford,Crystal Palace,1,1,0
+4508,2023-02-18T15:00:00+00:00,Premier League,England,2022,Brighton,Fulham,0,1,2
+4509,2023-02-18T15:00:00+00:00,Premier League,England,2022,Chelsea,Southampton,0,1,2
+4510,2023-02-18T15:00:00+00:00,Premier League,England,2022,Everton,Leeds,1,0,1
+4511,2023-02-19T14:00:00+00:00,Premier League,England,2022,Manchester United,Leicester,3,0,1
+4512,2023-02-18T17:30:00+00:00,Premier League,England,2022,Newcastle,Liverpool,0,2,2
+4513,2023-02-18T15:00:00+00:00,Premier League,England,2022,Nottingham Forest,Manchester City,1,1,0
+4514,2023-02-19T16:30:00+00:00,Premier League,England,2022,Tottenham,West Ham,2,0,1
+4515,2023-02-18T15:00:00+00:00,Premier League,England,2022,Wolves,Bournemouth,0,1,2
+4516,2023-02-25T17:30:00+00:00,Premier League,England,2022,Bournemouth,Manchester City,1,4,2
+4517,2023-02-25T19:45:00+00:00,Premier League,England,2022,Crystal Palace,Liverpool,0,0,0
+4518,2023-02-25T15:00:00+00:00,Premier League,England,2022,Everton,Aston Villa,0,2,2
+4519,2023-02-24T20:00:00+00:00,Premier League,England,2022,Fulham,Wolves,1,1,0
+4520,2023-02-25T15:00:00+00:00,Premier League,England,2022,Leeds,Southampton,1,0,1
+4521,2023-02-25T15:00:00+00:00,Premier League,England,2022,Leicester,Arsenal,0,1,2
+4522,2023-04-05T20:00:00+01:00,Premier League,England,2022,Manchester United,Brentford,1,0,1
+4523,2023-05-18T19:30:00+01:00,Premier League,England,2022,Newcastle,Brighton,4,1,1
+4524,2023-02-26T13:30:00+00:00,Premier League,England,2022,Tottenham,Chelsea,2,0,1
+4525,2023-02-25T15:00:00+00:00,Premier League,England,2022,West Ham,Nottingham Forest,4,0,1
+4526,2023-03-04T15:00:00+00:00,Premier League,England,2022,Arsenal,Bournemouth,3,2,1
+4527,2023-03-04T15:00:00+00:00,Premier League,England,2022,Aston Villa,Crystal Palace,1,0,1
+4528,2023-03-06T20:00:00+00:00,Premier League,England,2022,Brentford,Fulham,3,2,1
+4529,2023-03-04T15:00:00+00:00,Premier League,England,2022,Brighton,West Ham,4,0,1
+4530,2023-03-04T15:00:00+00:00,Premier League,England,2022,Chelsea,Leeds,1,0,1
+4531,2023-03-05T16:30:00+00:00,Premier League,England,2022,Liverpool,Manchester United,7,0,1
+4532,2023-03-04T12:30:00+00:00,Premier League,England,2022,Manchester City,Newcastle,2,0,1
+4533,2023-03-05T14:00:00+00:00,Premier League,England,2022,Nottingham Forest,Everton,2,2,0
+4534,2023-03-04T17:30:00+00:00,Premier League,England,2022,Southampton,Leicester,1,0,1
+4535,2023-03-04T15:00:00+00:00,Premier League,England,2022,Wolves,Tottenham,1,0,1
+4536,2023-03-11T12:30:00+00:00,Premier League,England,2022,Bournemouth,Liverpool,1,0,1
+4537,2023-03-11T17:30:00+00:00,Premier League,England,2022,Crystal Palace,Manchester City,0,1,2
+4538,2023-03-11T15:00:00+00:00,Premier League,England,2022,Everton,Brentford,1,0,1
+4539,2023-03-12T14:00:00+00:00,Premier League,England,2022,Fulham,Arsenal,0,3,2
+4540,2023-03-11T15:00:00+00:00,Premier League,England,2022,Leeds,Brighton,2,2,0
+4541,2023-03-11T15:00:00+00:00,Premier League,England,2022,Leicester,Chelsea,1,3,2
+4542,2023-03-12T14:00:00+00:00,Premier League,England,2022,Manchester United,Southampton,0,0,0
+4543,2023-03-12T16:30:00+00:00,Premier League,England,2022,Newcastle,Wolves,2,1,1
+4544,2023-03-11T15:00:00+00:00,Premier League,England,2022,Tottenham,Nottingham Forest,3,1,1
+4545,2023-03-12T14:00:00+00:00,Premier League,England,2022,West Ham,Aston Villa,1,1,0
+4546,2023-03-19T14:00:00+00:00,Premier League,England,2022,Arsenal,Crystal Palace,4,1,1
+4547,2023-03-18T15:00:00+00:00,Premier League,England,2022,Aston Villa,Bournemouth,3,0,1
+4548,2023-03-18T15:00:00+00:00,Premier League,England,2022,Brentford,Leicester,1,1,0
+4549,2023-05-04T20:00:00+01:00,Premier League,England,2022,Brighton,Manchester United,1,0,1
+4550,2023-03-18T17:30:00+00:00,Premier League,England,2022,Chelsea,Everton,2,2,0
+4551,2023-05-03T20:00:00+01:00,Premier League,England,2022,Liverpool,Fulham,1,0,1
+4552,2023-05-03T20:00:00+01:00,Premier League,England,2022,Manchester City,West Ham,3,0,1
+4553,2023-03-17T20:00:00+00:00,Premier League,England,2022,Nottingham Forest,Newcastle,1,2,2
+4554,2023-03-18T15:00:00+00:00,Premier League,England,2022,Southampton,Tottenham,3,3,0
+4555,2023-03-18T15:00:00+00:00,Premier League,England,2022,Wolves,Leeds,2,4,2
+4556,2023-04-01T15:00:00+01:00,Premier League,England,2022,Bournemouth,Fulham,2,1,1
+4557,2023-04-01T15:00:00+01:00,Premier League,England,2022,Arsenal,Leeds,4,1,1
+4558,2023-04-01T15:00:00+01:00,Premier League,England,2022,Brighton,Brentford,3,3,0
+4559,2023-04-01T17:30:00+01:00,Premier League,England,2022,Chelsea,Aston Villa,0,2,2
+4560,2023-04-01T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Leicester,2,1,1
+4561,2023-04-03T20:00:00+01:00,Premier League,England,2022,Everton,Tottenham,1,1,0
+4562,2023-04-01T12:30:00+01:00,Premier League,England,2022,Manchester City,Liverpool,4,1,1
+4563,2023-04-02T16:30:00+01:00,Premier League,England,2022,Newcastle,Manchester United,2,0,1
+4564,2023-04-01T15:00:00+01:00,Premier League,England,2022,Nottingham Forest,Wolves,1,1,0
+4565,2023-04-02T14:00:00+01:00,Premier League,England,2022,West Ham,Southampton,1,0,1
+4566,2023-04-08T15:00:00+01:00,Premier League,England,2022,Aston Villa,Nottingham Forest,2,0,1
+4567,2023-04-08T15:00:00+01:00,Premier League,England,2022,Brentford,Newcastle,1,2,2
+4568,2023-04-08T15:00:00+01:00,Premier League,England,2022,Fulham,West Ham,0,1,2
+4569,2023-04-09T14:00:00+01:00,Premier League,England,2022,Leeds,Crystal Palace,1,5,2
+4570,2023-04-08T15:00:00+01:00,Premier League,England,2022,Leicester,Bournemouth,0,1,2
+4571,2023-04-09T16:30:00+01:00,Premier League,England,2022,Liverpool,Arsenal,2,2,0
+4572,2023-04-08T12:30:00+01:00,Premier League,England,2022,Manchester United,Everton,2,0,1
+4573,2023-04-08T17:30:00+01:00,Premier League,England,2022,Southampton,Manchester City,1,4,2
+4574,2023-04-08T15:00:00+01:00,Premier League,England,2022,Tottenham,Brighton,2,1,1
+4575,2023-04-08T15:00:00+01:00,Premier League,England,2022,Wolves,Chelsea,1,0,1
+4576,2023-04-15T12:30:00+01:00,Premier League,England,2022,Aston Villa,Newcastle,3,0,1
+4577,2023-04-15T15:00:00+01:00,Premier League,England,2022,Chelsea,Brighton,1,2,2
+4578,2023-04-15T15:00:00+01:00,Premier League,England,2022,Everton,Fulham,1,3,2
+4579,2023-04-17T20:00:00+01:00,Premier League,England,2022,Leeds,Liverpool,1,6,2
+4580,2023-04-15T17:30:00+01:00,Premier League,England,2022,Manchester City,Leicester,3,1,1
+4581,2023-04-16T16:30:00+01:00,Premier League,England,2022,Nottingham Forest,Manchester United,0,2,2
+4582,2023-04-15T15:00:00+01:00,Premier League,England,2022,Southampton,Crystal Palace,0,2,2
+4583,2023-04-15T15:15:00+01:00,Premier League,England,2022,Tottenham,Bournemouth,2,3,2
+4584,2023-04-16T14:00:00+01:00,Premier League,England,2022,West Ham,Arsenal,2,2,0
+4585,2023-04-15T15:00:00+01:00,Premier League,England,2022,Wolves,Brentford,2,0,1
+4586,2023-04-23T14:00:00+01:00,Premier League,England,2022,Bournemouth,West Ham,0,4,2
+4587,2023-04-21T20:00:00+01:00,Premier League,England,2022,Arsenal,Southampton,3,3,0
+4588,2023-04-22T15:00:00+01:00,Premier League,England,2022,Brentford,Aston Villa,1,1,0
+4589,2023-05-24T20:00:00+01:00,Premier League,England,2022,Brighton,Manchester City,1,1,0
+4590,2023-04-22T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Everton,0,0,0
+4591,2023-04-22T12:30:00+01:00,Premier League,England,2022,Fulham,Leeds,2,1,1
+4592,2023-04-22T15:00:00+01:00,Premier League,England,2022,Leicester,Wolves,2,1,1
+4593,2023-04-22T15:00:00+01:00,Premier League,England,2022,Liverpool,Nottingham Forest,3,2,1
+4594,2023-05-25T20:00:00+01:00,Premier League,England,2022,Manchester United,Chelsea,4,1,1
+4595,2023-04-23T14:00:00+01:00,Premier League,England,2022,Newcastle,Tottenham,6,1,1
+4596,2023-04-27T19:45:00+01:00,Premier League,England,2022,Everton,Newcastle,1,4,2
+4597,2023-04-25T20:00:00+01:00,Premier League,England,2022,Leeds,Leicester,1,1,0
+4598,2023-04-26T19:30:00+01:00,Premier League,England,2022,Nottingham Forest,Brighton,3,1,1
+4599,2023-04-27T20:15:00+01:00,Premier League,England,2022,Tottenham,Manchester United,2,2,0
+4600,2023-04-26T19:45:00+01:00,Premier League,England,2022,West Ham,Liverpool,1,2,2
+4601,2023-04-25T19:30:00+01:00,Premier League,England,2022,Wolves,Crystal Palace,2,0,1
+4602,2023-04-25T19:45:00+01:00,Premier League,England,2022,Aston Villa,Fulham,1,0,1
+4603,2023-04-26T19:45:00+01:00,Premier League,England,2022,Chelsea,Brentford,0,2,2
+4604,2023-04-27T19:45:00+01:00,Premier League,England,2022,Southampton,Bournemouth,0,1,2
+4605,2023-04-26T20:00:00+01:00,Premier League,England,2022,Manchester City,Arsenal,4,1,1
+4606,2023-04-30T14:00:00+01:00,Premier League,England,2022,Bournemouth,Leeds,4,1,1
+4607,2023-05-02T20:00:00+01:00,Premier League,England,2022,Arsenal,Chelsea,3,1,1
+4608,2023-04-29T15:00:00+01:00,Premier League,England,2022,Brentford,Nottingham Forest,2,1,1
+4609,2023-04-29T15:00:00+01:00,Premier League,England,2022,Brighton,Wolves,6,0,1
+4610,2023-04-29T12:30:00+01:00,Premier League,England,2022,Crystal Palace,West Ham,4,3,1
+4611,2023-04-30T14:00:00+01:00,Premier League,England,2022,Fulham,Manchester City,1,2,2
+4612,2023-05-01T20:00:00+01:00,Premier League,England,2022,Leicester,Everton,2,2,0
+4613,2023-04-30T16:30:00+01:00,Premier League,England,2022,Liverpool,Tottenham,4,3,1
+4614,2023-04-30T14:00:00+01:00,Premier League,England,2022,Manchester United,Aston Villa,1,0,1
+4615,2023-04-30T14:00:00+01:00,Premier League,England,2022,Newcastle,Southampton,3,1,1
+4616,2023-05-06T15:00:00+01:00,Premier League,England,2022,Bournemouth,Chelsea,1,3,2
+4617,2023-05-08T17:30:00+01:00,Premier League,England,2022,Brighton,Everton,1,5,2
+4618,2023-05-08T15:00:00+01:00,Premier League,England,2022,Fulham,Leicester,5,3,1
+4619,2023-05-06T17:30:00+01:00,Premier League,England,2022,Liverpool,Brentford,1,0,1
+4620,2023-05-06T15:00:00+01:00,Premier League,England,2022,Manchester City,Leeds,2,1,1
+4621,2023-05-07T16:30:00+01:00,Premier League,England,2022,Newcastle,Arsenal,0,2,2
+4622,2023-05-08T20:00:00+01:00,Premier League,England,2022,Nottingham Forest,Southampton,4,3,1
+4623,2023-05-06T15:00:00+01:00,Premier League,England,2022,Tottenham,Crystal Palace,1,0,1
+4624,2023-05-07T19:00:00+01:00,Premier League,England,2022,West Ham,Manchester United,1,0,1
+4625,2023-05-06T15:00:00+01:00,Premier League,England,2022,Wolves,Aston Villa,1,0,1
+4626,2023-05-14T16:30:00+01:00,Premier League,England,2022,Arsenal,Brighton,0,3,2
+4627,2023-05-13T15:00:00+01:00,Premier League,England,2022,Aston Villa,Tottenham,2,1,1
+4628,2023-05-14T14:00:00+01:00,Premier League,England,2022,Brentford,West Ham,2,0,1
+4629,2023-05-13T15:00:00+01:00,Premier League,England,2022,Chelsea,Nottingham Forest,2,2,0
+4630,2023-05-13T15:00:00+01:00,Premier League,England,2022,Crystal Palace,Bournemouth,2,0,1
+4631,2023-05-14T14:00:00+01:00,Premier League,England,2022,Everton,Manchester City,0,3,2
+4632,2023-05-13T12:30:00+01:00,Premier League,England,2022,Leeds,Newcastle,2,2,0
+4633,2023-05-15T20:00:00+01:00,Premier League,England,2022,Leicester,Liverpool,0,3,2
+4634,2023-05-13T15:00:00+01:00,Premier League,England,2022,Manchester United,Wolves,2,0,1
+4635,2023-05-13T15:00:00+01:00,Premier League,England,2022,Southampton,Fulham,0,2,2
+4636,2023-05-20T15:00:00+01:00,Premier League,England,2022,Bournemouth,Manchester United,0,1,2
+4637,2023-05-21T14:00:00+01:00,Premier League,England,2022,Brighton,Southampton,3,1,1
+4638,2023-05-20T15:00:00+01:00,Premier League,England,2022,Fulham,Crystal Palace,2,2,0
+4639,2023-05-20T15:00:00+01:00,Premier League,England,2022,Liverpool,Aston Villa,1,1,0
+4640,2023-05-21T16:00:00+01:00,Premier League,England,2022,Manchester City,Chelsea,1,0,1
+4641,2023-05-22T20:00:00+01:00,Premier League,England,2022,Newcastle,Leicester,0,0,0
+4642,2023-05-20T17:30:00+01:00,Premier League,England,2022,Nottingham Forest,Arsenal,1,0,1
+4643,2023-05-20T12:30:00+01:00,Premier League,England,2022,Tottenham,Brentford,1,3,2
+4644,2023-05-21T13:30:00+01:00,Premier League,England,2022,West Ham,Leeds,3,1,1
+4645,2023-05-20T15:00:00+01:00,Premier League,England,2022,Wolves,Everton,1,1,0
+4646,2023-05-28T16:30:00+01:00,Premier League,England,2022,Arsenal,Wolves,5,0,1
+4647,2023-05-28T16:30:00+01:00,Premier League,England,2022,Aston Villa,Brighton,2,1,1
+4648,2023-05-28T16:30:00+01:00,Premier League,England,2022,Brentford,Manchester City,1,0,1
+4649,2023-05-28T16:30:00+01:00,Premier League,England,2022,Chelsea,Newcastle,1,1,0
+4650,2023-05-28T16:30:00+01:00,Premier League,England,2022,Crystal Palace,Nottingham Forest,1,1,0
+4651,2023-05-28T16:30:00+01:00,Premier League,England,2022,Everton,Bournemouth,1,0,1
+4652,2023-05-28T16:30:00+01:00,Premier League,England,2022,Leeds,Tottenham,1,4,2
+4653,2023-05-28T16:30:00+01:00,Premier League,England,2022,Leicester,West Ham,2,1,1
+4654,2023-05-28T16:30:00+01:00,Premier League,England,2022,Manchester United,Fulham,2,1,1
+4655,2023-05-28T16:30:00+01:00,Premier League,England,2022,Southampton,Liverpool,4,4,0
+4656,2022-08-05T19:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Bayern Munich,1,6,2
+4657,2022-08-06T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Bayer Leverkusen,1,0,1
+4658,2022-08-06T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Hertha Berlin,3,1,1
+4659,2022-08-07T16:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,FC Schalke 04,3,1,1
+4660,2022-08-06T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,1899 Hoffenheim,3,1,1
+4661,2022-08-06T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,Werder Bremen,2,2,0
+4662,2022-08-06T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,FSV Mainz 05,1,2,2
+4663,2022-08-06T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,SC Freiburg,0,4,2
+4664,2022-08-07T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,RB Leipzig,1,1,0
+4665,2022-08-14T16:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,VfL Wolfsburg,2,0,1
+4666,2022-08-13T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,FC Augsburg,1,2,2
+4667,2022-08-13T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,1.FC Köln,2,2,0
+4668,2022-08-12T19:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Borussia Dortmund,1,3,2
+4669,2022-08-14T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,Union Berlin,0,0,0
+4670,2022-08-13T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,Vfl Bochum,3,2,1
+4671,2022-08-13T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,Eintracht Frankfurt,1,1,0
+4672,2022-08-13T17:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Borussia Monchengladbach,2,2,0
+4673,2022-08-13T14:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,VfB Stuttgart,2,2,0
+4674,2022-08-20T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Werder Bremen,2,3,2
+4675,2022-08-20T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,1899 Hoffenheim,0,3,2
+4676,2022-08-20T17:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,RB Leipzig,2,1,1
+4677,2022-08-19T19:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Hertha Berlin,1,0,1
+4678,2022-08-21T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,1.FC Köln,1,1,0
+4679,2022-08-20T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,FC Schalke 04,0,0,0
+4680,2022-08-21T16:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Bayern Munich,0,7,2
+4681,2022-08-20T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,FSV Mainz 05,1,2,2
+4682,2022-08-20T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,SC Freiburg,0,1,2
+4683,2022-08-27T17:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,Borussia Monchengladbach,1,1,0
+4684,2022-08-27T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,VfL Wolfsburg,2,0,1
+4685,2022-08-26T19:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Vfl Bochum,1,0,1
+4686,2022-08-28T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,VfB Stuttgart,0,0,0
+4687,2022-08-27T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,Bayer Leverkusen,0,3,2
+4688,2022-08-27T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,FC Augsburg,1,0,1
+4689,2022-08-27T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,Borussia Dortmund,0,1,2
+4690,2022-08-27T14:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Union Berlin,1,6,2
+4691,2022-08-28T16:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,Eintracht Frankfurt,3,4,2
+4692,2022-09-02T19:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,1899 Hoffenheim,1,0,1
+4693,2022-09-03T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,SC Freiburg,2,3,2
+4694,2022-09-03T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Bayern Munich,1,1,0
+4695,2022-09-04T16:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,FSV Mainz 05,0,1,2
+4696,2022-09-03T17:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,RB Leipzig,4,0,1
+4697,2022-09-03T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,1.FC Köln,2,4,2
+4698,2022-09-03T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Werder Bremen,0,2,2
+4699,2022-09-04T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,Hertha Berlin,0,2,2
+4700,2022-09-03T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,FC Schalke 04,1,1,0
+4701,2022-09-10T14:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,VfB Stuttgart,2,2,0
+4702,2022-09-10T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,Borussia Dortmund,3,0,1
+4703,2022-09-11T16:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Borussia Monchengladbach,0,0,0
+4704,2022-09-11T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,Union Berlin,0,1,2
+4705,2022-09-10T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,FSV Mainz 05,4,1,1
+4706,2022-09-10T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,VfL Wolfsburg,0,1,2
+4707,2022-09-10T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,Bayer Leverkusen,2,2,0
+4708,2022-09-10T17:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Vfl Bochum,3,1,1
+4709,2022-09-09T19:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,FC Augsburg,0,1,2
+4710,2022-09-17T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,Bayern Munich,1,0,1
+4711,2022-09-17T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,RB Leipzig,3,0,1
+4712,2022-09-17T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,Werder Bremen,1,1,0
+4713,2022-09-18T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,VfL Wolfsburg,2,0,1
+4714,2022-09-16T19:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,Hertha Berlin,1,1,0
+4715,2022-09-18T16:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,1.FC Köln,1,1,0
+4716,2022-09-18T18:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,SC Freiburg,0,0,0
+4717,2022-09-17T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Eintracht Frankfurt,1,3,2
+4718,2022-09-17T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,FC Schalke 04,1,0,1
+4719,2022-09-30T19:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,Bayer Leverkusen,4,0,1
+4720,2022-10-01T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,Vfl Bochum,4,0,1
+4721,2022-10-01T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,FSV Mainz 05,2,1,1
+4722,2022-10-01T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,Borussia Dortmund,3,2,1
+4723,2022-10-01T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Union Berlin,2,0,1
+4724,2022-10-01T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,VfB Stuttgart,3,2,1
+4725,2022-10-02T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,1899 Hoffenheim,1,1,0
+4726,2022-10-02T16:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,FC Augsburg,2,3,2
+4727,2022-10-01T17:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,Borussia Monchengladbach,5,1,1
+4728,2022-10-08T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Bayern Munich,2,2,0
+4729,2022-10-08T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,FC Schalke 04,4,0,1
+4730,2022-10-08T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,RB Leipzig,1,1,0
+4731,2022-10-07T19:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,Werder Bremen,1,2,2
+4732,2022-10-09T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,1.FC Köln,5,2,1
+4733,2022-10-08T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Eintracht Frankfurt,3,0,1
+4734,2022-10-08T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,VfL Wolfsburg,1,1,0
+4735,2022-10-09T18:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Union Berlin,0,1,2
+4736,2022-10-09T16:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,SC Freiburg,2,2,0
+4737,2022-10-16T18:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,SC Freiburg,5,0,1
+4738,2022-10-15T17:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,Hertha Berlin,3,2,1
+4739,2022-10-16T16:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Borussia Dortmund,2,0,1
+4740,2022-10-16T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,FC Augsburg,3,2,1
+4741,2022-10-15T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Bayer Leverkusen,5,1,1
+4742,2022-10-15T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,Borussia Monchengladbach,2,2,0
+4743,2022-10-15T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Vfl Bochum,4,1,1
+4744,2022-10-14T19:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,1899 Hoffenheim,0,3,2
+4745,2022-10-15T14:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,FSV Mainz 05,0,2,2
+4746,2022-10-22T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,VfB Stuttgart,5,0,1
+4747,2022-10-22T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,VfL Wolfsburg,2,2,0
+4748,2022-10-22T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Werder Bremen,2,0,1
+4749,2022-10-21T19:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,1.FC Köln,5,0,1
+4750,2022-10-22T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,Bayern Munich,0,2,2
+4751,2022-10-22T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Eintracht Frankfurt,1,3,2
+4752,2022-10-23T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Union Berlin,2,1,1
+4753,2022-10-22T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,RB Leipzig,3,3,0
+4754,2022-10-23T16:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,FC Schalke 04,2,1,1
+4755,2022-10-29T14:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,FSV Mainz 05,6,2,1
+4756,2022-10-29T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,Bayer Leverkusen,2,0,1
+4757,2022-10-30T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,Borussia Monchengladbach,2,1,1
+4758,2022-10-30T18:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,1899 Hoffenheim,1,1,0
+4759,2022-10-29T17:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Borussia Dortmund,1,2,2
+4760,2022-10-29T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,Vfl Bochum,4,0,1
+4761,2022-10-29T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,FC Augsburg,2,1,1
+4762,2022-10-30T16:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,SC Freiburg,0,2,2
+4763,2022-10-28T19:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,Hertha Berlin,1,0,1
+4764,2022-11-05T14:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,Vfl Bochum,3,0,1
+4765,2022-11-06T14:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,Union Berlin,5,0,1
+4766,2022-11-06T16:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,1.FC Köln,2,0,1
+4767,2022-11-05T14:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,VfL Wolfsburg,0,3,2
+4768,2022-11-05T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,RB Leipzig,1,3,2
+4769,2022-11-04T19:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,VfB Stuttgart,3,1,1
+4770,2022-11-05T14:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,Eintracht Frankfurt,1,2,2
+4771,2022-11-05T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,Bayern Munich,2,3,2
+4772,2022-11-05T17:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,FC Schalke 04,2,1,1
+4773,2022-11-08T19:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,Werder Bremen,6,1,1
+4774,2022-11-09T19:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,SC Freiburg,3,1,1
+4775,2022-11-09T19:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,FC Augsburg,2,2,0
+4776,2022-11-09T17:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,Bayer Leverkusen,1,2,2
+4777,2022-11-09T19:30:00+00:00,Bundesliga,Germany,2022,Eintracht Frankfurt,1899 Hoffenheim,4,2,1
+4778,2022-11-08T17:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,Borussia Dortmund,2,0,1
+4779,2022-11-08T19:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,Borussia Monchengladbach,2,1,1
+4780,2022-11-08T19:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,Hertha Berlin,2,1,1
+4781,2022-11-09T19:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,FSV Mainz 05,1,0,1
+4782,2022-11-12T14:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,VfB Stuttgart,2,0,1
+4783,2022-11-13T16:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,Union Berlin,4,1,1
+4784,2022-11-13T14:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,Eintracht Frankfurt,1,1,0
+4785,2022-11-12T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,VfL Wolfsburg,1,2,2
+4786,2022-11-11T19:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Borussia Dortmund,4,2,1
+4787,2022-11-12T14:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,Vfl Bochum,0,1,2
+4788,2022-11-12T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,1.FC Köln,2,0,1
+4789,2022-11-12T17:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,Bayern Munich,0,2,2
+4790,2022-11-12T14:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,RB Leipzig,1,2,2
+4791,2023-01-22T14:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,FC Augsburg,4,3,1
+4792,2023-01-20T19:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,Bayern Munich,1,1,0
+4793,2023-01-21T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,1899 Hoffenheim,3,1,1
+4794,2023-01-21T17:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,Werder Bremen,7,1,1
+4795,2023-01-22T16:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Bayer Leverkusen,2,3,2
+4796,2023-01-21T14:30:00+00:00,Bundesliga,Germany,2022,Eintracht Frankfurt,FC Schalke 04,3,0,1
+4797,2023-01-21T14:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,SC Freiburg,6,0,1
+4798,2023-01-21T14:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,Hertha Berlin,3,1,1
+4799,2023-01-21T14:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,FSV Mainz 05,1,1,0
+4800,2023-01-24T19:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,1.FC Köln,1,1,0
+4801,2023-01-25T19:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,Vfl Bochum,2,0,1
+4802,2023-01-25T19:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,Eintracht Frankfurt,1,1,0
+4803,2023-01-25T17:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,Borussia Dortmund,1,2,2
+4804,2023-01-24T19:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,VfB Stuttgart,2,2,0
+4805,2023-01-25T19:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,Borussia Monchengladbach,1,0,1
+4806,2023-01-24T19:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,VfL Wolfsburg,0,5,2
+4807,2023-01-24T17:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,RB Leipzig,1,6,2
+4808,2023-01-25T19:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,Union Berlin,1,2,2
+4809,2023-01-28T17:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,Eintracht Frankfurt,1,1,0
+4810,2023-01-29T16:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,Borussia Dortmund,0,2,2
+4811,2023-01-27T19:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,VfB Stuttgart,2,1,1
+4812,2023-01-28T14:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,FC Augsburg,3,1,1
+4813,2023-01-28T14:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,Vfl Bochum,5,2,1
+4814,2023-01-28T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,Borussia Monchengladbach,1,4,2
+4815,2023-01-28T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,Union Berlin,0,2,2
+4816,2023-01-29T14:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,1.FC Köln,0,0,0
+4817,2023-01-28T14:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,VfL Wolfsburg,2,1,1
+4818,2023-02-04T14:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,SC Freiburg,5,1,1
+4819,2023-02-04T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,FSV Mainz 05,2,1,1
+4820,2023-02-04T14:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,RB Leipzig,0,0,0
+4821,2023-02-04T17:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,FC Schalke 04,0,0,0
+4822,2023-02-04T14:30:00+00:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Hertha Berlin,3,0,1
+4823,2023-02-05T16:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,Bayern Munich,2,4,2
+4824,2023-02-04T14:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,1899 Hoffenheim,5,2,1
+4825,2023-02-03T19:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,Bayer Leverkusen,1,0,1
+4826,2023-02-05T14:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,Werder Bremen,0,2,2
+4827,2023-02-11T14:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,Vfl Bochum,3,0,1
+4828,2023-02-11T17:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,Union Berlin,1,2,2
+4829,2023-02-11T14:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,VfB Stuttgart,2,1,1
+4830,2023-02-12T16:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,Eintracht Frankfurt,3,0,1
+4831,2023-02-11T14:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,FC Augsburg,3,1,1
+4832,2023-02-11T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,Bayer Leverkusen,1,3,2
+4833,2023-02-12T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,Borussia Monchengladbach,4,1,1
+4834,2023-02-10T19:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,VfL Wolfsburg,0,0,0
+4835,2023-02-11T14:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,Borussia Dortmund,0,2,2
+4836,2023-02-19T16:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,Hertha Berlin,4,1,1
+4837,2023-02-19T18:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,FSV Mainz 05,2,3,2
+4838,2023-02-19T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,FC Schalke 04,0,0,0
+4839,2023-02-18T14:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Bayern Munich,3,2,1
+4840,2023-02-18T17:30:00+00:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Werder Bremen,2,0,1
+4841,2023-02-18T14:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,RB Leipzig,0,3,2
+4842,2023-02-18T14:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,SC Freiburg,0,2,2
+4843,2023-02-17T19:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,1899 Hoffenheim,1,0,1
+4844,2023-02-18T14:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,1.FC Köln,3,0,1
+4845,2023-02-26T16:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,Union Berlin,3,0,1
+4846,2023-02-25T14:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,Eintracht Frankfurt,2,1,1
+4847,2023-02-26T14:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,Bayer Leverkusen,1,1,0
+4848,2023-02-25T14:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,VfL Wolfsburg,0,2,2
+4849,2023-02-24T19:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,Borussia Monchengladbach,4,0,1
+4850,2023-02-25T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,Borussia Dortmund,0,1,2
+4851,2023-02-25T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,FC Augsburg,2,0,1
+4852,2023-02-25T17:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,VfB Stuttgart,2,1,1
+4853,2023-02-25T14:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,Vfl Bochum,3,0,1
+4854,2023-03-03T19:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,RB Leipzig,2,1,1
+4855,2023-03-05T14:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,Hertha Berlin,4,1,1
+4856,2023-03-04T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,1.FC Köln,0,0,0
+4857,2023-03-04T14:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,1899 Hoffenheim,1,0,1
+4858,2023-03-04T14:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,SC Freiburg,0,0,0
+4859,2023-03-05T16:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,Eintracht Frankfurt,2,2,0
+4860,2023-03-04T14:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,FC Schalke 04,0,2,2
+4861,2023-03-04T14:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,Werder Bremen,2,1,1
+4862,2023-03-04T17:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,Bayern Munich,1,2,2
+4863,2023-03-11T14:30:00+00:00,Bundesliga,Germany,2022,Bayern Munich,FC Augsburg,5,3,1
+4864,2023-03-11T14:30:00+00:00,Bundesliga,Germany,2022,RB Leipzig,Borussia Monchengladbach,3,0,1
+4865,2023-03-12T14:30:00+00:00,Bundesliga,Germany,2022,SC Freiburg,1899 Hoffenheim,2,1,1
+4866,2023-03-10T19:30:00+00:00,Bundesliga,Germany,2022,1.FC Köln,Vfl Bochum,0,2,2
+4867,2023-03-11T14:30:00+00:00,Bundesliga,Germany,2022,Eintracht Frankfurt,VfB Stuttgart,1,1,0
+4868,2023-03-12T18:30:00+00:00,Bundesliga,Germany,2022,VfL Wolfsburg,Union Berlin,1,1,0
+4869,2023-03-11T14:30:00+00:00,Bundesliga,Germany,2022,Hertha Berlin,FSV Mainz 05,1,1,0
+4870,2023-03-11T17:30:00+00:00,Bundesliga,Germany,2022,FC Schalke 04,Borussia Dortmund,2,2,0
+4871,2023-03-12T16:30:00+00:00,Bundesliga,Germany,2022,Werder Bremen,Bayer Leverkusen,2,3,2
+4872,2023-03-18T17:30:00+00:00,Bundesliga,Germany,2022,Borussia Dortmund,1.FC Köln,6,1,1
+4873,2023-03-19T16:30:00+00:00,Bundesliga,Germany,2022,Bayer Leverkusen,Bayern Munich,2,1,1
+4874,2023-03-19T14:30:00+00:00,Bundesliga,Germany,2022,Union Berlin,Eintracht Frankfurt,2,0,1
+4875,2023-03-19T18:30:00+00:00,Bundesliga,Germany,2022,FSV Mainz 05,SC Freiburg,1,1,0
+4876,2023-03-18T14:30:00+00:00,Bundesliga,Germany,2022,1899 Hoffenheim,Hertha Berlin,3,1,1
+4877,2023-03-17T19:30:00+00:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Werder Bremen,2,2,0
+4878,2023-03-18T14:30:00+00:00,Bundesliga,Germany,2022,Vfl Bochum,RB Leipzig,1,0,1
+4879,2023-03-18T14:30:00+00:00,Bundesliga,Germany,2022,FC Augsburg,FC Schalke 04,1,1,0
+4880,2023-03-18T14:30:00+00:00,Bundesliga,Germany,2022,VfB Stuttgart,VfL Wolfsburg,0,1,2
+4881,2023-04-01T17:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,Borussia Dortmund,4,2,1
+4882,2023-04-01T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,FSV Mainz 05,0,3,2
+4883,2023-04-01T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,VfB Stuttgart,3,0,1
+4884,2023-04-01T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Hertha Berlin,1,1,0
+4885,2023-04-02T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,Borussia Monchengladbach,0,0,0
+4886,2023-03-31T19:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Vfl Bochum,1,1,0
+4887,2023-04-01T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,FC Augsburg,2,2,0
+4888,2023-04-01T14:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Bayer Leverkusen,0,3,2
+4889,2023-04-02T16:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,1899 Hoffenheim,1,2,2
+4890,2023-04-08T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Union Berlin,2,1,1
+4891,2023-04-08T14:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,Eintracht Frankfurt,3,1,1
+4892,2023-04-08T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,Bayern Munich,0,1,2
+4893,2023-04-08T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,Werder Bremen,2,2,0
+4894,2023-04-09T18:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,FC Schalke 04,2,0,1
+4895,2023-04-09T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,VfL Wolfsburg,2,0,1
+4896,2023-04-09T16:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,VfB Stuttgart,2,3,2
+4897,2023-04-08T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,1.FC Köln,1,3,2
+4898,2023-04-08T17:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,RB Leipzig,0,1,2
+4899,2023-04-15T14:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,1899 Hoffenheim,1,1,0
+4900,2023-04-15T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,FC Augsburg,3,2,1
+4901,2023-04-16T16:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Vfl Bochum,1,1,0
+4902,2023-04-15T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,FSV Mainz 05,1,1,0
+4903,2023-04-15T17:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,Borussia Monchengladbach,1,1,0
+4904,2023-04-16T18:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,Bayer Leverkusen,0,0,0
+4905,2023-04-15T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Borussia Dortmund,3,3,0
+4906,2023-04-14T19:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Hertha Berlin,5,2,1
+4907,2023-04-16T14:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,SC Freiburg,1,2,2
+4908,2023-04-22T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Eintracht Frankfurt,4,0,1
+4909,2023-04-23T16:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,RB Leipzig,2,0,1
+4910,2023-04-23T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,FC Schalke 04,4,0,1
+4911,2023-04-22T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,Bayern Munich,3,1,1
+4912,2023-04-22T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,1.FC Köln,1,3,2
+4913,2023-04-23T18:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Union Berlin,0,1,2
+4914,2023-04-22T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,VfL Wolfsburg,1,5,2
+4915,2023-04-21T19:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,VfB Stuttgart,1,1,0
+4916,2023-04-22T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,Werder Bremen,2,4,2
+4917,2023-04-30T14:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,Hertha Berlin,2,0,1
+4918,2023-04-29T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,1899 Hoffenheim,1,0,1
+4919,2023-04-29T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Bayer Leverkusen,0,0,0
+4920,2023-04-29T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,SC Freiburg,0,1,2
+4921,2023-04-29T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,FC Augsburg,1,1,0
+4922,2023-04-30T16:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,FSV Mainz 05,3,0,1
+4923,2023-04-28T19:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Borussia Dortmund,1,1,0
+4924,2023-04-29T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Borussia Monchengladbach,2,1,1
+4925,2023-04-29T17:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Werder Bremen,2,1,1
+4926,2023-05-07T16:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,VfL Wolfsburg,6,0,1
+4927,2023-05-05T19:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,1.FC Köln,1,2,2
+4928,2023-05-06T14:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,RB Leipzig,0,1,2
+4929,2023-05-05T19:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,FC Schalke 04,2,3,2
+4930,2023-05-06T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,Eintracht Frankfurt,3,1,1
+4931,2023-05-06T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,Vfl Bochum,2,0,1
+4932,2023-05-06T14:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,Union Berlin,1,0,1
+4933,2023-05-06T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,VfB Stuttgart,2,1,1
+4934,2023-05-06T17:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,Bayern Munich,1,2,2
+4935,2023-05-13T14:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,FC Schalke 04,6,0,1
+4936,2023-05-13T17:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,Borussia Monchengladbach,5,2,1
+4937,2023-05-14T16:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,Werder Bremen,2,1,1
+4938,2023-05-13T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,SC Freiburg,4,2,1
+4939,2023-05-12T19:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,Hertha Berlin,5,2,1
+4940,2023-05-13T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,FSV Mainz 05,3,0,1
+4941,2023-05-13T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,1899 Hoffenheim,2,1,1
+4942,2023-05-13T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,FC Augsburg,3,2,1
+4943,2023-05-14T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,Bayer Leverkusen,1,1,0
+4944,2023-05-20T17:30:00+01:00,Bundesliga,Germany,2022,Bayern Munich,RB Leipzig,1,3,2
+4945,2023-05-21T18:30:00+01:00,Bundesliga,Germany,2022,Bayer Leverkusen,Borussia Monchengladbach,2,2,0
+4946,2023-05-19T19:30:00+01:00,Bundesliga,Germany,2022,SC Freiburg,VfL Wolfsburg,2,0,1
+4947,2023-05-21T14:30:00+01:00,Bundesliga,Germany,2022,FSV Mainz 05,VfB Stuttgart,1,4,2
+4948,2023-05-20T14:30:00+01:00,Bundesliga,Germany,2022,1899 Hoffenheim,Union Berlin,4,2,1
+4949,2023-05-21T16:30:00+01:00,Bundesliga,Germany,2022,FC Augsburg,Borussia Dortmund,0,3,2
+4950,2023-05-20T14:30:00+01:00,Bundesliga,Germany,2022,Hertha Berlin,Vfl Bochum,1,1,0
+4951,2023-05-20T14:30:00+01:00,Bundesliga,Germany,2022,FC Schalke 04,Eintracht Frankfurt,2,2,0
+4952,2023-05-20T14:30:00+01:00,Bundesliga,Germany,2022,Werder Bremen,1.FC Köln,1,1,0
+4953,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Dortmund,FSV Mainz 05,2,2,0
+4954,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,RB Leipzig,FC Schalke 04,4,2,1
+4955,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,Union Berlin,Werder Bremen,1,0,1
+4956,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,1.FC Köln,Bayern Munich,1,2,2
+4957,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,Borussia Monchengladbach,FC Augsburg,2,0,1
+4958,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,Eintracht Frankfurt,SC Freiburg,2,1,1
+4959,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,VfL Wolfsburg,Hertha Berlin,1,2,2
+4960,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,Vfl Bochum,Bayer Leverkusen,3,0,1
+4961,2023-05-27T14:30:00+01:00,Bundesliga,Germany,2022,VfB Stuttgart,1899 Hoffenheim,1,1,0
+4964,2022-08-13T17:30:00+01:00,Serie A,Italy,2022,AC Milan,Udinese,4,2,1
+4965,2022-08-13T17:30:00+01:00,Serie A,Italy,2022,Sampdoria,Atalanta,0,2,2
+4966,2022-08-13T19:45:00+01:00,Serie A,Italy,2022,Lecce,Inter,1,2,2
+4967,2022-08-13T19:45:00+01:00,Serie A,Italy,2022,Monza,Torino,1,2,2
+4968,2022-08-14T17:30:00+01:00,Serie A,Italy,2022,Fiorentina,Cremonese,3,2,1
+4969,2022-08-14T17:30:00+01:00,Serie A,Italy,2022,Lazio,Bologna,2,1,1
+4970,2022-08-14T19:45:00+01:00,Serie A,Italy,2022,Salernitana,AS Roma,0,1,2
+4971,2022-08-14T19:45:00+01:00,Serie A,Italy,2022,Spezia,Empoli,1,0,1
+4972,2022-08-15T17:30:00+01:00,Serie A,Italy,2022,Verona,Napoli,2,5,2
+4973,2022-08-15T19:45:00+01:00,Serie A,Italy,2022,Juventus,Sassuolo,3,0,1
+4974,2022-08-20T17:30:00+01:00,Serie A,Italy,2022,Torino,Lazio,0,0,0
+4975,2022-08-20T17:30:00+01:00,Serie A,Italy,2022,Udinese,Salernitana,0,0,0
+4976,2022-08-20T19:45:00+01:00,Serie A,Italy,2022,Inter,Spezia,3,0,1
+4977,2022-08-20T19:45:00+01:00,Serie A,Italy,2022,Sassuolo,Lecce,1,0,1
+4978,2022-08-21T17:30:00+01:00,Serie A,Italy,2022,Empoli,Fiorentina,0,0,0
+4979,2022-08-21T17:30:00+01:00,Serie A,Italy,2022,Napoli,Monza,4,0,1
+4980,2022-08-21T19:45:00+01:00,Serie A,Italy,2022,Atalanta,AC Milan,1,1,0
+4981,2022-08-21T19:45:00+01:00,Serie A,Italy,2022,Bologna,Verona,1,1,0
+4982,2022-08-22T17:30:00+01:00,Serie A,Italy,2022,AS Roma,Cremonese,1,0,1
+4983,2022-08-22T19:45:00+01:00,Serie A,Italy,2022,Sampdoria,Juventus,0,0,0
+4984,2022-08-26T17:30:00+01:00,Serie A,Italy,2022,Monza,Udinese,1,2,2
+4985,2022-08-26T19:45:00+01:00,Serie A,Italy,2022,Lazio,Inter,3,1,1
+4986,2022-08-27T17:30:00+01:00,Serie A,Italy,2022,Cremonese,Torino,1,2,2
+4987,2022-08-27T17:30:00+01:00,Serie A,Italy,2022,Juventus,AS Roma,1,1,0
+4988,2022-08-27T19:45:00+01:00,Serie A,Italy,2022,AC Milan,Bologna,2,0,1
+4989,2022-08-27T19:45:00+01:00,Serie A,Italy,2022,Spezia,Sassuolo,2,2,0
+4990,2022-08-28T17:30:00+01:00,Serie A,Italy,2022,Verona,Atalanta,0,1,2
+4991,2022-08-28T17:30:00+01:00,Serie A,Italy,2022,Salernitana,Sampdoria,4,0,1
+4992,2022-08-28T19:45:00+01:00,Serie A,Italy,2022,Fiorentina,Napoli,0,0,0
+4993,2022-08-28T19:45:00+01:00,Serie A,Italy,2022,Lecce,Empoli,1,1,0
+4994,2022-08-30T17:30:00+01:00,Serie A,Italy,2022,Sassuolo,AC Milan,0,0,0
+4995,2022-08-30T19:45:00+01:00,Serie A,Italy,2022,Inter,Cremonese,3,1,1
+4996,2022-08-30T19:45:00+01:00,Serie A,Italy,2022,AS Roma,Monza,3,0,1
+4997,2022-08-31T17:30:00+01:00,Serie A,Italy,2022,Empoli,Verona,1,1,0
+4998,2022-08-31T17:30:00+01:00,Serie A,Italy,2022,Sampdoria,Lazio,1,1,0
+4999,2022-08-31T17:30:00+01:00,Serie A,Italy,2022,Udinese,Fiorentina,1,0,1
+5000,2022-08-31T19:45:00+01:00,Serie A,Italy,2022,Juventus,Spezia,2,0,1
+5001,2022-08-31T19:45:00+01:00,Serie A,Italy,2022,Napoli,Lecce,1,1,0
+5002,2022-09-01T19:45:00+01:00,Serie A,Italy,2022,Atalanta,Torino,3,1,1
+5003,2022-09-01T19:45:00+01:00,Serie A,Italy,2022,Bologna,Salernitana,1,1,0
+5004,2022-09-03T14:00:00+01:00,Serie A,Italy,2022,Fiorentina,Juventus,1,1,0
+5005,2022-09-03T17:00:00+01:00,Serie A,Italy,2022,AC Milan,Inter,3,2,1
+5006,2022-09-03T19:45:00+01:00,Serie A,Italy,2022,Lazio,Napoli,1,2,2
+5007,2022-09-04T11:30:00+01:00,Serie A,Italy,2022,Cremonese,Sassuolo,0,0,0
+5008,2022-09-04T14:00:00+01:00,Serie A,Italy,2022,Spezia,Bologna,2,2,0
+5009,2022-09-04T17:00:00+01:00,Serie A,Italy,2022,Verona,Sampdoria,2,1,1
+5010,2022-09-04T19:45:00+01:00,Serie A,Italy,2022,Udinese,AS Roma,4,0,1
+5011,2022-09-05T17:30:00+01:00,Serie A,Italy,2022,Monza,Atalanta,0,2,2
+5012,2022-09-05T17:30:00+01:00,Serie A,Italy,2022,Salernitana,Empoli,2,2,0
+5013,2022-09-05T19:45:00+01:00,Serie A,Italy,2022,Torino,Lecce,1,0,1
+5014,2022-09-11T11:30:00+01:00,Serie A,Italy,2022,Atalanta,Cremonese,1,1,0
+5015,2022-09-11T14:00:00+01:00,Serie A,Italy,2022,Bologna,Fiorentina,2,1,1
+5016,2022-09-12T19:45:00+01:00,Serie A,Italy,2022,Empoli,AS Roma,1,2,2
+5017,2022-09-10T17:00:00+01:00,Serie A,Italy,2022,Inter,Torino,1,0,1
+5018,2022-09-11T19:45:00+01:00,Serie A,Italy,2022,Juventus,Salernitana,2,2,0
+5019,2022-09-11T17:00:00+01:00,Serie A,Italy,2022,Lazio,Verona,2,0,1
+5020,2022-09-11T14:00:00+01:00,Serie A,Italy,2022,Lecce,Monza,1,1,0
+5021,2022-09-10T14:00:00+01:00,Serie A,Italy,2022,Napoli,Spezia,1,0,1
+5022,2022-09-10T19:45:00+01:00,Serie A,Italy,2022,Sampdoria,AC Milan,1,2,2
+5023,2022-09-11T14:00:00+01:00,Serie A,Italy,2022,Sassuolo,Udinese,1,3,2
+5024,2022-09-17T14:00:00+01:00,Serie A,Italy,2022,Bologna,Empoli,0,1,2
+5025,2022-09-18T14:00:00+01:00,Serie A,Italy,2022,Cremonese,Lazio,0,4,2
+5026,2022-09-18T14:00:00+01:00,Serie A,Italy,2022,Fiorentina,Verona,2,0,1
+5027,2022-09-18T19:45:00+01:00,Serie A,Italy,2022,AC Milan,Napoli,1,2,2
+5028,2022-09-18T14:00:00+01:00,Serie A,Italy,2022,Monza,Juventus,1,0,1
+5029,2022-09-18T17:00:00+01:00,Serie A,Italy,2022,AS Roma,Atalanta,0,1,2
+5030,2022-09-16T19:45:00+01:00,Serie A,Italy,2022,Salernitana,Lecce,1,2,2
+5031,2022-09-17T17:00:00+01:00,Serie A,Italy,2022,Spezia,Sampdoria,2,1,1
+5032,2022-09-17T19:45:00+01:00,Serie A,Italy,2022,Torino,Sassuolo,0,1,2
+5033,2022-09-18T11:30:00+01:00,Serie A,Italy,2022,Udinese,Inter,3,1,1
+5034,2022-10-02T17:00:00+01:00,Serie A,Italy,2022,Atalanta,Fiorentina,1,0,1
+5035,2022-10-01T19:45:00+01:00,Serie A,Italy,2022,Empoli,AC Milan,1,3,2
+5036,2022-10-03T19:45:00+01:00,Serie A,Italy,2022,Verona,Udinese,1,2,2
+5037,2022-10-01T17:00:00+01:00,Serie A,Italy,2022,Inter,AS Roma,1,2,2
+5038,2022-10-02T19:45:00+01:00,Serie A,Italy,2022,Juventus,Bologna,3,0,1
+5039,2022-10-02T11:30:00+01:00,Serie A,Italy,2022,Lazio,Spezia,4,0,1
+5040,2022-10-02T14:00:00+01:00,Serie A,Italy,2022,Lecce,Cremonese,1,1,0
+5041,2022-10-01T14:00:00+01:00,Serie A,Italy,2022,Napoli,Torino,3,1,1
+5042,2022-10-02T14:00:00+01:00,Serie A,Italy,2022,Sampdoria,Monza,0,3,2
+5043,2022-10-02T14:00:00+01:00,Serie A,Italy,2022,Sassuolo,Salernitana,5,0,1
+5044,2022-10-08T19:45:00+01:00,Serie A,Italy,2022,Bologna,Sampdoria,1,1,0
+5045,2022-10-09T17:00:00+01:00,Serie A,Italy,2022,Cremonese,Napoli,1,4,2
+5046,2022-10-10T19:45:00+01:00,Serie A,Italy,2022,Fiorentina,Lazio,0,4,2
+5047,2022-10-08T17:00:00+01:00,Serie A,Italy,2022,AC Milan,Juventus,2,0,1
+5048,2022-10-09T14:00:00+01:00,Serie A,Italy,2022,Monza,Spezia,2,0,1
+5049,2022-10-09T19:45:00+01:00,Serie A,Italy,2022,AS Roma,Lecce,2,1,1
+5050,2022-10-09T14:00:00+01:00,Serie A,Italy,2022,Salernitana,Verona,2,1,1
+5051,2022-10-08T14:00:00+01:00,Serie A,Italy,2022,Sassuolo,Inter,1,2,2
+5052,2022-10-09T11:30:00+01:00,Serie A,Italy,2022,Torino,Empoli,1,1,0
+5053,2022-10-09T14:00:00+01:00,Serie A,Italy,2022,Udinese,Atalanta,2,2,0
+5054,2022-10-15T19:45:00+01:00,Serie A,Italy,2022,Atalanta,Sassuolo,2,1,1
+5055,2022-10-15T14:00:00+01:00,Serie A,Italy,2022,Empoli,Monza,1,0,1
+5056,2022-10-16T19:45:00+01:00,Serie A,Italy,2022,Verona,AC Milan,1,2,2
+5057,2022-10-16T11:30:00+01:00,Serie A,Italy,2022,Inter,Salernitana,2,0,1
+5058,2022-10-16T14:00:00+01:00,Serie A,Italy,2022,Lazio,Udinese,0,0,0
+5059,2022-10-17T19:45:00+01:00,Serie A,Italy,2022,Lecce,Fiorentina,1,1,0
+5060,2022-10-16T17:00:00+01:00,Serie A,Italy,2022,Napoli,Bologna,3,2,1
+5061,2022-10-17T17:30:00+01:00,Serie A,Italy,2022,Sampdoria,AS Roma,0,1,2
+5062,2022-10-16T14:00:00+01:00,Serie A,Italy,2022,Spezia,Cremonese,2,2,0
+5063,2022-10-15T17:00:00+01:00,Serie A,Italy,2022,Torino,Juventus,0,1,2
+5064,2022-10-23T17:00:00+01:00,Serie A,Italy,2022,Atalanta,Lazio,0,2,2
+5065,2022-10-23T14:00:00+01:00,Serie A,Italy,2022,Bologna,Lecce,2,0,1
+5066,2022-10-24T17:30:00+01:00,Serie A,Italy,2022,Cremonese,Sampdoria,0,1,2
+5067,2022-10-22T19:45:00+01:00,Serie A,Italy,2022,Fiorentina,Inter,3,4,2
+5068,2022-10-21T19:45:00+01:00,Serie A,Italy,2022,Juventus,Empoli,4,0,1
+5069,2022-10-22T17:00:00+01:00,Serie A,Italy,2022,AC Milan,Monza,4,1,1
+5070,2022-10-23T19:45:00+01:00,Serie A,Italy,2022,AS Roma,Napoli,0,1,2
+5071,2022-10-22T14:00:00+01:00,Serie A,Italy,2022,Salernitana,Spezia,1,0,1
+5072,2022-10-24T19:45:00+01:00,Serie A,Italy,2022,Sassuolo,Verona,2,1,1
+5073,2022-10-23T11:30:00+01:00,Serie A,Italy,2022,Udinese,Torino,1,2,2
+5074,2022-10-30T14:00:00+00:00,Serie A,Italy,2022,Cremonese,Udinese,0,0,0
+5075,2022-10-31T17:30:00+00:00,Serie A,Italy,2022,Verona,AS Roma,1,3,2
+5076,2022-10-29T19:45:00+01:00,Serie A,Italy,2022,Inter,Sampdoria,3,0,1
+5077,2022-10-30T17:00:00+00:00,Serie A,Italy,2022,Lazio,Salernitana,1,3,2
+5078,2022-10-29T14:00:00+01:00,Serie A,Italy,2022,Napoli,Sassuolo,4,0,1
+5079,2022-10-30T11:30:00+00:00,Serie A,Italy,2022,Empoli,Atalanta,0,2,2
+5080,2022-10-31T19:45:00+00:00,Serie A,Italy,2022,Monza,Bologna,1,2,2
+5081,2022-10-30T14:00:00+00:00,Serie A,Italy,2022,Spezia,Fiorentina,1,2,2
+5082,2022-10-29T17:00:00+01:00,Serie A,Italy,2022,Lecce,Juventus,0,1,2
+5083,2022-10-30T19:45:00+00:00,Serie A,Italy,2022,Torino,AC Milan,2,1,1
+5084,2022-11-05T17:00:00+00:00,Serie A,Italy,2022,Atalanta,Napoli,1,2,2
+5085,2022-11-06T11:30:00+00:00,Serie A,Italy,2022,Bologna,Torino,2,1,1
+5086,2022-11-05T14:00:00+00:00,Serie A,Italy,2022,Empoli,Sassuolo,1,0,1
+5087,2022-11-05T19:45:00+00:00,Serie A,Italy,2022,AC Milan,Spezia,2,1,1
+5088,2022-11-05T14:00:00+00:00,Serie A,Italy,2022,Salernitana,Cremonese,2,2,0
+5089,2022-11-06T14:00:00+00:00,Serie A,Italy,2022,Sampdoria,Fiorentina,0,2,2
+5090,2022-11-06T14:00:00+00:00,Serie A,Italy,2022,Monza,Verona,2,0,1
+5091,2022-11-06T19:45:00+00:00,Serie A,Italy,2022,Juventus,Inter,2,0,1
+5092,2022-11-06T17:00:00+00:00,Serie A,Italy,2022,AS Roma,Lazio,0,1,2
+5093,2022-11-04T19:45:00+00:00,Serie A,Italy,2022,Udinese,Lecce,1,1,0
+5094,2022-11-08T19:45:00+00:00,Serie A,Italy,2022,Cremonese,AC Milan,0,0,0
+5095,2022-11-09T19:45:00+00:00,Serie A,Italy,2022,Fiorentina,Salernitana,2,1,1
+5096,2022-11-10T17:30:00+00:00,Serie A,Italy,2022,Verona,Juventus,0,1,2
+5097,2022-11-09T19:45:00+00:00,Serie A,Italy,2022,Inter,Bologna,6,1,1
+5098,2022-11-10T19:45:00+00:00,Serie A,Italy,2022,Lazio,Monza,1,0,1
+5099,2022-11-09T17:30:00+00:00,Serie A,Italy,2022,Lecce,Atalanta,2,1,1
+5100,2022-11-08T17:30:00+00:00,Serie A,Italy,2022,Napoli,Empoli,2,0,1
+5101,2022-11-09T17:30:00+00:00,Serie A,Italy,2022,Sassuolo,AS Roma,1,1,0
+5102,2022-11-08T17:30:00+00:00,Serie A,Italy,2022,Spezia,Udinese,1,1,0
+5103,2022-11-09T19:45:00+00:00,Serie A,Italy,2022,Torino,Sampdoria,2,0,1
+5104,2022-11-13T11:30:00+00:00,Serie A,Italy,2022,Atalanta,Inter,2,3,2
+5105,2022-11-12T19:45:00+00:00,Serie A,Italy,2022,Bologna,Sassuolo,3,0,1
+5106,2022-11-11T19:45:00+00:00,Serie A,Italy,2022,Empoli,Cremonese,2,0,1
+5107,2022-11-13T14:00:00+00:00,Serie A,Italy,2022,Verona,Spezia,1,2,2
+5108,2022-11-13T19:45:00+00:00,Serie A,Italy,2022,Juventus,Lazio,3,0,1
+5109,2022-11-13T17:00:00+00:00,Serie A,Italy,2022,AC Milan,Fiorentina,2,1,1
+5110,2022-11-13T14:00:00+00:00,Serie A,Italy,2022,Monza,Salernitana,3,0,1
+5111,2022-11-12T14:00:00+00:00,Serie A,Italy,2022,Napoli,Udinese,3,2,1
+5112,2022-11-13T14:00:00+00:00,Serie A,Italy,2022,AS Roma,Torino,1,1,0
+5113,2022-11-12T17:00:00+00:00,Serie A,Italy,2022,Sampdoria,Lecce,0,2,2
+5114,2023-01-04T17:30:00+00:00,Serie A,Italy,2022,Cremonese,Juventus,0,1,2
+5115,2023-01-04T17:30:00+00:00,Serie A,Italy,2022,Fiorentina,Monza,1,1,0
+5116,2023-01-04T19:45:00+00:00,Serie A,Italy,2022,Inter,Napoli,1,0,1
+5117,2023-01-04T13:30:00+00:00,Serie A,Italy,2022,Spezia,Atalanta,2,2,0
+5118,2023-01-04T15:30:00+00:00,Serie A,Italy,2022,AS Roma,Bologna,1,0,1
+5119,2023-01-04T19:45:00+00:00,Serie A,Italy,2022,Udinese,Empoli,1,1,0
+5120,2023-01-04T13:30:00+00:00,Serie A,Italy,2022,Torino,Verona,1,1,0
+5121,2023-01-04T15:30:00+00:00,Serie A,Italy,2022,Lecce,Lazio,2,1,1
+5122,2023-01-04T11:30:00+00:00,Serie A,Italy,2022,Salernitana,AC Milan,1,2,2
+5123,2023-01-04T11:30:00+00:00,Serie A,Italy,2022,Sassuolo,Sampdoria,1,2,2
+5124,2023-01-09T19:45:00+00:00,Serie A,Italy,2022,Bologna,Atalanta,1,2,2
+5125,2023-01-07T14:00:00+00:00,Serie A,Italy,2022,Fiorentina,Sassuolo,2,1,1
+5126,2023-01-09T17:30:00+00:00,Serie A,Italy,2022,Verona,Cremonese,2,0,1
+5127,2023-01-07T17:00:00+00:00,Serie A,Italy,2022,Juventus,Udinese,1,0,1
+5128,2023-01-08T14:00:00+00:00,Serie A,Italy,2022,Lazio,Empoli,2,2,0
+5129,2023-01-08T19:45:00+00:00,Serie A,Italy,2022,AC Milan,AS Roma,2,2,0
+5130,2023-01-07T19:45:00+00:00,Serie A,Italy,2022,Monza,Inter,2,2,0
+5131,2023-01-08T11:30:00+00:00,Serie A,Italy,2022,Salernitana,Torino,1,1,0
+5132,2023-01-08T17:00:00+00:00,Serie A,Italy,2022,Sampdoria,Napoli,0,2,2
+5133,2023-01-08T14:00:00+00:00,Serie A,Italy,2022,Spezia,Lecce,0,0,0
+5134,2023-01-15T17:00:00+00:00,Serie A,Italy,2022,Atalanta,Salernitana,8,2,1
+5135,2023-01-14T14:00:00+00:00,Serie A,Italy,2022,Cremonese,Monza,2,3,2
+5136,2023-01-16T19:45:00+00:00,Serie A,Italy,2022,Empoli,Sampdoria,1,0,1
+5137,2023-01-14T19:45:00+00:00,Serie A,Italy,2022,Inter,Verona,1,0,1
+5138,2023-01-14T17:00:00+00:00,Serie A,Italy,2022,Lecce,AC Milan,2,2,0
+5139,2023-01-13T19:45:00+00:00,Serie A,Italy,2022,Napoli,Juventus,5,1,1
+5140,2023-01-15T19:45:00+00:00,Serie A,Italy,2022,AS Roma,Fiorentina,2,0,1
+5141,2023-01-15T11:30:00+00:00,Serie A,Italy,2022,Sassuolo,Lazio,0,2,2
+5142,2023-01-15T14:00:00+00:00,Serie A,Italy,2022,Torino,Spezia,0,1,2
+5143,2023-01-15T14:00:00+00:00,Serie A,Italy,2022,Udinese,Bologna,1,2,2
+5144,2023-01-23T17:30:00+00:00,Serie A,Italy,2022,Bologna,Cremonese,1,1,0
+5145,2023-01-21T19:45:00+00:00,Serie A,Italy,2022,Fiorentina,Torino,0,1,2
+5146,2023-01-21T14:00:00+00:00,Serie A,Italy,2022,Verona,Lecce,2,0,1
+5147,2023-01-23T19:45:00+00:00,Serie A,Italy,2022,Inter,Empoli,0,1,2
+5148,2023-01-22T19:45:00+00:00,Serie A,Italy,2022,Juventus,Atalanta,3,3,0
+5149,2023-01-24T19:45:00+00:00,Serie A,Italy,2022,Lazio,AC Milan,4,0,1
+5150,2023-01-22T14:00:00+00:00,Serie A,Italy,2022,Monza,Sassuolo,1,1,0
+5151,2023-01-21T17:00:00+00:00,Serie A,Italy,2022,Salernitana,Napoli,0,2,2
+5152,2023-01-22T11:30:00+00:00,Serie A,Italy,2022,Sampdoria,Udinese,0,1,2
+5153,2023-01-22T17:00:00+00:00,Serie A,Italy,2022,Spezia,AS Roma,0,2,2
+5154,2023-01-28T19:45:00+00:00,Serie A,Italy,2022,Atalanta,Sampdoria,2,0,1
+5155,2023-01-27T17:30:00+00:00,Serie A,Italy,2022,Bologna,Spezia,2,0,1
+5156,2023-01-28T17:00:00+00:00,Serie A,Italy,2022,Cremonese,Inter,1,2,2
+5157,2023-01-28T14:00:00+00:00,Serie A,Italy,2022,Empoli,Torino,2,2,0
+5158,2023-01-29T14:00:00+00:00,Serie A,Italy,2022,Juventus,Monza,0,2,2
+5159,2023-01-27T19:45:00+00:00,Serie A,Italy,2022,Lecce,Salernitana,1,2,2
+5160,2023-01-29T11:30:00+00:00,Serie A,Italy,2022,AC Milan,Sassuolo,2,5,2
+5161,2023-01-29T19:45:00+00:00,Serie A,Italy,2022,Napoli,AS Roma,2,1,1
+5162,2023-01-29T17:00:00+00:00,Serie A,Italy,2022,Lazio,Fiorentina,1,1,0
+5163,2023-01-30T19:45:00+00:00,Serie A,Italy,2022,Udinese,Verona,1,1,0
+5164,2023-02-04T14:00:00+00:00,Serie A,Italy,2022,Cremonese,Lecce,0,2,2
+5165,2023-02-05T17:00:00+00:00,Serie A,Italy,2022,Fiorentina,Bologna,1,2,2
+5166,2023-02-06T17:30:00+00:00,Serie A,Italy,2022,Verona,Lazio,1,1,0
+5167,2023-02-05T19:45:00+00:00,Serie A,Italy,2022,Inter,AC Milan,1,0,1
+5168,2023-02-06T19:45:00+00:00,Serie A,Italy,2022,Monza,Sampdoria,2,2,0
+5169,2023-02-04T17:00:00+00:00,Serie A,Italy,2022,AS Roma,Empoli,2,0,1
+5170,2023-02-07T19:45:00+00:00,Serie A,Italy,2022,Salernitana,Juventus,0,3,2
+5171,2023-02-04T19:45:00+00:00,Serie A,Italy,2022,Sassuolo,Atalanta,1,0,1
+5172,2023-02-05T11:30:00+00:00,Serie A,Italy,2022,Spezia,Napoli,0,3,2
+5173,2023-02-05T14:00:00+00:00,Serie A,Italy,2022,Torino,Udinese,1,0,1
+5174,2023-02-12T14:00:00+00:00,Serie A,Italy,2022,Bologna,Monza,0,1,2
+5175,2023-02-11T14:00:00+00:00,Serie A,Italy,2022,Empoli,Spezia,2,2,0
+5176,2023-02-13T17:30:00+00:00,Serie A,Italy,2022,Verona,Salernitana,1,0,1
+5177,2023-02-12T17:00:00+00:00,Serie A,Italy,2022,Juventus,Fiorentina,1,0,1
+5178,2023-02-11T19:45:00+00:00,Serie A,Italy,2022,Lazio,Atalanta,0,2,2
+5179,2023-02-11T17:00:00+00:00,Serie A,Italy,2022,Lecce,AS Roma,1,1,0
+5180,2023-02-10T19:45:00+00:00,Serie A,Italy,2022,AC Milan,Torino,1,0,1
+5181,2023-02-12T19:45:00+00:00,Serie A,Italy,2022,Napoli,Cremonese,3,0,1
+5182,2023-02-13T19:45:00+00:00,Serie A,Italy,2022,Sampdoria,Inter,0,0,0
+5183,2023-02-12T11:30:00+00:00,Serie A,Italy,2022,Udinese,Sassuolo,2,2,0
+5184,2023-02-19T11:30:00+00:00,Serie A,Italy,2022,Atalanta,Lecce,1,2,2
+5185,2023-02-19T14:00:00+00:00,Serie A,Italy,2022,Fiorentina,Empoli,1,1,0
+5186,2023-02-18T19:45:00+00:00,Serie A,Italy,2022,Inter,Udinese,3,1,1
+5187,2023-02-18T17:00:00+00:00,Serie A,Italy,2022,Monza,AC Milan,0,1,2
+5188,2023-02-19T19:45:00+00:00,Serie A,Italy,2022,AS Roma,Verona,1,0,1
+5189,2023-02-19T14:00:00+00:00,Serie A,Italy,2022,Salernitana,Lazio,0,2,2
+5190,2023-02-18T14:00:00+00:00,Serie A,Italy,2022,Sampdoria,Bologna,1,2,2
+5191,2023-02-17T19:45:00+00:00,Serie A,Italy,2022,Sassuolo,Napoli,0,2,2
+5192,2023-02-19T17:00:00+00:00,Serie A,Italy,2022,Spezia,Juventus,0,2,2
+5193,2023-02-20T19:45:00+00:00,Serie A,Italy,2022,Torino,Cremonese,2,2,0
+5194,2023-02-26T11:30:00+00:00,Serie A,Italy,2022,Bologna,Inter,1,0,1
+5195,2023-02-28T17:30:00+00:00,Serie A,Italy,2022,Cremonese,AS Roma,2,1,1
+5196,2023-02-25T17:00:00+00:00,Serie A,Italy,2022,Empoli,Napoli,0,2,2
+5197,2023-02-28T19:45:00+00:00,Serie A,Italy,2022,Juventus,Torino,4,2,1
+5198,2023-02-27T19:45:00+00:00,Serie A,Italy,2022,Lazio,Sampdoria,1,0,1
+5199,2023-02-25T19:45:00+00:00,Serie A,Italy,2022,Lecce,Sassuolo,0,1,2
+5200,2023-02-26T19:45:00+00:00,Serie A,Italy,2022,AC Milan,Atalanta,2,0,1
+5201,2023-02-27T17:30:00+00:00,Serie A,Italy,2022,Verona,Fiorentina,0,3,2
+5202,2023-02-26T14:00:00+00:00,Serie A,Italy,2022,Salernitana,Monza,3,0,1
+5203,2023-02-26T17:00:00+00:00,Serie A,Italy,2022,Udinese,Spezia,2,2,0
+5204,2023-03-04T17:00:00+00:00,Serie A,Italy,2022,Atalanta,Udinese,0,0,0
+5205,2023-03-04T19:45:00+00:00,Serie A,Italy,2022,Fiorentina,AC Milan,2,1,1
+5206,2023-03-05T17:00:00+00:00,Serie A,Italy,2022,Inter,Lecce,2,0,1
+5207,2023-03-04T14:00:00+00:00,Serie A,Italy,2022,Monza,Empoli,2,1,1
+5208,2023-03-03T19:45:00+00:00,Serie A,Italy,2022,Napoli,Lazio,0,1,2
+5209,2023-03-05T19:45:00+00:00,Serie A,Italy,2022,AS Roma,Juventus,1,0,1
+5210,2023-03-05T14:00:00+00:00,Serie A,Italy,2022,Sampdoria,Salernitana,0,0,0
+5211,2023-03-06T17:30:00+00:00,Serie A,Italy,2022,Sassuolo,Cremonese,3,2,1
+5212,2023-03-05T11:30:00+00:00,Serie A,Italy,2022,Spezia,Verona,0,0,0
+5213,2023-03-06T19:45:00+00:00,Serie A,Italy,2022,Torino,Bologna,1,0,1
+5214,2023-03-11T19:45:00+00:00,Serie A,Italy,2022,Bologna,Lazio,0,0,0
+5215,2023-03-12T14:00:00+00:00,Serie A,Italy,2022,Cremonese,Fiorentina,0,2,2
+5216,2023-03-11T14:00:00+00:00,Serie A,Italy,2022,Empoli,Udinese,0,1,2
+5217,2023-03-12T14:00:00+00:00,Serie A,Italy,2022,Verona,Monza,1,1,0
+5218,2023-03-12T19:45:00+00:00,Serie A,Italy,2022,Juventus,Sampdoria,4,2,1
+5219,2023-03-12T11:30:00+00:00,Serie A,Italy,2022,Lecce,Torino,0,2,2
+5220,2023-03-13T19:45:00+00:00,Serie A,Italy,2022,AC Milan,Salernitana,1,1,0
+5221,2023-03-12T17:00:00+00:00,Serie A,Italy,2022,AS Roma,Sassuolo,3,4,2
+5222,2023-03-11T17:00:00+00:00,Serie A,Italy,2022,Napoli,Atalanta,2,0,1
+5223,2023-03-10T19:45:00+00:00,Serie A,Italy,2022,Spezia,Inter,2,1,1
+5224,2023-03-17T19:45:00+00:00,Serie A,Italy,2022,Atalanta,Empoli,2,1,1
+5225,2023-03-19T14:00:00+00:00,Serie A,Italy,2022,Fiorentina,Lecce,1,0,1
+5226,2023-03-19T19:45:00+00:00,Serie A,Italy,2022,Inter,Juventus,0,1,2
+5227,2023-03-19T17:00:00+00:00,Serie A,Italy,2022,Lazio,AS Roma,1,0,1
+5228,2023-03-17T17:30:00+00:00,Serie A,Italy,2022,Sassuolo,Spezia,1,0,1
+5229,2023-03-18T17:00:00+00:00,Serie A,Italy,2022,Salernitana,Bologna,2,2,0
+5230,2023-03-18T14:00:00+00:00,Serie A,Italy,2022,Monza,Cremonese,1,1,0
+5231,2023-03-19T11:30:00+00:00,Serie A,Italy,2022,Sampdoria,Verona,3,1,1
+5232,2023-03-18T19:45:00+00:00,Serie A,Italy,2022,Udinese,AC Milan,3,1,1
+5233,2023-03-19T14:00:00+00:00,Serie A,Italy,2022,Torino,Napoli,0,4,2
+5234,2023-04-02T11:30:00+01:00,Serie A,Italy,2022,Bologna,Udinese,3,0,1
+5235,2023-04-03T17:30:00+01:00,Serie A,Italy,2022,Empoli,Lecce,1,0,1
+5236,2023-04-02T17:00:00+01:00,Serie A,Italy,2022,AS Roma,Sampdoria,3,0,1
+5237,2023-04-03T19:45:00+01:00,Serie A,Italy,2022,Sassuolo,Torino,1,1,0
+5238,2023-04-01T14:00:00+01:00,Serie A,Italy,2022,Cremonese,Atalanta,1,3,2
+5239,2023-04-01T17:00:00+01:00,Serie A,Italy,2022,Inter,Fiorentina,0,1,2
+5240,2023-04-01T19:45:00+01:00,Serie A,Italy,2022,Juventus,Verona,1,0,1
+5241,2023-04-02T14:00:00+01:00,Serie A,Italy,2022,Monza,Lazio,0,2,2
+5242,2023-04-02T19:45:00+01:00,Serie A,Italy,2022,Napoli,AC Milan,0,4,2
+5243,2023-04-02T14:00:00+01:00,Serie A,Italy,2022,Spezia,Salernitana,1,1,0
+5244,2023-04-08T15:30:00+01:00,Serie A,Italy,2022,Atalanta,Bologna,0,2,2
+5245,2023-04-08T13:30:00+01:00,Serie A,Italy,2022,Fiorentina,Spezia,1,1,0
+5246,2023-04-08T17:30:00+01:00,Serie A,Italy,2022,Verona,Sassuolo,2,1,1
+5247,2023-04-07T18:00:00+01:00,Serie A,Italy,2022,Lecce,Napoli,1,2,2
+5248,2023-04-08T15:30:00+01:00,Serie A,Italy,2022,Sampdoria,Cremonese,2,3,2
+5249,2023-04-07T20:00:00+01:00,Serie A,Italy,2022,AC Milan,Empoli,0,0,0
+5250,2023-04-07T16:00:00+01:00,Serie A,Italy,2022,Salernitana,Inter,1,1,0
+5251,2023-04-08T19:45:00+01:00,Serie A,Italy,2022,Lazio,Juventus,2,1,1
+5252,2023-04-08T11:30:00+01:00,Serie A,Italy,2022,Udinese,Monza,2,2,0
+5253,2023-04-08T17:30:00+01:00,Serie A,Italy,2022,Torino,AS Roma,0,1,2
+5254,2023-04-15T14:00:00+01:00,Serie A,Italy,2022,Bologna,AC Milan,1,1,0
+5255,2023-04-14T17:30:00+01:00,Serie A,Italy,2022,Cremonese,Empoli,1,0,1
+5256,2023-04-15T19:45:00+01:00,Serie A,Italy,2022,Inter,Monza,0,1,2
+5257,2023-04-16T11:30:00+01:00,Serie A,Italy,2022,Lecce,Sampdoria,1,1,0
+5258,2023-04-16T19:45:00+01:00,Serie A,Italy,2022,AS Roma,Udinese,3,0,1
+5259,2023-04-17T19:45:00+01:00,Serie A,Italy,2022,Fiorentina,Atalanta,1,1,0
+5260,2023-04-15T17:00:00+01:00,Serie A,Italy,2022,Napoli,Verona,0,0,0
+5261,2023-04-16T17:00:00+01:00,Serie A,Italy,2022,Sassuolo,Juventus,1,0,1
+5262,2023-04-14T19:45:00+01:00,Serie A,Italy,2022,Spezia,Lazio,0,3,2
+5263,2023-04-16T14:00:00+01:00,Serie A,Italy,2022,Torino,Salernitana,1,1,0
+5264,2023-04-24T19:45:00+01:00,Serie A,Italy,2022,Atalanta,AS Roma,3,1,1
+5265,2023-04-23T11:30:00+01:00,Serie A,Italy,2022,Empoli,Inter,0,3,2
+5266,2023-04-23T19:45:00+01:00,Serie A,Italy,2022,Juventus,Napoli,0,1,2
+5267,2023-04-22T17:00:00+01:00,Serie A,Italy,2022,Lazio,Torino,0,1,2
+5268,2023-04-22T14:00:00+01:00,Serie A,Italy,2022,Salernitana,Sassuolo,3,0,1
+5269,2023-04-22T19:45:00+01:00,Serie A,Italy,2022,Sampdoria,Spezia,1,1,0
+5270,2023-04-21T19:45:00+01:00,Serie A,Italy,2022,Verona,Bologna,2,1,1
+5271,2023-04-23T14:00:00+01:00,Serie A,Italy,2022,Udinese,Cremonese,3,0,1
+5272,2023-04-23T14:00:00+01:00,Serie A,Italy,2022,Monza,Fiorentina,3,2,1
+5273,2023-04-23T17:00:00+01:00,Serie A,Italy,2022,AC Milan,Lecce,2,0,1
+5274,2023-04-30T19:45:00+01:00,Serie A,Italy,2022,Bologna,Juventus,1,1,0
+5275,2023-04-30T14:00:00+01:00,Serie A,Italy,2022,Cremonese,Verona,1,1,0
+5276,2023-04-30T17:00:00+01:00,Serie A,Italy,2022,Fiorentina,Sampdoria,5,0,1
+5277,2023-04-30T11:30:00+01:00,Serie A,Italy,2022,Inter,Lazio,3,1,1
+5278,2023-04-28T17:30:00+01:00,Serie A,Italy,2022,Lecce,Udinese,1,0,1
+5279,2023-04-30T14:00:00+01:00,Serie A,Italy,2022,Napoli,Salernitana,1,1,0
+5280,2023-04-29T19:45:00+01:00,Serie A,Italy,2022,Torino,Atalanta,1,2,2
+5281,2023-04-30T14:00:00+01:00,Serie A,Italy,2022,Sassuolo,Empoli,2,1,1
+5282,2023-04-29T17:00:00+01:00,Serie A,Italy,2022,AS Roma,AC Milan,1,1,0
+5283,2023-04-28T19:45:00+01:00,Serie A,Italy,2022,Spezia,Monza,0,2,2
+5284,2023-05-03T17:00:00+01:00,Serie A,Italy,2022,Atalanta,Spezia,3,2,1
+5285,2023-05-03T20:00:00+01:00,Serie A,Italy,2022,Verona,Inter,0,6,2
+5286,2023-05-03T17:00:00+01:00,Serie A,Italy,2022,Juventus,Lecce,2,1,1
+5287,2023-05-03T20:00:00+01:00,Serie A,Italy,2022,Lazio,Sassuolo,2,0,1
+5288,2023-05-03T20:00:00+01:00,Serie A,Italy,2022,Monza,AS Roma,1,1,0
+5289,2023-05-03T17:00:00+01:00,Serie A,Italy,2022,Sampdoria,Torino,0,2,2
+5290,2023-05-04T19:45:00+01:00,Serie A,Italy,2022,Empoli,Bologna,3,1,1
+5291,2023-05-03T20:00:00+01:00,Serie A,Italy,2022,AC Milan,Cremonese,1,1,0
+5292,2023-05-03T17:00:00+01:00,Serie A,Italy,2022,Salernitana,Fiorentina,3,3,0
+5293,2023-05-04T19:45:00+01:00,Serie A,Italy,2022,Udinese,Napoli,1,1,0
+5294,2023-05-07T11:30:00+01:00,Serie A,Italy,2022,Atalanta,Juventus,0,2,2
+5295,2023-05-06T19:45:00+01:00,Serie A,Italy,2022,Cremonese,Spezia,2,0,1
+5296,2023-05-08T17:30:00+01:00,Serie A,Italy,2022,Empoli,Salernitana,2,1,1
+5297,2023-05-08T19:45:00+01:00,Serie A,Italy,2022,Sassuolo,Bologna,1,1,0
+5298,2023-05-07T17:00:00+01:00,Serie A,Italy,2022,Napoli,Fiorentina,1,0,1
+5299,2023-05-07T19:45:00+01:00,Serie A,Italy,2022,Lecce,Verona,0,1,2
+5300,2023-05-06T17:00:00+01:00,Serie A,Italy,2022,AS Roma,Inter,0,2,2
+5301,2023-05-06T14:00:00+01:00,Serie A,Italy,2022,AC Milan,Lazio,2,0,1
+5302,2023-05-07T14:00:00+01:00,Serie A,Italy,2022,Torino,Monza,1,1,0
+5303,2023-05-08T17:30:00+01:00,Serie A,Italy,2022,Udinese,Sampdoria,2,0,1
+5304,2023-05-14T17:00:00+01:00,Serie A,Italy,2022,Bologna,AS Roma,0,0,0
+5305,2023-05-14T14:00:00+01:00,Serie A,Italy,2022,Fiorentina,Udinese,2,0,1
+5306,2023-05-14T11:30:00+01:00,Serie A,Italy,2022,Verona,Torino,0,1,2
+5307,2023-05-13T19:45:00+01:00,Serie A,Italy,2022,Inter,Sassuolo,4,2,1
+5308,2023-05-12T19:45:00+01:00,Serie A,Italy,2022,Lazio,Lecce,2,2,0
+5309,2023-05-14T14:00:00+01:00,Serie A,Italy,2022,Monza,Napoli,2,0,1
+5310,2023-05-13T14:00:00+01:00,Serie A,Italy,2022,Salernitana,Atalanta,1,0,1
+5311,2023-05-14T19:45:00+01:00,Serie A,Italy,2022,Juventus,Cremonese,2,0,1
+5312,2023-05-15T19:45:00+01:00,Serie A,Italy,2022,Sampdoria,Empoli,1,1,0
+5313,2023-05-13T17:00:00+01:00,Serie A,Italy,2022,Spezia,AC Milan,2,0,1
+5314,2023-05-20T17:00:00+01:00,Serie A,Italy,2022,Atalanta,Verona,3,1,1
+5315,2023-05-22T19:45:00+01:00,Serie A,Italy,2022,Empoli,Juventus,4,1,1
+5316,2023-05-21T11:30:00+01:00,Serie A,Italy,2022,Lecce,Spezia,0,0,0
+5317,2023-05-20T19:45:00+01:00,Serie A,Italy,2022,AC Milan,Sampdoria,5,1,1
+5318,2023-05-22T17:30:00+01:00,Serie A,Italy,2022,AS Roma,Salernitana,2,2,0
+5319,2023-05-20T14:00:00+01:00,Serie A,Italy,2022,Cremonese,Bologna,1,5,2
+5320,2023-05-21T14:00:00+01:00,Serie A,Italy,2022,Torino,Fiorentina,1,1,0
+5321,2023-05-21T17:00:00+01:00,Serie A,Italy,2022,Napoli,Inter,3,1,1
+5322,2023-05-21T19:45:00+01:00,Serie A,Italy,2022,Udinese,Lazio,0,1,2
+5323,2023-05-19T19:45:00+01:00,Serie A,Italy,2022,Sassuolo,Monza,1,2,2
+5324,2023-05-28T14:00:00+01:00,Serie A,Italy,2022,Bologna,Napoli,2,2,0
+5325,2023-05-27T17:00:00+01:00,Serie A,Italy,2022,Fiorentina,AS Roma,2,1,1
+5326,2023-05-28T19:45:00+01:00,Serie A,Italy,2022,Juventus,AC Milan,0,1,2
+5327,2023-05-27T14:00:00+01:00,Serie A,Italy,2022,Salernitana,Udinese,3,2,1
+5328,2023-05-26T19:45:00+01:00,Serie A,Italy,2022,Sampdoria,Sassuolo,2,2,0
+5329,2023-05-27T14:00:00+01:00,Serie A,Italy,2022,Spezia,Torino,0,4,2
+5330,2023-05-27T19:45:00+01:00,Serie A,Italy,2022,Inter,Atalanta,3,2,1
+5331,2023-05-28T17:00:00+01:00,Serie A,Italy,2022,Lazio,Cremonese,3,2,1
+5332,2023-05-28T11:30:00+01:00,Serie A,Italy,2022,Verona,Empoli,1,1,0
+5333,2023-05-28T14:00:00+01:00,Serie A,Italy,2022,Monza,Lecce,0,1,2
+5334,2023-06-04T20:00:00+01:00,Serie A,Italy,2022,Atalanta,Monza,5,2,1
+5335,2023-06-03T20:00:00+01:00,Serie A,Italy,2022,Cremonese,Salernitana,2,0,1
+5336,2023-06-03T20:00:00+01:00,Serie A,Italy,2022,Empoli,Lazio,0,2,2
+5337,2023-06-04T17:30:00+01:00,Serie A,Italy,2022,Napoli,Sampdoria,2,0,1
+5338,2023-06-04T20:00:00+01:00,Serie A,Italy,2022,AS Roma,Spezia,2,1,1
+5339,2023-06-04T20:00:00+01:00,Serie A,Italy,2022,Lecce,Bologna,2,3,2
+5340,2023-06-02T19:30:00+01:00,Serie A,Italy,2022,Sassuolo,Fiorentina,1,3,2
+5341,2023-06-04T20:00:00+01:00,Serie A,Italy,2022,AC Milan,Verona,3,1,1
+5342,2023-06-03T17:30:00+01:00,Serie A,Italy,2022,Torino,Inter,0,1,2
+5343,2023-06-04T20:00:00+01:00,Serie A,Italy,2022,Udinese,Juventus,0,1,2
+5345,2022-08-06T15:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Vizela,0,1,2
+5346,2022-08-05T20:15:00+01:00,Primeira Liga,Portugal,2022,Benfica,Arouca,4,0,1
+5347,2022-08-07T20:30:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Boavista,0,1,2
+5348,2022-08-08T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Pacos Ferreira,1,0,1
+5349,2022-08-06T18:00:00+01:00,Primeira Liga,Portugal,2022,Estoril,Famalicao,2,0,1
+5350,2022-08-07T18:00:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Sporting CP,3,3,0
+5351,2022-08-07T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Casa Pia,0,0,0
+5352,2022-08-07T20:30:00+01:00,Primeira Liga,Portugal,2022,Chaves,Guimaraes,0,1,2
+5353,2022-08-06T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Maritimo,5,1,1
+5354,2022-08-14T20:30:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Estoril,1,0,1
+5355,2022-08-14T18:00:00+01:00,Primeira Liga,Portugal,2022,Vizela,FC Porto,0,1,2
+5356,2022-08-13T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Rio Ave,3,0,1
+5357,2022-08-15T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Chaves,1,2,2
+5358,2022-08-12T20:15:00+01:00,Primeira Liga,Portugal,2022,Famalicao,SC Braga,0,3,2
+5359,2022-08-14T15:30:00+01:00,Primeira Liga,Portugal,2022,Boavista,Santa Clara,2,1,1
+5360,2022-08-15T20:30:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Portimonense,0,3,2
+5361,2022-08-13T18:00:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Benfica,0,1,2
+5362,2022-08-15T18:00:00+01:00,Primeira Liga,Portugal,2022,Arouca,GIL Vicente,1,0,1
+5363,2022-08-21T15:30:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Boavista,2,0,1
+5364,2022-08-22T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Famalicao,0,0,0
+5365,2022-08-21T20:30:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Guimaraes,2,1,1
+5366,2022-08-20T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Arouca,1,2,2
+5367,2022-08-20T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Sporting CP,3,0,1
+5368,2022-08-21T18:00:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Maritimo,5,0,1
+5369,2022-08-20T18:00:00+01:00,Primeira Liga,Portugal,2022,Chaves,Vizela,1,1,0
+5370,2022-08-19T20:15:00+01:00,Primeira Liga,Portugal,2022,Estoril,Rio Ave,2,2,0
+5371,2022-08-30T20:15:00+01:00,Primeira Liga,Portugal,2022,Benfica,Pacos Ferreira,3,2,1
+5372,2022-08-26T20:15:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Estoril,0,3,2
+5373,2022-08-29T21:15:00+01:00,Primeira Liga,Portugal,2022,Vizela,GIL Vicente,2,2,0
+5374,2022-08-28T20:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,FC Porto,3,1,1
+5375,2022-08-27T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Chaves,0,2,2
+5376,2022-08-29T19:00:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Casa Pia,0,1,2
+5377,2022-08-27T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Portimonense,0,1,2
+5378,2022-08-27T18:00:00+01:00,Primeira Liga,Portugal,2022,Boavista,Benfica,0,3,2
+5379,2022-08-28T15:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Santa Clara,1,0,1
+5380,2022-08-28T18:00:00+01:00,Primeira Liga,Portugal,2022,Arouca,SC Braga,0,6,2
+5381,2022-09-03T20:30:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,FC Porto,0,2,2
+5382,2022-09-04T15:30:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Arouca,0,0,0
+5383,2022-09-04T20:30:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Famalicao,1,0,1
+5384,2022-09-02T21:15:00+01:00,Primeira Liga,Portugal,2022,Estoril,Sporting CP,0,2,2
+5385,2022-09-05T21:15:00+01:00,Primeira Liga,Portugal,2022,Chaves,Rio Ave,1,1,0
+5386,2022-09-05T19:00:00+01:00,Primeira Liga,Portugal,2022,Boavista,Pacos Ferreira,1,0,1
+5387,2022-09-03T15:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Guimaraes,1,0,1
+5388,2022-09-04T18:00:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Maritimo,2,1,1
+5389,2022-09-02T19:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Vizela,2,1,1
+5390,2022-09-12T20:15:00+01:00,Primeira Liga,Portugal,2022,Vizela,Estoril,0,1,2
+5391,2022-09-11T18:00:00+01:00,Primeira Liga,Portugal,2022,Maritimo,GIL Vicente,1,2,2
+5392,2022-09-10T18:00:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Portimonense,4,0,1
+5393,2022-09-10T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Chaves,3,0,1
+5394,2022-09-11T15:30:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Casa Pia,2,3,2
+5395,2022-09-10T15:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Benfica,0,1,2
+5396,2022-09-11T20:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,SC Braga,2,3,2
+5397,2022-09-09T20:15:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Santa Clara,1,0,1
+5398,2022-09-11T18:00:00+01:00,Primeira Liga,Portugal,2022,Arouca,Boavista,1,2,2
+5399,2022-09-17T18:00:00+01:00,Primeira Liga,Portugal,2022,Estoril,FC Porto,1,1,0
+5400,2022-09-17T15:30:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Rio Ave,2,2,0
+5401,2022-09-16T20:15:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Chaves,1,0,1
+5402,2022-09-18T18:00:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Famalicao,1,0,1
+5403,2022-09-17T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Pacos Ferreira,1,1,0
+5404,2022-09-18T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Maritimo,5,0,1
+5405,2022-09-17T20:30:00+01:00,Primeira Liga,Portugal,2022,Boavista,Sporting CP,2,1,1
+5406,2022-09-18T20:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Vizela,2,0,1
+5407,2022-09-18T15:30:00+01:00,Primeira Liga,Portugal,2022,Arouca,Guimaraes,2,2,0
+5408,2022-10-03T20:15:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Casa Pia,1,2,2
+5409,2022-09-30T19:00:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,GIL Vicente,3,1,1
+5410,2022-10-01T15:30:00+01:00,Primeira Liga,Portugal,2022,Vizela,Portimonense,1,0,1
+5411,2022-10-02T15:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Santa Clara,1,0,1
+5412,2022-09-30T21:15:00+01:00,Primeira Liga,Portugal,2022,FC Porto,SC Braga,4,1,1
+5413,2022-10-02T18:00:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Arouca,1,1,0
+5414,2022-10-01T20:30:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Benfica,0,0,0
+5415,2022-10-02T20:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Boavista,4,0,1
+5416,2022-10-01T18:00:00+01:00,Primeira Liga,Portugal,2022,Chaves,Estoril,1,1,0
+5417,2022-10-07T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Estoril,0,1,2
+5418,2022-10-08T18:00:00+01:00,Primeira Liga,Portugal,2022,Portimonense,FC Porto,0,2,2
+5419,2022-10-08T20:30:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Guimaraes,0,1,2
+5420,2022-10-09T18:00:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Vizela,0,1,2
+5421,2022-10-08T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Sporting CP,1,2,2
+5422,2022-10-08T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Rio Ave,4,2,1
+5423,2022-10-09T15:30:00+01:00,Primeira Liga,Portugal,2022,Boavista,Maritimo,1,1,0
+5424,2022-10-09T20:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Chaves,0,1,2
+5425,2022-10-10T20:15:00+01:00,Primeira Liga,Portugal,2022,Arouca,Famalicao,4,1,1
+5426,2022-10-23T15:30:00+01:00,Primeira Liga,Portugal,2022,Vizela,Santa Clara,0,1,2
+5427,2022-10-22T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Casa Pia,3,1,1
+5428,2022-10-24T20:15:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Portimonense,1,0,1
+5429,2022-10-22T18:00:00+01:00,Primeira Liga,Portugal,2022,Estoril,SC Braga,0,2,2
+5430,2022-10-23T20:30:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Boavista,3,2,1
+5431,2022-10-22T15:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Pacos Ferreira,2,1,1
+5432,2022-10-23T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Arouca,1,1,0
+5433,2022-10-21T20:15:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Benfica,0,1,2
+5434,2022-10-23T18:00:00+01:00,Primeira Liga,Portugal,2022,Chaves,GIL Vicente,3,1,1
+5435,2022-10-30T15:30:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Estoril,1,1,0
+5436,2022-10-31T20:15:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Famalicao,3,2,1
+5437,2022-10-28T20:15:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Maritimo,0,1,2
+5438,2022-10-30T20:30:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,SC Braga,0,1,2
+5439,2022-10-30T18:00:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Rio Ave,1,0,1
+5440,2022-10-29T20:30:00+01:00,Primeira Liga,Portugal,2022,Arouca,Sporting CP,1,0,1
+5441,2022-10-30T15:30:00+00:00,Primeira Liga,Portugal,2022,Boavista,Vizela,2,2,0
+5442,2022-10-29T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,FC Porto,1,1,0
+5443,2022-10-29T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Chaves,5,0,1
+5444,2022-11-06T18:00:00+00:00,Primeira Liga,Portugal,2022,Maritimo,Famalicao,0,0,0
+5445,2022-11-05T18:00:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Pacos Ferreira,4,0,1
+5446,2022-11-05T20:30:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,Guimaraes,3,0,1
+5447,2022-11-06T15:30:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Boavista,1,0,1
+5448,2022-11-06T20:30:00+00:00,Primeira Liga,Portugal,2022,Estoril,Benfica,1,5,2
+5449,2022-11-07T20:15:00+00:00,Primeira Liga,Portugal,2022,Chaves,Santa Clara,0,0,0
+5450,2022-11-04T20:15:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Portimonense,1,2,2
+5451,2022-11-05T15:30:00+00:00,Primeira Liga,Portugal,2022,Vizela,Arouca,0,1,2
+5452,2022-11-06T18:00:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Casa Pia,0,1,2
+5453,2022-11-13T15:30:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Maritimo,1,0,1
+5454,2022-11-13T18:00:00+00:00,Primeira Liga,Portugal,2022,Portimonense,SC Braga,1,2,2
+5455,2022-11-13T18:00:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Chaves,1,2,2
+5456,2022-11-13T15:30:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Vizela,0,2,2
+5457,2022-11-13T20:30:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Sporting CP,1,2,2
+5458,2022-11-13T18:00:00+00:00,Primeira Liga,Portugal,2022,Benfica,GIL Vicente,3,1,1
+5459,2022-11-12T20:30:00+00:00,Primeira Liga,Portugal,2022,Boavista,FC Porto,1,4,2
+5460,2022-11-14T20:15:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Estoril,3,1,1
+5461,2022-11-12T18:00:00+00:00,Primeira Liga,Portugal,2022,Arouca,Rio Ave,0,1,2
+5462,2022-12-29T21:15:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,Pacos Ferreira,3,0,1
+5463,2022-12-30T19:00:00+00:00,Primeira Liga,Portugal,2022,Vizela,Guimaraes,3,0,1
+5464,2022-12-30T17:00:00+00:00,Primeira Liga,Portugal,2022,Chaves,Famalicao,0,2,2
+5465,2022-12-23T20:15:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Maritimo,1,1,0
+5466,2022-12-28T19:00:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Casa Pia,1,2,2
+5467,2022-12-30T21:15:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Benfica,3,0,1
+5468,2023-02-09T18:00:00+00:00,Primeira Liga,Portugal,2022,Estoril,Boavista,2,1,1
+5469,2022-12-29T17:00:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Santa Clara,1,0,1
+5470,2022-12-28T21:15:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Arouca,5,1,1
+5471,2023-01-07T18:00:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Rio Ave,0,0,0
+5472,2023-01-05T20:15:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,SC Braga,0,4,2
+5473,2023-01-08T15:30:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Chaves,1,1,0
+5474,2023-01-08T18:00:00+00:00,Primeira Liga,Portugal,2022,Maritimo,Sporting CP,1,0,1
+5475,2023-01-06T21:15:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Vizela,2,1,1
+5476,2023-01-06T19:00:00+00:00,Primeira Liga,Portugal,2022,Benfica,Portimonense,1,0,1
+5477,2023-01-08T20:30:00+00:00,Primeira Liga,Portugal,2022,Boavista,GIL Vicente,1,0,1
+5478,2023-01-07T20:30:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,FC Porto,0,0,0
+5479,2023-01-07T15:30:00+00:00,Primeira Liga,Portugal,2022,Arouca,Estoril,2,0,1
+5480,2023-01-14T15:30:00+00:00,Primeira Liga,Portugal,2022,Vizela,Maritimo,3,0,1
+5481,2023-01-14T18:00:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Pacos Ferreira,0,1,2
+5482,2023-01-16T21:15:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Guimaraes,2,1,1
+5483,2023-01-15T20:30:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Famalicao,4,1,1
+5484,2023-01-16T19:00:00+00:00,Primeira Liga,Portugal,2022,Estoril,Casa Pia,2,0,1
+5485,2023-01-15T15:30:00+00:00,Primeira Liga,Portugal,2022,Chaves,Arouca,1,1,0
+5486,2023-01-14T20:30:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Boavista,1,0,1
+5487,2023-01-13T20:15:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Santa Clara,0,0,0
+5488,2023-01-15T18:00:00+00:00,Primeira Liga,Portugal,2022,Benfica,Sporting CP,2,2,0
+5489,2023-01-21T18:00:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Benfica,0,3,2
+5490,2023-01-21T15:30:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,SC Braga,1,2,2
+5491,2023-01-22T15:30:00+00:00,Primeira Liga,Portugal,2022,Maritimo,Estoril,1,0,1
+5492,2023-01-21T20:30:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,FC Porto,0,1,2
+5493,2023-01-20T21:15:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,Vizela,2,1,1
+5494,2023-01-23T20:15:00+00:00,Primeira Liga,Portugal,2022,Boavista,Chaves,1,1,0
+5495,2023-01-22T18:00:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,GIL Vicente,1,3,2
+5496,2023-01-22T20:30:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Rio Ave,0,0,0
+5497,2023-01-20T19:00:00+00:00,Primeira Liga,Portugal,2022,Arouca,Portimonense,4,0,1
+5498,2023-01-31T19:00:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,GIL Vicente,2,1,1
+5499,2023-01-29T15:30:00+00:00,Primeira Liga,Portugal,2022,Vizela,Rio Ave,3,1,1
+5500,2023-01-31T21:15:00+00:00,Primeira Liga,Portugal,2022,Arouca,Benfica,0,3,2
+5501,2023-01-29T20:30:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Estoril,1,0,1
+5502,2023-01-30T20:15:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Chaves,2,1,1
+5503,2023-02-01T19:00:00+00:00,Primeira Liga,Portugal,2022,Maritimo,FC Porto,0,2,2
+5504,2023-02-01T21:15:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,SC Braga,5,0,1
+5505,2023-01-29T15:30:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Santa Clara,2,1,1
+5506,2023-01-29T18:00:00+00:00,Primeira Liga,Portugal,2022,Boavista,Portimonense,4,2,1
+5507,2023-02-04T20:30:00+00:00,Primeira Liga,Portugal,2022,Estoril,Guimaraes,0,1,2
+5508,2023-02-05T18:00:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Vizela,2,0,1
+5509,2023-02-06T21:15:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Sporting CP,0,1,2
+5510,2023-02-05T15:30:00+00:00,Primeira Liga,Portugal,2022,Chaves,Maritimo,2,1,1
+5511,2023-02-05T15:30:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Famalicao,4,1,1
+5512,2023-02-04T15:30:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Boavista,2,2,0
+5513,2023-02-06T19:00:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Pacos Ferreira,1,0,1
+5514,2023-02-04T18:00:00+00:00,Primeira Liga,Portugal,2022,Benfica,Casa Pia,3,0,1
+5515,2023-02-05T20:30:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Arouca,1,1,0
+5516,2023-02-13T21:15:00+00:00,Primeira Liga,Portugal,2022,Boavista,Casa Pia,0,0,0
+5517,2023-02-12T15:30:00+00:00,Primeira Liga,Portugal,2022,Famalicao,GIL Vicente,0,1,2
+5518,2023-02-11T20:30:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Portimonense,1,0,1
+5519,2023-02-11T18:00:00+00:00,Primeira Liga,Portugal,2022,Arouca,Santa Clara,1,0,1
+5520,2023-02-12T18:00:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,FC Porto,1,2,2
+5521,2023-02-12T20:30:00+00:00,Primeira Liga,Portugal,2022,Maritimo,SC Braga,1,2,2
+5522,2023-02-10T20:15:00+00:00,Primeira Liga,Portugal,2022,Vizela,Chaves,0,0,0
+5523,2023-02-13T19:00:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Estoril,2,0,1
+5524,2023-01-26T20:15:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Benfica,0,2,2
+5525,2023-02-18T18:00:00+00:00,Primeira Liga,Portugal,2022,Estoril,Pacos Ferreira,1,3,2
+5526,2023-02-17T20:15:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Vizela,1,1,0
+5527,2023-02-18T20:30:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Rio Ave,1,0,1
+5528,2023-02-20T19:00:00+00:00,Primeira Liga,Portugal,2022,Chaves,Sporting CP,2,3,2
+5529,2023-02-19T20:30:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Guimaraes,0,0,0
+5530,2023-02-18T18:00:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Maritimo,2,1,1
+5531,2023-02-20T21:15:00+00:00,Primeira Liga,Portugal,2022,Benfica,Boavista,3,1,1
+5532,2023-02-19T15:30:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Famalicao,1,3,2
+5533,2023-02-19T18:00:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Arouca,2,0,1
+5534,2023-02-26T20:30:00+00:00,Primeira Liga,Portugal,2022,FC Porto,GIL Vicente,1,2,2
+5535,2023-02-25T15:30:00+00:00,Primeira Liga,Portugal,2022,Arouca,Casa Pia,2,0,1
+5536,2023-02-24T20:15:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Portimonense,1,0,1
+5537,2023-02-27T19:00:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,Estoril,2,0,1
+5538,2023-02-26T15:30:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,Chaves,1,0,1
+5539,2023-02-26T18:00:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Boavista,1,3,2
+5540,2023-02-27T21:15:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,SC Braga,2,1,1
+5541,2023-02-25T18:00:00+00:00,Primeira Liga,Portugal,2022,Maritimo,Santa Clara,3,1,1
+5542,2023-02-25T20:30:00+00:00,Primeira Liga,Portugal,2022,Vizela,Benfica,0,2,2
+5543,2023-03-04T15:30:00+00:00,Primeira Liga,Portugal,2022,Estoril,Vizela,0,3,2
+5544,2023-03-05T15:30:00+00:00,Primeira Liga,Portugal,2022,GIL Vicente,Maritimo,2,0,1
+5545,2023-03-04T18:00:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Sporting CP,0,1,2
+5546,2023-03-04T20:30:00+00:00,Primeira Liga,Portugal,2022,Chaves,FC Porto,1,3,2
+5547,2023-03-06T20:15:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Pacos Ferreira,2,1,1
+5548,2023-03-03T21:15:00+00:00,Primeira Liga,Portugal,2022,Benfica,Famalicao,2,0,1
+5549,2023-03-05T20:30:00+00:00,Primeira Liga,Portugal,2022,SC Braga,Rio Ave,2,0,1
+5550,2023-03-05T18:00:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Guimaraes,1,3,2
+5551,2023-03-03T19:00:00+00:00,Primeira Liga,Portugal,2022,Boavista,Arouca,0,0,0
+5552,2023-03-10T20:15:00+00:00,Primeira Liga,Portugal,2022,FC Porto,Estoril,3,2,1
+5553,2023-03-12T15:30:00+00:00,Primeira Liga,Portugal,2022,Rio Ave,GIL Vicente,2,1,1
+5554,2023-03-11T15:30:00+00:00,Primeira Liga,Portugal,2022,Chaves,Portimonense,2,0,1
+5555,2023-03-13T20:15:00+00:00,Primeira Liga,Portugal,2022,Famalicao,Casa Pia,1,0,1
+5556,2023-03-11T15:30:00+00:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Santa Clara,1,0,1
+5557,2023-03-12T18:00:00+00:00,Primeira Liga,Portugal,2022,Maritimo,Benfica,0,3,2
+5558,2023-03-12T20:30:00+00:00,Primeira Liga,Portugal,2022,Sporting CP,Boavista,3,0,1
+5559,2023-03-11T20:30:00+00:00,Primeira Liga,Portugal,2022,Vizela,SC Braga,0,4,2
+5560,2023-03-11T18:00:00+00:00,Primeira Liga,Portugal,2022,Guimaraes,Arouca,0,2,2
+5561,2023-03-19T15:30:00+00:00,Primeira Liga,Portugal,2022,Casa Pia,Maritimo,2,0,1
+5562,2023-04-05T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Sporting CP,0,0,0
+5563,2023-03-18T15:30:00+00:00,Primeira Liga,Portugal,2022,Portimonense,Vizela,0,1,2
+5564,2023-03-17T20:15:00+00:00,Primeira Liga,Portugal,2022,Santa Clara,Rio Ave,0,2,2
+5565,2023-03-19T18:00:00+00:00,Primeira Liga,Portugal,2022,SC Braga,FC Porto,0,0,0
+5566,2023-03-18T18:00:00+00:00,Primeira Liga,Portugal,2022,Arouca,Pacos Ferreira,1,1,0
+5567,2023-03-18T18:00:00+00:00,Primeira Liga,Portugal,2022,Benfica,Guimaraes,5,1,1
+5568,2023-03-19T20:30:00+00:00,Primeira Liga,Portugal,2022,Boavista,Famalicao,1,2,2
+5569,2023-03-18T20:30:00+00:00,Primeira Liga,Portugal,2022,Estoril,Chaves,0,2,2
+5570,2023-03-31T20:15:00+01:00,Primeira Liga,Portugal,2022,Estoril,GIL Vicente,1,0,1
+5571,2023-04-02T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Portimonense,1,0,1
+5572,2023-04-01T18:00:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Pacos Ferreira,0,0,0
+5573,2023-04-01T15:30:00+01:00,Primeira Liga,Portugal,2022,Vizela,Casa Pia,3,1,1
+5574,2023-04-01T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Santa Clara,3,0,1
+5575,2023-04-02T18:00:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Benfica,0,1,2
+5576,2023-04-02T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Boavista,4,2,1
+5577,2023-04-02T15:30:00+01:00,Primeira Liga,Portugal,2022,Chaves,SC Braga,1,2,2
+5578,2023-04-03T20:15:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Arouca,0,1,2
+5579,2023-04-07T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Vizela,0,1,2
+5580,2023-04-09T18:00:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Sporting CP,3,4,2
+5581,2023-04-08T18:00:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Rio Ave,2,2,0
+5582,2023-04-08T20:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Estoril,4,1,1
+5583,2023-04-07T20:30:00+01:00,Primeira Liga,Portugal,2022,Boavista,Guimaraes,2,1,1
+5584,2023-04-08T18:00:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Famalicao,1,3,2
+5585,2023-04-08T15:30:00+01:00,Primeira Liga,Portugal,2022,Arouca,Maritimo,1,0,1
+5586,2023-04-07T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,FC Porto,1,2,2
+5587,2023-04-10T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Chaves,0,0,0
+5588,2023-04-15T15:30:00+01:00,Primeira Liga,Portugal,2022,Estoril,Portimonense,0,1,2
+5589,2023-04-14T20:15:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Guimaraes,2,1,1
+5590,2023-04-15T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Pacos Ferreira,3,1,1
+5591,2023-04-16T18:00:00+01:00,Primeira Liga,Portugal,2022,SC Braga,GIL Vicente,1,0,1
+5592,2023-04-16T15:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Casa Pia,1,1,0
+5593,2023-04-16T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Arouca,1,1,0
+5594,2023-04-17T20:15:00+01:00,Primeira Liga,Portugal,2022,Vizela,Boavista,1,1,0
+5595,2023-04-15T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Santa Clara,2,1,1
+5596,2023-04-15T18:00:00+01:00,Primeira Liga,Portugal,2022,Chaves,Benfica,1,0,1
+5597,2023-04-22T15:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Maritimo,3,2,1
+5598,2023-04-22T20:30:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,FC Porto,0,2,2
+5599,2023-04-24T20:15:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Sporting CP,0,2,2
+5600,2023-04-22T18:00:00+01:00,Primeira Liga,Portugal,2022,Boavista,Rio Ave,3,2,1
+5601,2023-04-23T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Estoril,1,0,1
+5602,2023-04-23T18:00:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Chaves,1,1,0
+5603,2023-04-23T15:30:00+01:00,Primeira Liga,Portugal,2022,Portimonense,GIL Vicente,1,0,1
+5604,2023-04-23T20:30:00+01:00,Primeira Liga,Portugal,2022,Arouca,Vizela,1,0,1
+5605,2023-04-21T20:15:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,SC Braga,0,1,2
+5606,2023-04-29T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Guimaraes,1,2,2
+5607,2023-04-29T15:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Portimonense,4,1,1
+5608,2023-04-29T18:00:00+01:00,Primeira Liga,Portugal,2022,Chaves,Casa Pia,1,0,1
+5609,2023-04-29T18:00:00+01:00,Primeira Liga,Portugal,2022,Vizela,Pacos Ferreira,1,2,2
+5610,2023-04-30T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Famalicao,2,1,1
+5611,2023-04-29T20:30:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Benfica,0,2,2
+5612,2023-04-30T18:00:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Boavista,1,0,1
+5613,2023-04-30T15:30:00+01:00,Primeira Liga,Portugal,2022,Estoril,Santa Clara,3,0,1
+5614,2023-04-28T20:15:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Arouca,1,0,1
+5615,2023-05-07T15:30:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Rio Ave,2,2,0
+5616,2023-05-07T20:30:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Sporting CP,0,4,2
+5617,2023-05-07T18:00:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,Vizela,3,0,1
+5618,2023-05-05T20:15:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Portimonense,1,1,0
+5619,2023-05-06T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,GIL Vicente,3,2,1
+5620,2023-05-08T21:15:00+01:00,Primeira Liga,Portugal,2022,Arouca,FC Porto,0,1,2
+5621,2023-05-06T20:30:00+01:00,Primeira Liga,Portugal,2022,Benfica,SC Braga,1,0,1
+5622,2023-05-06T18:00:00+01:00,Primeira Liga,Portugal,2022,Boavista,Estoril,1,0,1
+5623,2023-05-08T19:00:00+01:00,Primeira Liga,Portugal,2022,Famalicao,Chaves,1,2,2
+5624,2023-05-14T15:30:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Guimaraes,0,1,2
+5625,2023-05-14T18:00:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Santa Clara,5,3,1
+5626,2023-05-13T15:30:00+01:00,Primeira Liga,Portugal,2022,Chaves,Pacos Ferreira,2,0,1
+5627,2023-05-13T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Maritimo,2,1,1
+5628,2023-05-13T15:30:00+01:00,Primeira Liga,Portugal,2022,Vizela,Famalicao,0,0,0
+5629,2023-05-13T18:00:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Benfica,1,5,2
+5630,2023-05-12T20:15:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Boavista,3,1,1
+5631,2023-05-14T20:30:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Casa Pia,2,1,1
+5632,2023-05-15T20:15:00+01:00,Primeira Liga,Portugal,2022,Estoril,Arouca,2,0,1
+5633,2023-05-19T20:15:00+01:00,Primeira Liga,Portugal,2022,Maritimo,Vizela,1,0,1
+5634,2023-05-21T18:00:00+01:00,Primeira Liga,Portugal,2022,Pacos Ferreira,Rio Ave,3,1,1
+5635,2023-05-21T15:30:00+01:00,Primeira Liga,Portugal,2022,Guimaraes,GIL Vicente,1,0,1
+5636,2023-05-20T20:30:00+01:00,Primeira Liga,Portugal,2022,Famalicao,FC Porto,2,4,2
+5637,2023-05-21T18:00:00+01:00,Primeira Liga,Portugal,2022,Casa Pia,Estoril,2,2,0
+5638,2023-05-20T15:30:00+01:00,Primeira Liga,Portugal,2022,Arouca,Chaves,1,0,1
+5639,2023-05-20T18:00:00+01:00,Primeira Liga,Portugal,2022,Boavista,SC Braga,1,1,0
+5640,2023-05-20T15:30:00+01:00,Primeira Liga,Portugal,2022,Santa Clara,Portimonense,1,0,1
+5641,2023-05-21T20:30:00+01:00,Primeira Liga,Portugal,2022,Sporting CP,Benfica,2,2,0
+5642,2023-05-27T18:00:00+01:00,Primeira Liga,Portugal,2022,Benfica,Santa Clara,3,0,1
+5643,2023-05-27T20:30:00+01:00,Primeira Liga,Portugal,2022,SC Braga,Pacos Ferreira,3,0,1
+5644,2023-05-27T15:30:00+01:00,Primeira Liga,Portugal,2022,Estoril,Maritimo,3,1,1
+5645,2023-05-27T18:00:00+01:00,Primeira Liga,Portugal,2022,FC Porto,Guimaraes,3,0,1
+5646,2023-05-26T21:15:00+01:00,Primeira Liga,Portugal,2022,Vizela,Sporting CP,1,2,2
+5647,2023-05-27T15:30:00+01:00,Primeira Liga,Portugal,2022,Chaves,Boavista,1,4,2
+5648,2023-05-27T12:45:00+01:00,Primeira Liga,Portugal,2022,GIL Vicente,Casa Pia,1,0,1
+5649,2023-05-26T19:00:00+01:00,Primeira Liga,Portugal,2022,Rio Ave,Famalicao,2,2,0
+5650,2023-05-27T18:00:00+01:00,Primeira Liga,Portugal,2022,Portimonense,Arouca,0,2,2
+5653,2022-08-15T16:30:00+01:00,La Liga,Spain,2022,Athletic Club,Mallorca,0,0,0
+5654,2022-08-13T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Rayo Vallecano,0,0,0
+5655,2022-08-15T20:30:00+01:00,La Liga,Spain,2022,Real Betis,Elche,3,0,1
+5656,2022-08-13T16:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Espanyol,2,2,0
+5657,2022-08-14T16:30:00+01:00,La Liga,Spain,2022,Cadiz,Real Sociedad,0,1,2
+5658,2022-08-12T20:00:00+01:00,La Liga,Spain,2022,Osasuna,Sevilla,2,1,1
+5659,2022-08-14T21:00:00+01:00,La Liga,Spain,2022,Almeria,Real Madrid,1,2,2
+5660,2022-08-15T18:30:00+01:00,La Liga,Spain,2022,Getafe,Atletico Madrid,0,3,2
+5661,2022-08-13T18:00:00+01:00,La Liga,Spain,2022,Valladolid,Villarreal,0,3,2
+5662,2022-08-14T18:30:00+01:00,La Liga,Spain,2022,Valencia,Girona,1,0,1
+5663,2022-08-21T16:30:00+01:00,La Liga,Spain,2022,Athletic Club,Valencia,1,0,1
+5664,2022-08-21T18:30:00+01:00,La Liga,Spain,2022,Atletico Madrid,Villarreal,0,2,2
+5665,2022-08-20T21:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Real Madrid,1,4,2
+5666,2022-08-19T19:00:00+01:00,La Liga,Spain,2022,Espanyol,Rayo Vallecano,0,2,2
+5667,2022-08-19T21:00:00+01:00,La Liga,Spain,2022,Sevilla,Valladolid,1,1,0
+5668,2022-08-21T21:00:00+01:00,La Liga,Spain,2022,Real Sociedad,Barcelona,1,4,2
+5669,2022-08-20T18:30:00+01:00,La Liga,Spain,2022,Mallorca,Real Betis,1,2,2
+5670,2022-08-22T21:00:00+01:00,La Liga,Spain,2022,Girona,Getafe,3,1,1
+5671,2022-08-20T16:30:00+01:00,La Liga,Spain,2022,Osasuna,Cadiz,2,0,1
+5672,2022-08-22T19:00:00+01:00,La Liga,Spain,2022,Elche,Almeria,1,1,0
+5673,2022-08-28T18:30:00+01:00,La Liga,Spain,2022,Barcelona,Valladolid,4,0,1
+5674,2022-08-26T21:00:00+01:00,La Liga,Spain,2022,Real Betis,Osasuna,1,0,1
+5675,2022-08-27T16:30:00+01:00,La Liga,Spain,2022,Elche,Real Sociedad,0,1,2
+5676,2022-08-28T16:30:00+01:00,La Liga,Spain,2022,Getafe,Villarreal,0,0,0
+5677,2022-08-28T21:00:00+01:00,La Liga,Spain,2022,Espanyol,Real Madrid,1,3,2
+5678,2022-08-27T21:00:00+01:00,La Liga,Spain,2022,Almeria,Sevilla,2,1,1
+5679,2022-08-29T19:00:00+01:00,La Liga,Spain,2022,Cadiz,Athletic Club,0,4,2
+5680,2022-08-29T21:00:00+01:00,La Liga,Spain,2022,Valencia,Atletico Madrid,0,1,2
+5681,2022-08-26T19:00:00+01:00,La Liga,Spain,2022,Girona,Celta Vigo,0,1,2
+5682,2022-08-27T18:30:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Mallorca,0,2,2
+5683,2022-09-04T15:15:00+01:00,La Liga,Spain,2022,Athletic Club,Espanyol,0,1,2
+5684,2022-09-04T13:00:00+01:00,La Liga,Spain,2022,Osasuna,Rayo Vallecano,2,1,1
+5685,2022-09-03T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Atletico Madrid,1,1,0
+5686,2022-09-03T20:00:00+01:00,La Liga,Spain,2022,Sevilla,Barcelona,0,3,2
+5687,2022-09-03T15:15:00+01:00,La Liga,Spain,2022,Real Madrid,Real Betis,2,1,1
+5688,2022-09-04T17:30:00+01:00,La Liga,Spain,2022,Villarreal,Elche,4,0,1
+5689,2022-09-04T20:00:00+01:00,La Liga,Spain,2022,Valencia,Getafe,5,1,1
+5690,2022-09-02T20:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Cadiz,3,0,1
+5691,2022-09-05T20:00:00+01:00,La Liga,Spain,2022,Valladolid,Almeria,1,0,1
+5692,2022-09-03T13:00:00+01:00,La Liga,Spain,2022,Mallorca,Girona,1,1,0
+5693,2022-09-10T20:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Celta Vigo,4,1,1
+5694,2022-09-11T20:00:00+01:00,La Liga,Spain,2022,Real Betis,Villarreal,1,0,1
+5695,2022-09-11T17:30:00+01:00,La Liga,Spain,2022,Getafe,Real Sociedad,2,1,1
+5696,2022-09-10T15:15:00+01:00,La Liga,Spain,2022,Espanyol,Sevilla,2,3,2
+5697,2022-09-10T13:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Valencia,2,1,1
+5698,2022-09-12T20:00:00+01:00,La Liga,Spain,2022,Almeria,Osasuna,0,1,2
+5699,2022-09-09T20:00:00+01:00,La Liga,Spain,2022,Girona,Valladolid,2,1,1
+5700,2022-09-11T15:15:00+01:00,La Liga,Spain,2022,Elche,Athletic Club,1,4,2
+5701,2022-09-10T17:30:00+01:00,La Liga,Spain,2022,Cadiz,Barcelona,0,4,2
+5702,2022-09-11T13:00:00+01:00,La Liga,Spain,2022,Real Madrid,Mallorca,4,1,1
+5703,2022-09-17T20:00:00+01:00,La Liga,Spain,2022,Athletic Club,Rayo Vallecano,3,2,1
+5704,2022-09-18T20:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Real Madrid,1,2,2
+5705,2022-09-17T15:15:00+01:00,La Liga,Spain,2022,Barcelona,Elche,3,0,1
+5706,2022-09-18T17:30:00+01:00,La Liga,Spain,2022,Real Betis,Girona,2,1,1
+5707,2022-09-17T17:30:00+01:00,La Liga,Spain,2022,Valencia,Celta Vigo,3,0,1
+5708,2022-09-18T13:00:00+01:00,La Liga,Spain,2022,Osasuna,Getafe,0,2,2
+5709,2022-09-16T20:00:00+01:00,La Liga,Spain,2022,Valladolid,Cadiz,0,1,2
+5710,2022-09-18T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Espanyol,2,1,1
+5711,2022-09-18T15:15:00+01:00,La Liga,Spain,2022,Villarreal,Sevilla,1,1,0
+5712,2022-09-17T13:00:00+01:00,La Liga,Spain,2022,Mallorca,Almeria,1,0,1
+5713,2022-10-01T15:15:00+01:00,La Liga,Spain,2022,Getafe,Valladolid,2,3,2
+5714,2022-10-01T13:00:00+01:00,La Liga,Spain,2022,Cadiz,Villarreal,0,0,0
+5715,2022-10-02T13:00:00+01:00,La Liga,Spain,2022,Espanyol,Valencia,2,2,0
+5716,2022-10-02T17:30:00+01:00,La Liga,Spain,2022,Girona,Real Sociedad,3,5,2
+5717,2022-10-01T17:30:00+01:00,La Liga,Spain,2022,Sevilla,Atletico Madrid,0,2,2
+5718,2022-10-01T20:00:00+01:00,La Liga,Spain,2022,Mallorca,Barcelona,0,1,2
+5719,2022-10-02T15:15:00+01:00,La Liga,Spain,2022,Celta Vigo,Real Betis,1,0,1
+5720,2022-10-03T20:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Elche,2,1,1
+5721,2022-10-02T20:00:00+01:00,La Liga,Spain,2022,Real Madrid,Osasuna,1,1,0
+5722,2022-09-30T20:00:00+01:00,La Liga,Spain,2022,Athletic Club,Almeria,4,0,1
+5723,2022-10-08T15:15:00+01:00,La Liga,Spain,2022,Atletico Madrid,Girona,2,1,1
+5724,2022-10-09T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Celta Vigo,1,0,1
+5725,2022-10-10T20:00:00+01:00,La Liga,Spain,2022,Elche,Mallorca,1,1,0
+5726,2022-10-08T20:00:00+01:00,La Liga,Spain,2022,Getafe,Real Madrid,0,1,2
+5727,2022-10-09T15:15:00+01:00,La Liga,Spain,2022,Cadiz,Espanyol,2,2,0
+5728,2022-10-07T20:00:00+01:00,La Liga,Spain,2022,Osasuna,Valencia,1,2,2
+5729,2022-10-09T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Villarreal,1,0,1
+5730,2022-10-08T13:00:00+01:00,La Liga,Spain,2022,Almeria,Rayo Vallecano,3,1,1
+5731,2022-10-08T17:30:00+01:00,La Liga,Spain,2022,Sevilla,Athletic Club,1,1,0
+5732,2022-10-09T13:00:00+01:00,La Liga,Spain,2022,Valladolid,Real Betis,0,0,0
+5733,2022-10-15T20:00:00+01:00,La Liga,Spain,2022,Athletic Club,Atletico Madrid,0,1,2
+5734,2022-10-16T13:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Real Sociedad,1,2,2
+5735,2022-10-15T17:30:00+01:00,La Liga,Spain,2022,Mallorca,Sevilla,0,1,2
+5736,2022-10-16T17:30:00+01:00,La Liga,Spain,2022,Espanyol,Valladolid,1,0,1
+5737,2022-10-16T15:15:00+01:00,La Liga,Spain,2022,Real Madrid,Barcelona,3,1,1
+5738,2022-10-15T15:15:00+01:00,La Liga,Spain,2022,Valencia,Elche,2,2,0
+5739,2022-10-14T20:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Getafe,0,0,0
+5740,2022-10-15T13:00:00+01:00,La Liga,Spain,2022,Girona,Cadiz,1,1,0
+5741,2022-10-17T20:00:00+01:00,La Liga,Spain,2022,Villarreal,Osasuna,2,0,1
+5742,2022-10-16T20:00:00+01:00,La Liga,Spain,2022,Real Betis,Almeria,3,1,1
+5743,2022-10-18T20:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Rayo Vallecano,1,1,0
+5744,2022-10-20T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Villarreal,3,0,1
+5745,2022-10-19T20:00:00+01:00,La Liga,Spain,2022,Elche,Real Madrid,0,3,2
+5746,2022-10-18T18:00:00+01:00,La Liga,Spain,2022,Sevilla,Valencia,1,1,0
+5747,2022-10-20T18:00:00+01:00,La Liga,Spain,2022,Almeria,Girona,3,2,1
+5748,2022-10-18T19:00:00+01:00,La Liga,Spain,2022,Getafe,Athletic Club,2,2,0
+5749,2022-10-19T18:00:00+01:00,La Liga,Spain,2022,Cadiz,Real Betis,0,0,0
+5750,2022-10-19T18:00:00+01:00,La Liga,Spain,2022,Valladolid,Celta Vigo,4,1,1
+5751,2022-10-19T19:00:00+01:00,La Liga,Spain,2022,Real Sociedad,Mallorca,1,0,1
+5752,2022-10-20T19:00:00+01:00,La Liga,Spain,2022,Osasuna,Espanyol,1,0,1
+5753,2022-10-24T20:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Getafe,1,1,0
+5754,2022-10-22T20:00:00+01:00,La Liga,Spain,2022,Real Madrid,Sevilla,3,1,1
+5755,2022-10-23T17:30:00+01:00,La Liga,Spain,2022,Girona,Osasuna,1,1,0
+5756,2022-10-23T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Athletic Club,4,0,1
+5757,2022-10-23T15:15:00+01:00,La Liga,Spain,2022,Real Betis,Atletico Madrid,1,2,2
+5758,2022-10-23T13:00:00+01:00,La Liga,Spain,2022,Espanyol,Elche,2,2,0
+5759,2022-10-22T17:30:00+01:00,La Liga,Spain,2022,Valencia,Mallorca,1,2,2
+5760,2022-10-22T13:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Cadiz,5,1,1
+5761,2022-10-22T15:15:00+01:00,La Liga,Spain,2022,Valladolid,Real Sociedad,1,0,1
+5762,2022-10-23T17:30:00+01:00,La Liga,Spain,2022,Villarreal,Almeria,2,1,1
+5763,2022-10-30T17:30:00+00:00,La Liga,Spain,2022,Athletic Club,Villarreal,1,0,1
+5764,2022-10-31T20:00:00+00:00,La Liga,Spain,2022,Elche,Getafe,0,1,2
+5765,2022-10-30T13:00:00+00:00,La Liga,Spain,2022,Osasuna,Valladolid,2,0,1
+5766,2022-10-29T13:00:00+01:00,La Liga,Spain,2022,Almeria,Celta Vigo,3,1,1
+5767,2022-10-29T15:15:00+01:00,La Liga,Spain,2022,Cadiz,Atletico Madrid,3,2,1
+5768,2022-10-29T20:00:00+01:00,La Liga,Spain,2022,Valencia,Barcelona,0,1,2
+5769,2022-10-30T20:00:00+00:00,La Liga,Spain,2022,Real Sociedad,Real Betis,0,2,2
+5770,2022-10-28T20:00:00+01:00,La Liga,Spain,2022,Mallorca,Espanyol,1,1,0
+5771,2022-10-29T17:30:00+01:00,La Liga,Spain,2022,Sevilla,Rayo Vallecano,0,1,2
+5772,2022-10-30T15:15:00+00:00,La Liga,Spain,2022,Real Madrid,Girona,1,1,0
+5773,2022-11-06T13:00:00+00:00,La Liga,Spain,2022,Atletico Madrid,Espanyol,1,1,0
+5774,2022-11-06T20:00:00+00:00,La Liga,Spain,2022,Real Betis,Sevilla,1,1,0
+5775,2022-11-05T17:30:00+00:00,La Liga,Spain,2022,Celta Vigo,Osasuna,1,2,2
+5776,2022-11-06T15:15:00+00:00,La Liga,Spain,2022,Real Sociedad,Valencia,1,1,0
+5777,2022-11-07T20:00:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Real Madrid,3,2,1
+5778,2022-11-04T20:00:00+00:00,La Liga,Spain,2022,Girona,Athletic Club,2,1,1
+5779,2022-11-05T15:15:00+00:00,La Liga,Spain,2022,Valladolid,Elche,2,1,1
+5780,2022-11-06T17:30:00+00:00,La Liga,Spain,2022,Villarreal,Mallorca,0,2,2
+5781,2022-11-05T13:00:00+00:00,La Liga,Spain,2022,Getafe,Cadiz,0,0,0
+5782,2022-11-05T20:00:00+00:00,La Liga,Spain,2022,Barcelona,Almeria,2,0,1
+5783,2022-11-08T19:00:00+00:00,La Liga,Spain,2022,Athletic Club,Valladolid,3,0,1
+5784,2022-11-08T18:00:00+00:00,La Liga,Spain,2022,Elche,Girona,1,2,2
+5785,2022-11-09T19:00:00+00:00,La Liga,Spain,2022,Espanyol,Villarreal,0,1,2
+5786,2022-11-09T18:00:00+00:00,La Liga,Spain,2022,Almeria,Getafe,1,0,1
+5787,2022-11-09T20:30:00+00:00,La Liga,Spain,2022,Mallorca,Atletico Madrid,1,0,1
+5788,2022-11-08T20:30:00+00:00,La Liga,Spain,2022,Osasuna,Barcelona,1,2,2
+5789,2022-11-10T19:00:00+00:00,La Liga,Spain,2022,Valencia,Real Betis,3,0,1
+5790,2022-11-10T18:00:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Celta Vigo,0,0,0
+5791,2022-11-10T20:30:00+00:00,La Liga,Spain,2022,Real Madrid,Cadiz,2,1,1
+5792,2022-11-09T18:00:00+00:00,La Liga,Spain,2022,Sevilla,Real Sociedad,1,2,2
+5793,2022-12-29T20:30:00+00:00,La Liga,Spain,2022,Atletico Madrid,Elche,2,0,1
+5794,2022-12-31T13:00:00+00:00,La Liga,Spain,2022,Barcelona,Espanyol,1,1,0
+5795,2022-12-30T18:15:00+00:00,La Liga,Spain,2022,Celta Vigo,Sevilla,1,1,0
+5796,2022-12-30T16:00:00+00:00,La Liga,Spain,2022,Getafe,Mallorca,2,0,1
+5797,2022-12-29T16:00:00+00:00,La Liga,Spain,2022,Girona,Rayo Vallecano,2,2,0
+5798,2022-12-29T18:15:00+00:00,La Liga,Spain,2022,Real Betis,Athletic Club,0,0,0
+5799,2022-12-31T15:15:00+00:00,La Liga,Spain,2022,Real Sociedad,Osasuna,2,0,1
+5800,2022-12-30T20:30:00+00:00,La Liga,Spain,2022,Valladolid,Real Madrid,0,2,2
+5801,2022-12-31T15:15:00+00:00,La Liga,Spain,2022,Villarreal,Valencia,2,1,1
+5802,2022-12-30T18:15:00+00:00,La Liga,Spain,2022,Cadiz,Almeria,1,1,0
+5803,2023-01-09T20:00:00+00:00,La Liga,Spain,2022,Athletic Club,Osasuna,0,0,0
+5804,2023-01-08T20:00:00+00:00,La Liga,Spain,2022,Atletico Madrid,Barcelona,0,1,2
+5805,2023-01-07T17:30:00+00:00,La Liga,Spain,2022,Mallorca,Valladolid,1,0,1
+5806,2023-01-07T20:00:00+00:00,La Liga,Spain,2022,Espanyol,Girona,2,2,0
+5807,2023-01-08T13:00:00+00:00,La Liga,Spain,2022,Almeria,Real Sociedad,0,2,2
+5808,2023-01-08T15:15:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Real Betis,1,2,2
+5809,2023-01-06T17:30:00+00:00,La Liga,Spain,2022,Elche,Celta Vigo,0,1,2
+5810,2023-01-08T17:30:00+00:00,La Liga,Spain,2022,Sevilla,Getafe,2,1,1
+5811,2023-01-06T20:00:00+00:00,La Liga,Spain,2022,Valencia,Cadiz,0,1,2
+5812,2023-01-07T15:15:00+00:00,La Liga,Spain,2022,Villarreal,Real Madrid,2,1,1
+5813,2023-01-13T20:00:00+00:00,La Liga,Spain,2022,Celta Vigo,Villarreal,1,1,0
+5814,2023-01-16T20:00:00+00:00,La Liga,Spain,2022,Cadiz,Elche,1,1,0
+5815,2023-02-02T20:00:00+00:00,La Liga,Spain,2022,Real Madrid,Valencia,2,0,1
+5816,2023-01-15T15:15:00+00:00,La Liga,Spain,2022,Almeria,Atletico Madrid,1,1,0
+5817,2023-01-14T15:15:00+00:00,La Liga,Spain,2022,Girona,Sevilla,2,1,1
+5818,2023-01-14T20:00:00+00:00,La Liga,Spain,2022,Real Sociedad,Athletic Club,3,1,1
+5819,2023-02-01T20:00:00+00:00,La Liga,Spain,2022,Real Betis,Barcelona,1,2,2
+5820,2023-01-14T17:30:00+00:00,La Liga,Spain,2022,Osasuna,Mallorca,1,0,1
+5821,2023-01-15T13:00:00+00:00,La Liga,Spain,2022,Getafe,Espanyol,1,2,2
+5822,2023-01-14T13:00:00+00:00,La Liga,Spain,2022,Valladolid,Rayo Vallecano,0,1,2
+5823,2023-01-22T20:00:00+00:00,La Liga,Spain,2022,Athletic Club,Real Madrid,0,2,2
+5824,2023-01-21T17:30:00+00:00,La Liga,Spain,2022,Atletico Madrid,Valladolid,3,0,1
+5825,2023-01-22T17:30:00+00:00,La Liga,Spain,2022,Barcelona,Getafe,1,0,1
+5826,2023-01-22T15:15:00+00:00,La Liga,Spain,2022,Elche,Osasuna,1,1,0
+5827,2023-01-21T13:00:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Real Sociedad,0,2,2
+5828,2023-01-21T15:15:00+00:00,La Liga,Spain,2022,Espanyol,Real Betis,1,0,1
+5829,2023-01-20T20:00:00+00:00,La Liga,Spain,2022,Mallorca,Celta Vigo,1,0,1
+5830,2023-01-21T20:00:00+00:00,La Liga,Spain,2022,Sevilla,Cadiz,1,0,1
+5831,2023-01-23T20:00:00+00:00,La Liga,Spain,2022,Valencia,Almeria,2,2,0
+5832,2023-01-22T13:00:00+00:00,La Liga,Spain,2022,Villarreal,Girona,1,0,1
+5833,2023-01-28T13:00:00+00:00,La Liga,Spain,2022,Cadiz,Mallorca,2,0,1
+5834,2023-01-29T20:00:00+00:00,La Liga,Spain,2022,Real Madrid,Real Sociedad,0,0,0
+5835,2023-01-27T20:00:00+00:00,La Liga,Spain,2022,Almeria,Espanyol,3,1,1
+5836,2023-01-29T17:30:00+00:00,La Liga,Spain,2022,Celta Vigo,Athletic Club,1,0,1
+5837,2023-01-29T15:15:00+00:00,La Liga,Spain,2022,Osasuna,Atletico Madrid,0,1,2
+5838,2023-01-28T15:15:00+00:00,La Liga,Spain,2022,Girona,Barcelona,0,1,2
+5839,2023-01-28T20:00:00+00:00,La Liga,Spain,2022,Getafe,Real Betis,0,1,2
+5840,2023-01-28T17:30:00+00:00,La Liga,Spain,2022,Sevilla,Elche,3,0,1
+5841,2023-01-29T13:00:00+00:00,La Liga,Spain,2022,Valladolid,Valencia,1,0,1
+5842,2023-01-30T20:00:00+00:00,La Liga,Spain,2022,Villarreal,Rayo Vallecano,0,1,2
+5843,2023-02-03T20:00:00+00:00,La Liga,Spain,2022,Athletic Club,Cadiz,4,1,1
+5844,2023-02-04T17:30:00+00:00,La Liga,Spain,2022,Atletico Madrid,Getafe,1,1,0
+5845,2023-02-05T20:00:00+00:00,La Liga,Spain,2022,Barcelona,Sevilla,3,0,1
+5846,2023-02-04T20:00:00+00:00,La Liga,Spain,2022,Real Betis,Celta Vigo,3,4,2
+5847,2023-02-04T15:15:00+00:00,La Liga,Spain,2022,Elche,Villarreal,3,1,1
+5848,2023-02-05T13:00:00+00:00,La Liga,Spain,2022,Mallorca,Real Madrid,1,0,1
+5849,2023-02-04T13:00:00+00:00,La Liga,Spain,2022,Espanyol,Osasuna,1,1,0
+5850,2023-02-05T17:30:00+00:00,La Liga,Spain,2022,Real Sociedad,Valladolid,0,1,2
+5851,2023-02-05T15:15:00+00:00,La Liga,Spain,2022,Girona,Valencia,1,0,1
+5852,2023-02-06T20:00:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Almeria,2,0,1
+5853,2023-02-12T13:00:00+00:00,La Liga,Spain,2022,Getafe,Rayo Vallecano,1,1,0
+5854,2023-02-10T20:00:00+00:00,La Liga,Spain,2022,Cadiz,Girona,2,0,1
+5855,2023-02-13T20:00:00+00:00,La Liga,Spain,2022,Espanyol,Real Sociedad,2,3,2
+5856,2023-02-11T15:15:00+00:00,La Liga,Spain,2022,Almeria,Real Betis,2,3,2
+5857,2023-02-11T20:00:00+00:00,La Liga,Spain,2022,Valencia,Athletic Club,1,2,2
+5858,2023-02-12T15:15:00+00:00,La Liga,Spain,2022,Celta Vigo,Atletico Madrid,0,1,2
+5859,2023-02-12T20:00:00+00:00,La Liga,Spain,2022,Villarreal,Barcelona,0,1,2
+5860,2023-02-15T20:00:00+00:00,La Liga,Spain,2022,Real Madrid,Elche,4,0,1
+5861,2023-02-11T17:30:00+00:00,La Liga,Spain,2022,Sevilla,Mallorca,2,0,1
+5862,2023-02-12T17:30:00+00:00,La Liga,Spain,2022,Valladolid,Osasuna,0,0,0
+5863,2023-02-19T20:00:00+00:00,La Liga,Spain,2022,Barcelona,Cadiz,2,0,1
+5864,2023-02-18T15:15:00+00:00,La Liga,Spain,2022,Real Betis,Valladolid,2,1,1
+5865,2023-02-19T13:00:00+00:00,La Liga,Spain,2022,Elche,Espanyol,0,1,2
+5866,2023-02-18T17:30:00+00:00,La Liga,Spain,2022,Mallorca,Villarreal,4,2,1
+5867,2023-02-20T20:00:00+00:00,La Liga,Spain,2022,Getafe,Valencia,1,0,1
+5868,2023-02-18T20:00:00+00:00,La Liga,Spain,2022,Osasuna,Real Madrid,0,2,2
+5869,2023-02-19T15:15:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Sevilla,1,1,0
+5870,2023-02-19T17:30:00+00:00,La Liga,Spain,2022,Atletico Madrid,Athletic Club,1,0,1
+5871,2023-02-18T13:00:00+00:00,La Liga,Spain,2022,Real Sociedad,Celta Vigo,1,1,0
+5872,2023-02-17T20:00:00+00:00,La Liga,Spain,2022,Girona,Almeria,6,2,1
+5873,2023-02-26T13:00:00+00:00,La Liga,Spain,2022,Athletic Club,Girona,2,3,2
+5874,2023-02-26T15:15:00+00:00,La Liga,Spain,2022,Celta Vigo,Valladolid,3,0,1
+5875,2023-02-25T15:15:00+00:00,La Liga,Spain,2022,Cadiz,Rayo Vallecano,1,0,1
+5876,2023-02-25T13:00:00+00:00,La Liga,Spain,2022,Espanyol,Mallorca,2,1,1
+5877,2023-02-26T17:30:00+00:00,La Liga,Spain,2022,Almeria,Barcelona,1,0,1
+5878,2023-02-25T17:30:00+00:00,La Liga,Spain,2022,Real Madrid,Atletico Madrid,1,1,0
+5879,2023-02-24T20:00:00+00:00,La Liga,Spain,2022,Elche,Real Betis,2,3,2
+5880,2023-02-27T20:00:00+00:00,La Liga,Spain,2022,Villarreal,Getafe,2,1,1
+5881,2023-02-26T20:00:00+00:00,La Liga,Spain,2022,Sevilla,Osasuna,2,3,2
+5882,2023-02-25T20:00:00+00:00,La Liga,Spain,2022,Valencia,Real Sociedad,1,0,1
+5883,2023-03-04T20:00:00+00:00,La Liga,Spain,2022,Atletico Madrid,Sevilla,6,1,1
+5884,2023-03-05T15:15:00+00:00,La Liga,Spain,2022,Barcelona,Valencia,1,0,1
+5885,2023-03-05T20:00:00+00:00,La Liga,Spain,2022,Real Betis,Real Madrid,0,0,0
+5886,2023-03-04T13:00:00+00:00,La Liga,Spain,2022,Getafe,Girona,3,2,1
+5887,2023-03-04T15:15:00+00:00,La Liga,Spain,2022,Almeria,Villarreal,0,2,2
+5888,2023-03-05T17:30:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Athletic Club,0,0,0
+5889,2023-03-06T20:00:00+00:00,La Liga,Spain,2022,Osasuna,Celta Vigo,0,0,0
+5890,2023-03-04T17:30:00+00:00,La Liga,Spain,2022,Mallorca,Elche,0,1,2
+5891,2023-03-03T20:00:00+00:00,La Liga,Spain,2022,Real Sociedad,Cadiz,0,0,0
+5892,2023-03-05T13:00:00+00:00,La Liga,Spain,2022,Valladolid,Espanyol,2,1,1
+5893,2023-03-12T20:00:00+00:00,La Liga,Spain,2022,Athletic Club,Barcelona,0,1,2
+5894,2023-03-11T17:30:00+00:00,La Liga,Spain,2022,Celta Vigo,Rayo Vallecano,3,0,1
+5895,2023-03-11T15:15:00+00:00,La Liga,Spain,2022,Elche,Valladolid,1,1,0
+5896,2023-03-12T13:00:00+00:00,La Liga,Spain,2022,Mallorca,Real Sociedad,1,1,0
+5897,2023-03-10T20:00:00+00:00,La Liga,Spain,2022,Cadiz,Getafe,2,2,0
+5898,2023-03-13T20:00:00+00:00,La Liga,Spain,2022,Girona,Atletico Madrid,0,1,2
+5899,2023-03-12T17:30:00+00:00,La Liga,Spain,2022,Villarreal,Real Betis,1,1,0
+5900,2023-03-11T13:00:00+00:00,La Liga,Spain,2022,Real Madrid,Espanyol,3,1,1
+5901,2023-03-11T20:00:00+00:00,La Liga,Spain,2022,Valencia,Osasuna,1,0,1
+5902,2023-03-12T15:15:00+00:00,La Liga,Spain,2022,Sevilla,Almeria,2,1,1
+5903,2023-03-18T20:00:00+00:00,La Liga,Spain,2022,Atletico Madrid,Valencia,3,0,1
+5904,2023-03-19T20:00:00+00:00,La Liga,Spain,2022,Barcelona,Real Madrid,2,1,1
+5905,2023-03-19T13:00:00+00:00,La Liga,Spain,2022,Real Betis,Mallorca,1,0,1
+5906,2023-03-19T17:30:00+00:00,La Liga,Spain,2022,Getafe,Sevilla,2,0,1
+5907,2023-03-19T15:15:00+00:00,La Liga,Spain,2022,Osasuna,Villarreal,0,3,2
+5908,2023-03-18T13:00:00+00:00,La Liga,Spain,2022,Almeria,Cadiz,1,1,0
+5909,2023-03-17T20:00:00+00:00,La Liga,Spain,2022,Valladolid,Athletic Club,1,3,2
+5910,2023-03-18T17:30:00+00:00,La Liga,Spain,2022,Espanyol,Celta Vigo,1,3,2
+5911,2023-03-19T15:15:00+00:00,La Liga,Spain,2022,Real Sociedad,Elche,2,0,1
+5912,2023-03-18T15:15:00+00:00,La Liga,Spain,2022,Rayo Vallecano,Girona,2,2,0
+5913,2023-04-01T15:15:00+01:00,La Liga,Spain,2022,Athletic Club,Getafe,0,0,0
+5914,2023-04-02T20:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Real Betis,1,0,1
+5915,2023-03-31T20:00:00+01:00,La Liga,Spain,2022,Mallorca,Osasuna,0,0,0
+5916,2023-04-01T17:30:00+01:00,La Liga,Spain,2022,Cadiz,Sevilla,0,2,2
+5917,2023-04-02T15:15:00+01:00,La Liga,Spain,2022,Real Madrid,Valladolid,6,0,1
+5918,2023-04-01T20:00:00+01:00,La Liga,Spain,2022,Elche,Barcelona,0,4,2
+5919,2023-04-01T13:00:00+01:00,La Liga,Spain,2022,Girona,Espanyol,2,1,1
+5920,2023-04-02T17:30:00+01:00,La Liga,Spain,2022,Villarreal,Real Sociedad,2,0,1
+5921,2023-04-03T20:00:00+01:00,La Liga,Spain,2022,Valencia,Rayo Vallecano,1,1,0
+5922,2023-04-02T13:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Almeria,2,2,0
+5923,2023-04-10T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Girona,0,0,0
+5924,2023-04-09T15:15:00+01:00,La Liga,Spain,2022,Real Betis,Cadiz,0,2,2
+5925,2023-04-08T20:00:00+01:00,La Liga,Spain,2022,Real Madrid,Villarreal,2,3,2
+5926,2023-04-09T17:30:00+01:00,La Liga,Spain,2022,Almeria,Valencia,2,1,1
+5927,2023-04-08T15:15:00+01:00,La Liga,Spain,2022,Espanyol,Athletic Club,1,2,2
+5928,2023-04-09T20:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Atletico Madrid,1,2,2
+5929,2023-04-07T20:00:00+01:00,La Liga,Spain,2022,Sevilla,Celta Vigo,2,2,0
+5930,2023-04-08T13:00:00+01:00,La Liga,Spain,2022,Osasuna,Elche,2,1,1
+5931,2023-04-09T13:00:00+01:00,La Liga,Spain,2022,Valladolid,Mallorca,3,3,0
+5932,2023-04-08T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Getafe,2,0,1
+5933,2023-04-15T15:15:00+01:00,La Liga,Spain,2022,Athletic Club,Real Sociedad,2,0,1
+5934,2023-04-15T17:30:00+01:00,La Liga,Spain,2022,Real Betis,Espanyol,3,1,1
+5935,2023-04-17T20:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Mallorca,0,1,2
+5936,2023-04-15T20:00:00+01:00,La Liga,Spain,2022,Cadiz,Real Madrid,0,2,2
+5937,2023-04-15T13:00:00+01:00,La Liga,Spain,2022,Villarreal,Valladolid,1,2,2
+5938,2023-04-16T15:15:00+01:00,La Liga,Spain,2022,Getafe,Barcelona,0,0,0
+5939,2023-04-16T13:00:00+01:00,La Liga,Spain,2022,Girona,Elche,2,0,1
+5940,2023-04-14T20:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Osasuna,2,1,1
+5941,2023-04-16T20:00:00+01:00,La Liga,Spain,2022,Valencia,Sevilla,0,2,2
+5942,2023-04-16T17:30:00+01:00,La Liga,Spain,2022,Atletico Madrid,Almeria,2,1,1
+5943,2023-04-23T13:00:00+01:00,La Liga,Spain,2022,Elche,Valencia,0,2,2
+5944,2023-04-23T20:00:00+01:00,La Liga,Spain,2022,Sevilla,Villarreal,2,1,1
+5945,2023-04-22T15:15:00+01:00,La Liga,Spain,2022,Almeria,Athletic Club,1,2,2
+5946,2023-04-23T15:15:00+01:00,La Liga,Spain,2022,Barcelona,Atletico Madrid,1,0,1
+5947,2023-04-22T13:00:00+01:00,La Liga,Spain,2022,Osasuna,Real Betis,3,2,1
+5948,2023-04-22T20:00:00+01:00,La Liga,Spain,2022,Real Madrid,Celta Vigo,2,0,1
+5949,2023-04-23T17:30:00+01:00,La Liga,Spain,2022,Mallorca,Getafe,3,1,1
+5950,2023-04-21T20:00:00+01:00,La Liga,Spain,2022,Espanyol,Cadiz,0,0,0
+5951,2023-04-22T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Rayo Vallecano,2,1,1
+5952,2023-04-22T17:30:00+01:00,La Liga,Spain,2022,Valladolid,Girona,1,0,1
+5953,2023-04-27T21:00:00+01:00,La Liga,Spain,2022,Athletic Club,Sevilla,0,1,2
+5954,2023-04-26T18:30:00+01:00,La Liga,Spain,2022,Atletico Madrid,Mallorca,3,1,1
+5955,2023-04-25T21:00:00+01:00,La Liga,Spain,2022,Real Betis,Real Sociedad,0,0,0
+5956,2023-04-26T21:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Elche,1,0,1
+5957,2023-04-25T18:30:00+01:00,La Liga,Spain,2022,Cadiz,Osasuna,0,1,2
+5958,2023-04-27T18:30:00+01:00,La Liga,Spain,2022,Valencia,Valladolid,2,1,1
+5959,2023-04-25T18:30:00+01:00,La Liga,Spain,2022,Girona,Real Madrid,4,2,1
+5960,2023-04-26T21:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Barcelona,2,1,1
+5961,2023-04-27T18:30:00+01:00,La Liga,Spain,2022,Villarreal,Espanyol,4,2,1
+5962,2023-04-26T18:30:00+01:00,La Liga,Spain,2022,Getafe,Almeria,1,2,2
+5963,2023-04-29T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Real Betis,4,0,1
+5964,2023-04-29T15:15:00+01:00,La Liga,Spain,2022,Elche,Rayo Vallecano,4,0,1
+5965,2023-04-30T13:00:00+01:00,La Liga,Spain,2022,Cadiz,Valencia,2,1,1
+5966,2023-04-30T17:30:00+01:00,La Liga,Spain,2022,Espanyol,Getafe,1,0,1
+5967,2023-04-28T20:00:00+01:00,La Liga,Spain,2022,Osasuna,Real Sociedad,0,2,2
+5968,2023-05-01T18:00:00+01:00,La Liga,Spain,2022,Mallorca,Athletic Club,1,1,0
+5969,2023-04-30T20:00:00+01:00,La Liga,Spain,2022,Valladolid,Atletico Madrid,2,5,2
+5970,2023-04-30T15:15:00+01:00,La Liga,Spain,2022,Villarreal,Celta Vigo,3,1,1
+5971,2023-04-29T17:30:00+01:00,La Liga,Spain,2022,Real Madrid,Almeria,4,2,1
+5972,2023-05-01T20:00:00+01:00,La Liga,Spain,2022,Sevilla,Girona,0,2,2
+5973,2023-05-04T21:00:00+01:00,La Liga,Spain,2022,Athletic Club,Real Betis,0,1,2
+5974,2023-05-03T21:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Cadiz,5,1,1
+5975,2023-05-02T18:30:00+01:00,La Liga,Spain,2022,Barcelona,Osasuna,1,0,1
+5976,2023-05-03T18:30:00+01:00,La Liga,Spain,2022,Valencia,Villarreal,1,1,0
+5977,2023-05-04T21:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Valladolid,2,1,1
+5978,2023-05-02T18:30:00+01:00,La Liga,Spain,2022,Almeria,Elche,2,1,1
+5979,2023-05-04T18:30:00+01:00,La Liga,Spain,2022,Girona,Mallorca,2,1,1
+5980,2023-05-03T21:00:00+01:00,La Liga,Spain,2022,Getafe,Celta Vigo,1,0,1
+5981,2023-05-04T18:30:00+01:00,La Liga,Spain,2022,Sevilla,Espanyol,3,2,1
+5982,2023-05-02T21:00:00+01:00,La Liga,Spain,2022,Real Sociedad,Real Madrid,2,0,1
+5983,2023-05-15T20:00:00+01:00,La Liga,Spain,2022,Real Betis,Rayo Vallecano,3,1,1
+5984,2023-05-14T13:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Valencia,1,2,2
+5985,2023-05-13T17:30:00+01:00,La Liga,Spain,2022,Villarreal,Athletic Club,5,1,1
+5986,2023-05-14T15:15:00+01:00,La Liga,Spain,2022,Elche,Atletico Madrid,1,0,1
+5987,2023-05-14T20:00:00+01:00,La Liga,Spain,2022,Espanyol,Barcelona,2,4,2
+5988,2023-05-13T20:00:00+01:00,La Liga,Spain,2022,Real Madrid,Getafe,1,0,1
+5989,2023-05-12T20:00:00+01:00,La Liga,Spain,2022,Mallorca,Cadiz,1,0,1
+5990,2023-05-14T17:30:00+01:00,La Liga,Spain,2022,Valladolid,Sevilla,0,3,2
+5991,2023-05-13T15:15:00+01:00,La Liga,Spain,2022,Osasuna,Almeria,3,1,1
+5992,2023-05-13T13:00:00+01:00,La Liga,Spain,2022,Real Sociedad,Girona,2,2,0
+5993,2023-05-20T15:15:00+01:00,La Liga,Spain,2022,Athletic Club,Celta Vigo,2,1,1
+5994,2023-05-21T15:15:00+01:00,La Liga,Spain,2022,Atletico Madrid,Osasuna,3,0,1
+5995,2023-05-20T20:00:00+01:00,La Liga,Spain,2022,Barcelona,Real Sociedad,1,2,2
+5996,2023-05-19T20:00:00+01:00,La Liga,Spain,2022,Cadiz,Valladolid,2,0,1
+5997,2023-05-20T17:30:00+01:00,La Liga,Spain,2022,Almeria,Mallorca,3,0,1
+5998,2023-05-20T13:00:00+01:00,La Liga,Spain,2022,Girona,Villarreal,1,2,2
+5999,2023-05-21T20:00:00+01:00,La Liga,Spain,2022,Sevilla,Real Betis,0,0,0
+6000,2023-05-20T17:30:00+01:00,La Liga,Spain,2022,Getafe,Elche,1,1,0
+6001,2023-05-21T13:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Espanyol,1,2,2
+6002,2023-05-21T17:30:00+01:00,La Liga,Spain,2022,Valencia,Real Madrid,1,0,1
+6003,2023-05-24T21:00:00+01:00,La Liga,Spain,2022,Real Betis,Getafe,0,1,2
+6004,2023-05-23T18:30:00+01:00,La Liga,Spain,2022,Celta Vigo,Girona,1,1,0
+6005,2023-05-24T18:30:00+01:00,La Liga,Spain,2022,Elche,Sevilla,1,1,0
+6006,2023-05-25T18:30:00+01:00,La Liga,Spain,2022,Mallorca,Valencia,1,0,1
+6007,2023-05-25T20:30:00+01:00,La Liga,Spain,2022,Osasuna,Athletic Club,2,0,1
+6008,2023-05-24T21:00:00+01:00,La Liga,Spain,2022,Espanyol,Atletico Madrid,3,3,0
+6009,2023-05-23T21:00:00+01:00,La Liga,Spain,2022,Valladolid,Barcelona,3,1,1
+6010,2023-05-24T18:30:00+01:00,La Liga,Spain,2022,Villarreal,Cadiz,2,0,1
+6011,2023-05-24T18:30:00+01:00,La Liga,Spain,2022,Real Madrid,Rayo Vallecano,2,1,1
+6012,2023-05-23T18:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Almeria,1,0,1
+6013,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Athletic Club,Elche,0,1,2
+6014,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Atletico Madrid,Real Sociedad,2,1,1
+6015,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Barcelona,Mallorca,3,0,1
+6016,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Getafe,Osasuna,2,1,1
+6017,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Cadiz,Celta Vigo,1,0,1
+6018,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Rayo Vallecano,Villarreal,2,1,1
+6019,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Almeria,Valladolid,0,0,0
+6020,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Girona,Real Betis,1,2,2
+6021,2023-05-28T18:00:00+01:00,La Liga,Spain,2022,Valencia,Espanyol,2,2,0
+6022,2023-05-27T18:00:00+01:00,La Liga,Spain,2022,Sevilla,Real Madrid,1,2,2
+6023,2023-06-04T20:00:00+01:00,La Liga,Spain,2022,Real Betis,Valencia,1,1,0
+6024,2023-06-04T17:30:00+01:00,La Liga,Spain,2022,Mallorca,Rayo Vallecano,3,0,1
+6025,2023-06-04T17:30:00+01:00,La Liga,Spain,2022,Real Sociedad,Sevilla,2,1,1
+6026,2023-06-04T17:30:00+01:00,La Liga,Spain,2022,Real Madrid,Athletic Club,1,1,0
+6027,2023-06-04T17:30:00+01:00,La Liga,Spain,2022,Villarreal,Atletico Madrid,2,2,0
+6028,2023-06-04T20:00:00+01:00,La Liga,Spain,2022,Celta Vigo,Barcelona,2,1,1
+6029,2023-06-04T20:00:00+01:00,La Liga,Spain,2022,Valladolid,Getafe,0,0,0
+6030,2023-06-04T20:00:00+01:00,La Liga,Spain,2022,Elche,Cadiz,1,1,0
+6031,2023-06-04T20:00:00+01:00,La Liga,Spain,2022,Espanyol,Almeria,3,3,0
+6032,2023-06-04T17:30:00+01:00,La Liga,Spain,2022,Osasuna,Girona,2,1,1
+6033,2022-08-06T16:00:00+01:00,Ligue 1,France,2022,Strasbourg,Monaco,1,2,2
+6034,2022-08-07T16:05:00+01:00,Ligue 1,France,2022,Rennes,Lorient,0,1,2
+6035,2022-08-06T20:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Paris Saint Germain,0,5,2
+6036,2022-08-07T12:00:00+01:00,Ligue 1,France,2022,Toulouse,Nice,1,1,0
+6037,2022-08-05T20:00:00+01:00,Ligue 1,France,2022,Lyon,Ajaccio,2,1,1
+6038,2022-08-07T14:00:00+01:00,Ligue 1,France,2022,Lille,Auxerre,4,1,1
+6039,2022-08-07T14:00:00+01:00,Ligue 1,France,2022,Angers,Nantes,0,0,0
+6040,2022-08-07T14:00:00+01:00,Ligue 1,France,2022,Montpellier,Estac Troyes,3,2,1
+6041,2022-08-07T19:45:00+01:00,Ligue 1,France,2022,Marseille,Reims,4,1,1
+6042,2022-08-07T14:00:00+01:00,Ligue 1,France,2022,Lens,Stade Brestois 29,3,2,1
+6043,2022-08-14T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Lens,0,0,0
+6044,2022-08-14T14:00:00+01:00,Ligue 1,France,2022,Auxerre,Angers,2,2,0
+6045,2022-08-13T16:00:00+01:00,Ligue 1,France,2022,Monaco,Rennes,1,1,0
+6046,2022-09-07T18:00:00+01:00,Ligue 1,France,2022,Lorient,Lyon,3,1,1
+6047,2022-08-12T20:00:00+01:00,Ligue 1,France,2022,Nantes,Lille,1,1,0
+6048,2022-08-14T16:05:00+01:00,Ligue 1,France,2022,Nice,Strasbourg,1,1,0
+6049,2022-08-13T20:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Montpellier,5,2,1
+6050,2022-08-14T19:45:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Marseille,1,1,0
+6051,2022-08-14T14:00:00+01:00,Ligue 1,France,2022,Reims,Clermont Foot,2,4,2
+6052,2022-08-14T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Toulouse,0,3,2
+6053,2022-08-20T16:00:00+01:00,Ligue 1,France,2022,Monaco,Lens,1,4,2
+6054,2022-08-21T14:00:00+01:00,Ligue 1,France,2022,Angers,Stade Brestois 29,1,3,2
+6055,2022-08-21T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Nice,1,0,1
+6056,2022-08-21T19:45:00+01:00,Ligue 1,France,2022,Lille,Paris Saint Germain,1,7,2
+6057,2022-08-21T14:00:00+01:00,Ligue 1,France,2022,Montpellier,Auxerre,1,2,2
+6058,2022-08-19T20:00:00+01:00,Ligue 1,France,2022,Lyon,Estac Troyes,4,1,1
+6059,2022-08-20T20:00:00+01:00,Ligue 1,France,2022,Marseille,Nantes,2,1,1
+6060,2022-08-21T12:00:00+01:00,Ligue 1,France,2022,Strasbourg,Reims,1,1,0
+6061,2022-08-21T16:05:00+01:00,Ligue 1,France,2022,Rennes,Ajaccio,2,1,1
+6062,2022-08-21T14:00:00+01:00,Ligue 1,France,2022,Toulouse,Lorient,2,2,0
+6063,2022-08-26T20:00:00+01:00,Ligue 1,France,2022,Ajaccio,Lille,1,3,2
+6064,2022-08-27T16:00:00+01:00,Ligue 1,France,2022,Auxerre,Strasbourg,1,0,1
+6065,2022-08-28T14:00:00+01:00,Ligue 1,France,2022,Lorient,Clermont Foot,2,1,1
+6066,2022-08-28T12:00:00+01:00,Ligue 1,France,2022,Nantes,Toulouse,3,1,1
+6067,2022-08-28T14:00:00+01:00,Ligue 1,France,2022,Nice,Marseille,0,3,2
+6068,2022-08-28T19:45:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Monaco,1,1,0
+6069,2022-08-27T20:00:00+01:00,Ligue 1,France,2022,Lens,Rennes,2,1,1
+6070,2022-08-28T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Montpellier,0,7,2
+6071,2022-08-28T16:05:00+01:00,Ligue 1,France,2022,Reims,Lyon,1,1,0
+6072,2022-08-28T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Angers,3,1,1
+6073,2022-08-31T18:00:00+01:00,Ligue 1,France,2022,Monaco,Estac Troyes,2,4,2
+6074,2022-08-31T18:00:00+01:00,Ligue 1,France,2022,Angers,Reims,2,4,2
+6075,2022-08-31T20:00:00+01:00,Ligue 1,France,2022,Lille,Nice,1,2,2
+6076,2022-08-31T18:00:00+01:00,Ligue 1,France,2022,Montpellier,Ajaccio,2,0,1
+6077,2022-08-31T18:00:00+01:00,Ligue 1,France,2022,Lyon,Auxerre,2,1,1
+6078,2022-08-31T20:00:00+01:00,Ligue 1,France,2022,Marseille,Clermont Foot,1,0,1
+6079,2022-08-31T20:00:00+01:00,Ligue 1,France,2022,Lens,Lorient,5,2,1
+6080,2022-08-31T18:00:00+01:00,Ligue 1,France,2022,Strasbourg,Nantes,1,1,0
+6081,2022-08-31T20:00:00+01:00,Ligue 1,France,2022,Rennes,Stade Brestois 29,3,1,1
+6082,2022-08-31T20:00:00+01:00,Ligue 1,France,2022,Toulouse,Paris Saint Germain,0,3,2
+6083,2022-09-04T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Lorient,0,1,2
+6084,2022-09-03T16:00:00+01:00,Ligue 1,France,2022,Auxerre,Marseille,0,2,2
+6085,2022-09-04T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Toulouse,2,0,1
+6086,2022-09-03T20:00:00+01:00,Ligue 1,France,2022,Nantes,Paris Saint Germain,0,3,2
+6087,2022-09-04T12:00:00+01:00,Ligue 1,France,2022,Montpellier,Lille,1,3,2
+6088,2022-09-04T19:45:00+01:00,Ligue 1,France,2022,Nice,Monaco,0,1,2
+6089,2022-09-03T18:00:00+01:00,Ligue 1,France,2022,Lyon,Angers,5,0,1
+6090,2022-09-04T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Strasbourg,1,1,0
+6091,2022-09-04T14:00:00+01:00,Ligue 1,France,2022,Reims,Lens,1,1,0
+6092,2022-09-04T16:05:00+01:00,Ligue 1,France,2022,Estac Troyes,Rennes,1,1,0
+6093,2022-09-11T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Nice,0,1,2
+6094,2022-09-11T19:45:00+01:00,Ligue 1,France,2022,Monaco,Lyon,2,1,1
+6095,2022-09-11T14:00:00+01:00,Ligue 1,France,2022,Angers,Montpellier,2,1,1
+6096,2022-09-11T14:00:00+01:00,Ligue 1,France,2022,Lorient,Nantes,3,2,1
+6097,2022-09-10T20:00:00+01:00,Ligue 1,France,2022,Marseille,Lille,2,1,1
+6098,2022-09-10T16:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Stade Brestois 29,1,0,1
+6099,2022-09-09T20:00:00+01:00,Ligue 1,France,2022,Lens,Estac Troyes,1,0,1
+6100,2022-09-11T12:00:00+01:00,Ligue 1,France,2022,Strasbourg,Clermont Foot,0,0,0
+6101,2022-09-11T16:05:00+01:00,Ligue 1,France,2022,Rennes,Auxerre,5,0,1
+6102,2022-09-11T14:00:00+01:00,Ligue 1,France,2022,Toulouse,Reims,1,0,1
+6103,2022-09-16T20:00:00+01:00,Ligue 1,France,2022,Auxerre,Lorient,1,3,2
+6104,2022-09-18T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Estac Troyes,1,3,2
+6105,2022-09-18T16:05:00+01:00,Ligue 1,France,2022,Nantes,Lens,0,0,0
+6106,2022-09-17T20:00:00+01:00,Ligue 1,France,2022,Lille,Toulouse,2,1,1
+6107,2022-09-17T16:00:00+01:00,Ligue 1,France,2022,Montpellier,Strasbourg,2,1,1
+6108,2022-09-18T14:00:00+01:00,Ligue 1,France,2022,Nice,Angers,0,1,2
+6109,2022-09-18T19:45:00+01:00,Ligue 1,France,2022,Lyon,Paris Saint Germain,0,1,2
+6110,2022-09-18T14:00:00+01:00,Ligue 1,France,2022,Marseille,Rennes,1,1,0
+6111,2022-09-18T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Ajaccio,0,1,2
+6112,2022-09-18T12:00:00+01:00,Ligue 1,France,2022,Reims,Monaco,0,3,2
+6113,2022-10-02T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Clermont Foot,1,3,2
+6114,2022-10-02T14:00:00+01:00,Ligue 1,France,2022,Auxerre,Stade Brestois 29,1,1,0
+6115,2022-10-02T16:05:00+01:00,Ligue 1,France,2022,Monaco,Nantes,4,1,1
+6116,2022-09-30T20:00:00+01:00,Ligue 1,France,2022,Angers,Marseille,0,3,2
+6117,2022-10-02T12:00:00+01:00,Ligue 1,France,2022,Lorient,Lille,2,1,1
+6118,2022-10-01T20:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Nice,2,1,1
+6119,2022-10-02T19:45:00+01:00,Ligue 1,France,2022,Lens,Lyon,1,0,1
+6120,2022-10-01T16:00:00+01:00,Ligue 1,France,2022,Strasbourg,Rennes,1,3,2
+6121,2022-10-02T14:00:00+01:00,Ligue 1,France,2022,Toulouse,Montpellier,4,2,1
+6122,2022-10-02T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Reims,2,2,0
+6123,2022-10-09T14:00:00+01:00,Ligue 1,France,2022,Angers,Strasbourg,2,3,2
+6124,2022-10-09T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Auxerre,2,1,1
+6125,2022-10-09T19:45:00+01:00,Ligue 1,France,2022,Lille,Lens,1,0,1
+6126,2022-10-09T12:00:00+01:00,Ligue 1,France,2022,Montpellier,Monaco,0,2,2
+6127,2022-10-09T14:00:00+01:00,Ligue 1,France,2022,Nice,Estac Troyes,3,2,1
+6128,2022-10-07T20:00:00+01:00,Ligue 1,France,2022,Lyon,Toulouse,1,1,0
+6129,2022-10-08T16:00:00+01:00,Ligue 1,France,2022,Marseille,Ajaccio,1,2,2
+6130,2022-10-09T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Lorient,1,2,2
+6131,2022-10-09T16:05:00+01:00,Ligue 1,France,2022,Rennes,Nantes,3,0,1
+6132,2022-10-08T20:00:00+01:00,Ligue 1,France,2022,Reims,Paris Saint Germain,0,0,0
+6133,2022-10-16T14:00:00+01:00,Ligue 1,France,2022,Auxerre,Nice,1,1,0
+6134,2022-10-16T16:05:00+01:00,Ligue 1,France,2022,Monaco,Clermont Foot,1,1,0
+6135,2022-10-15T16:00:00+01:00,Ligue 1,France,2022,Lorient,Reims,0,0,0
+6136,2022-10-16T14:00:00+01:00,Ligue 1,France,2022,Nantes,Stade Brestois 29,4,1,1
+6137,2022-10-16T19:45:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Marseille,1,0,1
+6138,2022-10-15T20:00:00+01:00,Ligue 1,France,2022,Lens,Montpellier,1,0,1
+6139,2022-10-14T20:00:00+01:00,Ligue 1,France,2022,Strasbourg,Lille,0,3,2
+6140,2022-10-16T14:00:00+01:00,Ligue 1,France,2022,Rennes,Lyon,3,2,1
+6141,2022-10-16T12:00:00+01:00,Ligue 1,France,2022,Toulouse,Angers,3,2,1
+6142,2022-10-16T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Ajaccio,1,1,0
+6143,2022-10-21T20:00:00+01:00,Ligue 1,France,2022,Ajaccio,Paris Saint Germain,0,3,2
+6144,2022-10-23T12:00:00+01:00,Ligue 1,France,2022,Angers,Rennes,1,2,2
+6145,2022-10-23T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Stade Brestois 29,1,3,2
+6146,2022-10-23T19:45:00+01:00,Ligue 1,France,2022,Lille,Monaco,4,3,1
+6147,2022-10-22T16:00:00+01:00,Ligue 1,France,2022,Montpellier,Lyon,1,2,2
+6148,2022-10-23T16:05:00+01:00,Ligue 1,France,2022,Nice,Nantes,1,1,0
+6149,2022-10-22T20:00:00+01:00,Ligue 1,France,2022,Marseille,Lens,0,1,2
+6150,2022-10-23T14:00:00+01:00,Ligue 1,France,2022,Reims,Auxerre,2,1,1
+6151,2022-10-23T14:00:00+01:00,Ligue 1,France,2022,Toulouse,Strasbourg,2,2,0
+6152,2022-10-23T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Lorient,2,2,0
+6153,2022-10-30T12:00:00+00:00,Ligue 1,France,2022,Auxerre,Ajaccio,1,0,1
+6154,2022-10-30T14:00:00+00:00,Ligue 1,France,2022,Monaco,Angers,2,0,1
+6155,2022-10-30T16:05:00+00:00,Ligue 1,France,2022,Lorient,Nice,1,2,2
+6156,2022-10-30T14:00:00+00:00,Ligue 1,France,2022,Nantes,Clermont Foot,1,1,0
+6157,2022-10-30T19:45:00+00:00,Ligue 1,France,2022,Lyon,Lille,1,0,1
+6158,2022-10-29T16:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Estac Troyes,4,3,1
+6159,2022-10-28T20:00:00+01:00,Ligue 1,France,2022,Lens,Toulouse,3,0,1
+6160,2022-10-29T20:00:00+01:00,Ligue 1,France,2022,Strasbourg,Marseille,2,2,0
+6161,2022-10-30T14:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Reims,0,0,0
+6162,2022-10-30T14:00:00+00:00,Ligue 1,France,2022,Rennes,Montpellier,3,0,1
+6163,2022-11-05T16:00:00+00:00,Ligue 1,France,2022,Ajaccio,Strasbourg,4,2,1
+6164,2022-11-05T20:00:00+00:00,Ligue 1,France,2022,Angers,Lens,1,2,2
+6165,2022-11-06T14:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Montpellier,1,1,0
+6166,2022-11-06T12:00:00+00:00,Ligue 1,France,2022,Lorient,Paris Saint Germain,1,2,2
+6167,2022-11-06T16:05:00+00:00,Ligue 1,France,2022,Lille,Rennes,1,1,0
+6168,2022-11-06T14:00:00+00:00,Ligue 1,France,2022,Nice,Stade Brestois 29,1,0,1
+6169,2022-11-06T19:45:00+00:00,Ligue 1,France,2022,Marseille,Lyon,1,0,1
+6170,2022-11-06T14:00:00+00:00,Ligue 1,France,2022,Reims,Nantes,1,0,1
+6171,2022-11-06T14:00:00+00:00,Ligue 1,France,2022,Toulouse,Monaco,0,2,2
+6172,2022-11-04T20:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Auxerre,1,1,0
+6173,2022-11-13T19:45:00+00:00,Ligue 1,France,2022,Monaco,Marseille,2,3,2
+6174,2022-11-13T14:00:00+00:00,Ligue 1,France,2022,Nantes,Ajaccio,2,2,0
+6175,2022-11-13T14:00:00+00:00,Ligue 1,France,2022,Lille,Angers,1,0,1
+6176,2022-11-13T14:00:00+00:00,Ligue 1,France,2022,Montpellier,Reims,1,1,0
+6177,2022-11-11T20:00:00+00:00,Ligue 1,France,2022,Lyon,Nice,1,1,0
+6178,2022-11-13T12:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Auxerre,5,0,1
+6179,2022-11-12T16:00:00+00:00,Ligue 1,France,2022,Lens,Clermont Foot,2,1,1
+6180,2022-11-13T16:05:00+00:00,Ligue 1,France,2022,Strasbourg,Lorient,1,1,0
+6181,2022-11-13T14:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Estac Troyes,2,1,1
+6182,2022-11-12T20:00:00+00:00,Ligue 1,France,2022,Rennes,Toulouse,2,1,1
+6183,2022-12-28T14:00:00+00:00,Ligue 1,France,2022,Ajaccio,Angers,1,0,1
+6184,2022-12-28T16:00:00+00:00,Ligue 1,France,2022,Auxerre,Monaco,2,3,2
+6185,2022-12-28T18:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Lille,0,2,2
+6186,2022-12-29T16:00:00+00:00,Ligue 1,France,2022,Lorient,Montpellier,0,2,2
+6187,2022-12-29T20:00:00+00:00,Ligue 1,France,2022,Nice,Lens,0,0,0
+6188,2022-12-29T20:00:00+00:00,Ligue 1,France,2022,Marseille,Toulouse,6,1,1
+6189,2022-12-28T20:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Strasbourg,2,1,1
+6190,2022-12-28T20:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Lyon,2,4,2
+6191,2022-12-29T18:00:00+00:00,Ligue 1,France,2022,Reims,Rennes,3,1,1
+6192,2022-12-28T14:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Nantes,0,0,0
+6193,2023-01-01T14:00:00+00:00,Ligue 1,France,2022,Monaco,Stade Brestois 29,1,0,1
+6194,2023-01-01T14:00:00+00:00,Ligue 1,France,2022,Nantes,Auxerre,1,0,1
+6195,2023-01-02T16:00:00+00:00,Ligue 1,France,2022,Lille,Reims,1,1,0
+6196,2023-01-01T16:00:00+00:00,Ligue 1,France,2022,Lyon,Clermont Foot,0,1,2
+6197,2023-01-01T19:45:00+00:00,Ligue 1,France,2022,Lens,Paris Saint Germain,3,1,1
+6198,2023-01-02T20:00:00+00:00,Ligue 1,France,2022,Rennes,Nice,2,1,1
+6199,2023-01-01T14:00:00+00:00,Ligue 1,France,2022,Toulouse,Ajaccio,2,0,1
+6200,2023-01-01T14:00:00+00:00,Ligue 1,France,2022,Angers,Lorient,1,2,2
+6201,2023-01-02T18:00:00+00:00,Ligue 1,France,2022,Montpellier,Marseille,1,2,2
+6202,2023-01-02T14:00:00+00:00,Ligue 1,France,2022,Strasbourg,Estac Troyes,2,3,2
+6203,2023-01-11T18:00:00+00:00,Ligue 1,France,2022,Ajaccio,Reims,0,1,2
+6204,2023-01-11T18:00:00+00:00,Ligue 1,France,2022,Auxerre,Toulouse,0,5,2
+6205,2023-01-11T18:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Rennes,2,1,1
+6206,2023-01-11T20:00:00+00:00,Ligue 1,France,2022,Lorient,Monaco,2,2,0
+6207,2023-01-11T18:00:00+00:00,Ligue 1,France,2022,Nantes,Lyon,0,0,0
+6208,2023-01-11T20:00:00+00:00,Ligue 1,France,2022,Nice,Montpellier,6,1,1
+6209,2023-01-11T20:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Angers,2,0,1
+6210,2023-01-11T20:00:00+00:00,Ligue 1,France,2022,Strasbourg,Lens,2,2,0
+6211,2023-01-11T18:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Lille,0,0,0
+6212,2023-01-11T20:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Marseille,0,2,2
+6213,2023-01-15T16:05:00+00:00,Ligue 1,France,2022,Monaco,Ajaccio,7,1,1
+6214,2023-01-15T14:00:00+00:00,Ligue 1,France,2022,Angers,Clermont Foot,1,2,2
+6215,2023-01-15T12:00:00+00:00,Ligue 1,France,2022,Lille,Estac Troyes,5,1,1
+6216,2023-01-15T14:00:00+00:00,Ligue 1,France,2022,Montpellier,Nantes,0,3,2
+6217,2023-01-14T20:00:00+00:00,Ligue 1,France,2022,Lyon,Strasbourg,1,2,2
+6218,2023-01-14T18:00:00+00:00,Ligue 1,France,2022,Marseille,Lorient,3,1,1
+6219,2023-01-14T16:00:00+00:00,Ligue 1,France,2022,Lens,Auxerre,1,0,1
+6220,2023-01-15T19:45:00+00:00,Ligue 1,France,2022,Rennes,Paris Saint Germain,1,0,1
+6221,2023-01-15T14:00:00+00:00,Ligue 1,France,2022,Reims,Nice,0,0,0
+6222,2023-01-15T14:00:00+00:00,Ligue 1,France,2022,Toulouse,Stade Brestois 29,1,1,0
+6223,2023-01-29T16:05:00+00:00,Ligue 1,France,2022,Ajaccio,Lyon,0,2,2
+6224,2023-01-29T14:00:00+00:00,Ligue 1,France,2022,Auxerre,Montpellier,0,2,2
+6225,2023-01-29T14:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Nantes,0,0,0
+6226,2023-01-27T20:00:00+00:00,Ligue 1,France,2022,Lorient,Rennes,2,1,1
+6227,2023-01-29T12:00:00+00:00,Ligue 1,France,2022,Nice,Lille,1,0,1
+6228,2023-01-28T20:00:00+00:00,Ligue 1,France,2022,Marseille,Monaco,1,1,0
+6229,2023-01-29T19:45:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Reims,1,1,0
+6230,2023-01-29T14:00:00+00:00,Ligue 1,France,2022,Strasbourg,Toulouse,1,2,2
+6231,2023-01-29T14:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Angers,4,0,1
+6232,2023-01-28T16:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Lens,1,1,0
+6233,2023-02-01T18:00:00+00:00,Ligue 1,France,2022,Nantes,Marseille,0,2,2
+6234,2023-02-01T20:00:00+00:00,Ligue 1,France,2022,Lyon,Stade Brestois 29,0,0,0
+6235,2023-02-01T18:00:00+00:00,Ligue 1,France,2022,Reims,Lorient,4,2,1
+6236,2023-02-01T20:00:00+00:00,Ligue 1,France,2022,Monaco,Auxerre,3,2,1
+6237,2023-02-01T18:00:00+00:00,Ligue 1,France,2022,Angers,Ajaccio,1,2,2
+6238,2023-02-01T18:00:00+00:00,Ligue 1,France,2022,Lille,Clermont Foot,0,0,0
+6239,2023-02-01T20:00:00+00:00,Ligue 1,France,2022,Montpellier,Paris Saint Germain,1,3,2
+6240,2023-02-01T20:00:00+00:00,Ligue 1,France,2022,Lens,Nice,0,1,2
+6241,2023-02-01T20:00:00+00:00,Ligue 1,France,2022,Rennes,Strasbourg,3,0,1
+6242,2023-02-01T18:00:00+00:00,Ligue 1,France,2022,Toulouse,Estac Troyes,4,1,1
+6243,2023-02-05T14:00:00+00:00,Ligue 1,France,2022,Ajaccio,Nantes,0,2,2
+6244,2023-02-05T14:00:00+00:00,Ligue 1,France,2022,Auxerre,Reims,0,0,0
+6245,2023-02-05T12:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Monaco,0,2,2
+6246,2023-02-05T14:00:00+00:00,Ligue 1,France,2022,Lorient,Angers,0,0,0
+6247,2023-02-05T19:45:00+00:00,Ligue 1,France,2022,Marseille,Nice,1,3,2
+6248,2023-02-04T16:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Toulouse,2,1,1
+6249,2023-02-05T14:00:00+00:00,Ligue 1,France,2022,Strasbourg,Montpellier,2,0,1
+6250,2023-02-05T16:05:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Lens,1,1,0
+6251,2023-02-04T20:00:00+00:00,Ligue 1,France,2022,Rennes,Lille,1,3,2
+6252,2023-02-04T18:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Lyon,1,3,2
+6253,2023-02-11T16:00:00+00:00,Ligue 1,France,2022,Monaco,Paris Saint Germain,3,1,1
+6254,2023-02-12T14:00:00+00:00,Ligue 1,France,2022,Angers,Auxerre,1,1,0
+6255,2023-02-11T20:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Marseille,0,2,2
+6256,2023-02-12T16:05:00+00:00,Ligue 1,France,2022,Nantes,Lorient,1,0,1
+6257,2023-02-12T14:00:00+00:00,Ligue 1,France,2022,Lille,Strasbourg,2,0,1
+6258,2023-02-12T14:00:00+00:00,Ligue 1,France,2022,Montpellier,Stade Brestois 29,3,0,1
+6259,2023-02-10T20:00:00+00:00,Ligue 1,France,2022,Nice,Ajaccio,3,0,1
+6260,2023-02-12T19:45:00+00:00,Ligue 1,France,2022,Lyon,Lens,2,1,1
+6261,2023-02-12T14:00:00+00:00,Ligue 1,France,2022,Reims,Estac Troyes,4,0,1
+6262,2023-02-12T12:00:00+00:00,Ligue 1,France,2022,Toulouse,Rennes,3,1,1
+6263,2023-02-17T20:00:00+00:00,Ligue 1,France,2022,Auxerre,Lyon,2,1,1
+6264,2023-02-19T14:00:00+00:00,Ligue 1,France,2022,Lorient,Ajaccio,3,0,1
+6265,2023-02-18T16:00:00+00:00,Ligue 1,France,2022,Nice,Reims,0,0,0
+6266,2023-02-19T12:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Lille,4,3,1
+6267,2023-02-19T16:05:00+00:00,Ligue 1,France,2022,Lens,Nantes,3,1,1
+6268,2023-02-18T20:00:00+00:00,Ligue 1,France,2022,Strasbourg,Angers,2,1,1
+6269,2023-02-19T14:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Monaco,1,2,2
+6270,2023-02-19T14:00:00+00:00,Ligue 1,France,2022,Rennes,Clermont Foot,2,0,1
+6271,2023-02-19T19:45:00+00:00,Ligue 1,France,2022,Toulouse,Marseille,2,3,2
+6272,2023-02-19T14:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Montpellier,0,1,2
+6273,2023-02-26T14:00:00+00:00,Ligue 1,France,2022,Ajaccio,Estac Troyes,2,1,1
+6274,2023-02-26T16:05:00+00:00,Ligue 1,France,2022,Monaco,Nice,0,3,2
+6275,2023-02-25T16:00:00+00:00,Ligue 1,France,2022,Angers,Lyon,1,3,2
+6276,2023-02-26T14:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Strasbourg,1,1,0
+6277,2023-02-26T12:00:00+00:00,Ligue 1,France,2022,Lorient,Auxerre,0,1,2
+6278,2023-02-26T14:00:00+00:00,Ligue 1,France,2022,Nantes,Rennes,0,1,2
+6279,2023-02-24T20:00:00+00:00,Ligue 1,France,2022,Lille,Stade Brestois 29,2,1,1
+6280,2023-02-25T20:00:00+00:00,Ligue 1,France,2022,Montpellier,Lens,1,1,0
+6281,2023-02-26T19:45:00+00:00,Ligue 1,France,2022,Marseille,Paris Saint Germain,0,3,2
+6282,2023-02-26T14:00:00+00:00,Ligue 1,France,2022,Reims,Toulouse,3,0,1
+6283,2023-03-05T14:00:00+00:00,Ligue 1,France,2022,Montpellier,Angers,5,0,1
+6284,2023-03-03T20:00:00+00:00,Ligue 1,France,2022,Nice,Auxerre,1,1,0
+6285,2023-03-05T16:05:00+00:00,Ligue 1,France,2022,Lyon,Lorient,0,0,0
+6286,2023-03-04T20:00:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Nantes,4,2,1
+6287,2023-03-04T16:00:00+00:00,Ligue 1,France,2022,Lens,Lille,1,1,0
+6288,2023-03-05T14:00:00+00:00,Ligue 1,France,2022,Strasbourg,Stade Brestois 29,0,1,2
+6289,2023-03-05T19:45:00+00:00,Ligue 1,France,2022,Rennes,Marseille,0,1,2
+6290,2023-03-05T14:00:00+00:00,Ligue 1,France,2022,Reims,Ajaccio,1,0,1
+6291,2023-03-05T14:00:00+00:00,Ligue 1,France,2022,Toulouse,Clermont Foot,0,1,2
+6292,2023-03-05T12:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Monaco,2,2,0
+6293,2023-03-12T14:00:00+00:00,Ligue 1,France,2022,Ajaccio,Montpellier,0,1,2
+6294,2023-03-11T16:00:00+00:00,Ligue 1,France,2022,Auxerre,Rennes,0,0,0
+6295,2023-03-12T16:05:00+00:00,Ligue 1,France,2022,Monaco,Reims,0,1,2
+6296,2023-03-12T14:00:00+00:00,Ligue 1,France,2022,Angers,Toulouse,0,2,2
+6297,2023-03-12T12:00:00+00:00,Ligue 1,France,2022,Clermont Foot,Lens,0,4,2
+6298,2023-03-12T14:00:00+00:00,Ligue 1,France,2022,Lorient,Estac Troyes,2,0,1
+6299,2023-03-12T14:00:00+00:00,Ligue 1,France,2022,Nantes,Nice,2,2,0
+6300,2023-03-10T20:00:00+00:00,Ligue 1,France,2022,Lille,Lyon,3,3,0
+6301,2023-03-12T19:45:00+00:00,Ligue 1,France,2022,Marseille,Strasbourg,2,2,0
+6302,2023-03-11T20:00:00+00:00,Ligue 1,France,2022,Stade Brestois 29,Paris Saint Germain,1,2,2
+6303,2023-03-19T12:00:00+00:00,Ligue 1,France,2022,Ajaccio,Monaco,0,2,2
+6304,2023-03-19T14:00:00+00:00,Ligue 1,France,2022,Montpellier,Clermont Foot,2,1,1
+6305,2023-03-19T14:00:00+00:00,Ligue 1,France,2022,Nice,Lorient,1,1,0
+6306,2023-03-17T20:00:00+00:00,Ligue 1,France,2022,Lyon,Nantes,1,1,0
+6307,2023-03-19T16:05:00+00:00,Ligue 1,France,2022,Paris Saint Germain,Rennes,0,2,2
+6308,2023-03-18T20:00:00+00:00,Ligue 1,France,2022,Lens,Angers,3,0,1
+6309,2023-03-19T14:00:00+00:00,Ligue 1,France,2022,Strasbourg,Auxerre,2,0,1
+6310,2023-03-19T19:45:00+00:00,Ligue 1,France,2022,Reims,Marseille,1,2,2
+6311,2023-03-18T16:00:00+00:00,Ligue 1,France,2022,Toulouse,Lille,0,2,2
+6312,2023-03-19T14:00:00+00:00,Ligue 1,France,2022,Estac Troyes,Stade Brestois 29,2,2,0
+6313,2023-04-01T16:00:00+01:00,Ligue 1,France,2022,Auxerre,Estac Troyes,1,0,1
+6314,2023-04-02T16:05:00+01:00,Ligue 1,France,2022,Monaco,Strasbourg,4,3,1
+6315,2023-04-02T14:00:00+01:00,Ligue 1,France,2022,Angers,Nice,1,1,0
+6316,2023-04-02T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Ajaccio,2,1,1
+6317,2023-04-02T14:00:00+01:00,Ligue 1,France,2022,Nantes,Reims,0,3,2
+6318,2023-04-02T12:00:00+01:00,Ligue 1,France,2022,Lille,Lorient,3,1,1
+6319,2023-03-31T20:00:00+01:00,Ligue 1,France,2022,Marseille,Montpellier,1,1,0
+6320,2023-04-02T19:45:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Lyon,0,1,2
+6321,2023-04-02T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Toulouse,3,1,1
+6322,2023-04-01T20:00:00+01:00,Ligue 1,France,2022,Rennes,Lens,0,1,2
+6323,2023-04-09T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Auxerre,0,3,2
+6324,2023-04-08T16:00:00+01:00,Ligue 1,France,2022,Angers,Lille,1,0,1
+6325,2023-04-09T19:45:00+01:00,Ligue 1,France,2022,Lorient,Marseille,0,0,0
+6326,2023-04-09T16:05:00+01:00,Ligue 1,France,2022,Nantes,Monaco,2,2,0
+6327,2023-04-09T14:00:00+01:00,Ligue 1,France,2022,Montpellier,Toulouse,1,2,2
+6328,2023-04-08T20:00:00+01:00,Ligue 1,France,2022,Nice,Paris Saint Germain,0,2,2
+6329,2023-04-09T12:00:00+01:00,Ligue 1,France,2022,Lyon,Rennes,3,1,1
+6330,2023-04-07T20:00:00+01:00,Ligue 1,France,2022,Lens,Strasbourg,2,1,1
+6331,2023-04-09T14:00:00+01:00,Ligue 1,France,2022,Reims,Stade Brestois 29,1,1,0
+6332,2023-04-09T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Clermont Foot,0,2,2
+6333,2023-04-16T14:00:00+01:00,Ligue 1,France,2022,Auxerre,Nantes,2,1,1
+6334,2023-04-16T16:05:00+01:00,Ligue 1,France,2022,Monaco,Lorient,3,1,1
+6335,2023-04-16T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Angers,2,1,1
+6336,2023-04-16T12:00:00+01:00,Ligue 1,France,2022,Lille,Montpellier,2,1,1
+6337,2023-04-16T19:45:00+01:00,Ligue 1,France,2022,Marseille,Estac Troyes,3,1,1
+6338,2023-04-15T20:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Lens,3,1,1
+6339,2023-04-16T14:00:00+01:00,Ligue 1,France,2022,Strasbourg,Ajaccio,3,1,1
+6340,2023-04-16T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Nice,1,0,1
+6341,2023-04-15T16:00:00+01:00,Ligue 1,France,2022,Rennes,Reims,3,0,1
+6342,2023-04-14T20:00:00+01:00,Ligue 1,France,2022,Toulouse,Lyon,1,2,2
+6343,2023-04-23T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Stade Brestois 29,0,0,0
+6344,2023-04-22T16:00:00+01:00,Ligue 1,France,2022,Auxerre,Lille,1,1,0
+6345,2023-04-21T20:00:00+01:00,Ligue 1,France,2022,Angers,Paris Saint Germain,1,2,2
+6346,2023-04-23T14:00:00+01:00,Ligue 1,France,2022,Lorient,Toulouse,0,1,2
+6347,2023-04-23T14:00:00+01:00,Ligue 1,France,2022,Nantes,Estac Troyes,2,2,0
+6348,2023-04-23T16:05:00+01:00,Ligue 1,France,2022,Montpellier,Rennes,1,0,1
+6349,2023-04-23T14:00:00+01:00,Ligue 1,France,2022,Nice,Clermont Foot,1,2,2
+6350,2023-04-23T19:45:00+01:00,Ligue 1,France,2022,Lyon,Marseille,1,2,2
+6351,2023-04-22T20:00:00+01:00,Ligue 1,France,2022,Lens,Monaco,3,0,1
+6352,2023-04-23T12:00:00+01:00,Ligue 1,France,2022,Reims,Strasbourg,0,2,2
+6353,2023-04-30T12:00:00+01:00,Ligue 1,France,2022,Monaco,Montpellier,0,4,2
+6354,2023-04-30T14:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Reims,1,0,1
+6355,2023-04-29T16:00:00+01:00,Ligue 1,France,2022,Lille,Ajaccio,3,0,1
+6356,2023-04-30T19:45:00+01:00,Ligue 1,France,2022,Marseille,Auxerre,2,1,1
+6357,2023-04-30T16:05:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Lorient,1,3,2
+6358,2023-04-28T20:00:00+01:00,Ligue 1,France,2022,Strasbourg,Lyon,1,2,2
+6359,2023-05-03T20:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Nantes,2,0,1
+6360,2023-04-30T14:00:00+01:00,Ligue 1,France,2022,Rennes,Angers,4,2,1
+6361,2023-05-02T20:00:00+01:00,Ligue 1,France,2022,Toulouse,Lens,0,1,2
+6362,2023-04-30T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Nice,0,1,2
+6363,2023-05-07T14:00:00+01:00,Ligue 1,France,2022,Ajaccio,Toulouse,0,0,0
+6364,2023-05-07T14:00:00+01:00,Ligue 1,France,2022,Auxerre,Clermont Foot,1,1,0
+6365,2023-05-07T12:00:00+01:00,Ligue 1,France,2022,Angers,Monaco,1,2,2
+6366,2023-05-07T14:00:00+01:00,Ligue 1,France,2022,Lorient,Stade Brestois 29,2,1,1
+6367,2023-05-07T14:00:00+01:00,Ligue 1,France,2022,Nantes,Strasbourg,0,2,2
+6368,2023-05-06T16:00:00+01:00,Ligue 1,France,2022,Nice,Rennes,2,1,1
+6369,2023-05-07T16:05:00+01:00,Ligue 1,France,2022,Lyon,Montpellier,5,4,1
+6370,2023-05-06T20:00:00+01:00,Ligue 1,France,2022,Lens,Marseille,2,1,1
+6371,2023-05-06T18:00:00+01:00,Ligue 1,France,2022,Reims,Lille,1,0,1
+6372,2023-05-07T19:45:00+01:00,Ligue 1,France,2022,Estac Troyes,Paris Saint Germain,1,3,2
+6373,2023-05-14T16:05:00+01:00,Ligue 1,France,2022,Monaco,Lille,0,0,0
+6374,2023-05-14T12:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Lyon,2,1,1
+6375,2023-05-14T14:00:00+01:00,Ligue 1,France,2022,Montpellier,Lorient,1,1,0
+6376,2023-05-14T19:45:00+01:00,Ligue 1,France,2022,Marseille,Angers,3,1,1
+6377,2023-05-13T20:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Ajaccio,5,0,1
+6378,2023-05-12T20:00:00+01:00,Ligue 1,France,2022,Lens,Reims,2,1,1
+6379,2023-05-13T16:00:00+01:00,Ligue 1,France,2022,Strasbourg,Nice,2,0,1
+6380,2023-05-14T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Auxerre,1,0,1
+6381,2023-05-14T14:00:00+01:00,Ligue 1,France,2022,Rennes,Estac Troyes,4,0,1
+6382,2023-05-14T15:30:00+01:00,Ligue 1,France,2022,Toulouse,Nantes,0,0,0
+6383,2023-05-21T12:00:00+01:00,Ligue 1,France,2022,Ajaccio,Rennes,0,5,2
+6384,2023-05-21T19:45:00+01:00,Ligue 1,France,2022,Auxerre,Paris Saint Germain,1,2,2
+6385,2023-05-21T16:05:00+01:00,Ligue 1,France,2022,Lorient,Lens,1,3,2
+6386,2023-05-20T16:00:00+01:00,Ligue 1,France,2022,Nantes,Montpellier,0,3,2
+6387,2023-05-20T20:00:00+01:00,Ligue 1,France,2022,Lille,Marseille,2,1,1
+6388,2023-05-21T14:00:00+01:00,Ligue 1,France,2022,Nice,Toulouse,0,0,0
+6389,2023-05-19T20:00:00+01:00,Ligue 1,France,2022,Lyon,Monaco,3,1,1
+6390,2023-05-21T14:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Clermont Foot,2,1,1
+6391,2023-05-21T14:00:00+01:00,Ligue 1,France,2022,Reims,Angers,2,2,0
+6392,2023-05-21T14:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Strasbourg,1,1,0
+6393,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Angers,Estac Troyes,2,1,1
+6394,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Clermont Foot,Lorient,2,0,1
+6395,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Lille,Nantes,2,1,1
+6396,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Montpellier,Nice,2,3,2
+6397,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Lyon,Reims,3,0,1
+6398,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Marseille,Stade Brestois 29,1,2,2
+6399,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Lens,Ajaccio,3,0,1
+6400,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Strasbourg,Paris Saint Germain,1,1,0
+6401,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Rennes,Monaco,2,0,1
+6402,2023-05-27T20:00:00+01:00,Ligue 1,France,2022,Toulouse,Auxerre,1,1,0
+6403,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Ajaccio,Marseille,1,0,1
+6404,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Auxerre,Lens,1,3,2
+6405,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Monaco,Toulouse,1,2,2
+6406,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Lorient,Strasbourg,2,1,1
+6407,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Nantes,Angers,1,0,1
+6408,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Nice,Lyon,3,1,1
+6409,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Paris Saint Germain,Clermont Foot,2,3,2
+6410,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Stade Brestois 29,Rennes,1,2,2
+6411,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Reims,Montpellier,1,3,2
+6412,2023-06-03T20:00:00+01:00,Ligue 1,France,2022,Estac Troyes,Lille,1,1,0

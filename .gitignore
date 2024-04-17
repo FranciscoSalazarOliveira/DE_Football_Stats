@@ -1,0 +1,6 @@
+variables.tf
+outros/
+terraform/*key*
+*key*
+terraform/.terraform/
+python/cloud_storage_to_bigquery_meu.ipynb
