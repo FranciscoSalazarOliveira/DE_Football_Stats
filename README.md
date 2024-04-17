@@ -3,11 +3,8 @@
 
 # Introduction
 The Project consists in the analysis of football/soccer results of the main european leagues in seasons 2020/2021 and 2021/2022.
-Starting from a source of CSV files with match results by season, the final goal is calculating some statistics regarding theses matches, as well as building league tables bases on the match data.
+Starting from a source of CSV files with match results by season, the final goal is calculating some statistics regarding theses matches, as well as building league tables based on match results.
 
-The data used (in CSV files) comes from a paid API that I am using for another project, and therefore the code to retrieve the code from the API is not included in this project.
-However, in order to allow the reproducibility, I include in this repo the 2 CSV files used in the project.
-The format of the CSV files is quite simple, and therefore it would be easy to get data for more seasons/leagues from other sources if needed.
 
 
 # Tools/Technologies used
@@ -46,5 +43,8 @@ The main steps followed were:
 The repo includes all code used and the source CSVs, and therefore should allow for easy reproducibility.
 - terraform folder includes the files used for creating the necessary infrastructure in GCP. Variables needed can be checked in file ``variables-example.tf``
 - the CSV files included are ready to be placed in a bucket in Cloud Storage
-- included is also the the code used to read these files and load the data into BigQuery (``python/cloud_storage_to_bigquery.ipynb``)
-- dbt model used to create league tables, based on match results, is included in ``dbt/models/league_tables.sql``
+- included is also the the python code used to read these files and load the data into BigQuery (``python/cloud_storage_to_bigquery.ipynb``)
+- the dbt model used to create league tables, based on match results, is included in ``dbt/models/league_tables.sql``
+
+
+- The data used in this project comes from a paid API, and therefore the code to retrieve the code from the API is not included in this repo. However, in order to allow reproducibility, in this repo are included 2 CSV files with the needed data to use in the project. The format of the CSV files is quite simple, and therefore it would be easy to get data for more seasons/leagues from other sources if needed.
